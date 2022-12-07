@@ -6,13 +6,22 @@ from concurrent.futures import ThreadPoolExecutor
 import pandas as pd
 from scholarly import scholarly
 from tqdm import tqdm
+import requests
 
+requests.get('https://scholar.google.com/',proxies={
+   'http': 'http://127.0.0.1:7890',
+   'https': 'https://127.0.0.1:7890',
+})
+requests.get('https://scholar.google.com/',)
 # %%
 
 author_name = 'Jian yang'
 institution = 'westlake'
 
-
+from scholarly import ProxyGenerator
+pg = ProxyGenerator()
+pg.FreeProxies()
+scholarly.use_proxy(pg)
 # Retrieve the author's data, fill-in, and print
 # Get an iterator for the author results
 # %%
@@ -35,7 +44,7 @@ def search_author(name=author_name, email_domain='westlake', affiliation='westla
     return None
 
 
-author = search_author('jian yang')
+author = search_author('jian ')
 
 
 def crawl_filled_author(name_list, max_workers=40, ):
