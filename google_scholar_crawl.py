@@ -4,29 +4,21 @@ import time
 from concurrent.futures import ThreadPoolExecutor
 
 import pandas as pd
-from scholarly import scholarly
 from tqdm import tqdm
+
+from scholarly import scholarly,ProxyGenerator
 import requests
+import logging
+from selenium import webdriver
 
-requests.get('https://scholar.google.com/',proxies={
-   'http': 'http://127.0.0.1:7890',
-   'https': 'https://127.0.0.1:7890',
-})
-requests.get('https://scholar.google.com/',)
-# %%
+from selenium.webdriver.chrome.options import Options
+chrome_options = Options()
+chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
+driver = webdriver.Chrome(options=chrome_options)
+scholarly.set_driver(driver)
 
-author_name = 'Jian yang'
-institution = 'westlake'
-
-from scholarly import ProxyGenerator
-pg = ProxyGenerator()
-pg.FreeProxies()
-scholarly.use_proxy(pg)
-# Retrieve the author's data, fill-in, and print
-# Get an iterator for the author results
-# %%
-
-def search_author(name=author_name, email_domain='westlake', affiliation='westlake'):
+#%%
+def search_author(name, email_domain='westlake', affiliation='westlake'):
     print(f'=======start searching {name}======')
     search_query = scholarly.search_author(name)
     for i, author in enumerate(search_query):
@@ -44,7 +36,7 @@ def search_author(name=author_name, email_domain='westlake', affiliation='westla
     return None
 
 
-author = search_author('jian ')
+# author = search_author('jian ')
 
 
 def crawl_filled_author(name_list, max_workers=40, ):
