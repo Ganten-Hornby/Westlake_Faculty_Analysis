@@ -286,7 +286,7 @@ class PublicationParser(object):
             if soup.find('a', class_='gsc_oci_title_link'):
                 publication['pub_url'] = soup.find(
                     'a', class_='gsc_oci_title_link')['href']
-            for item in soup.find_all('div', class_='gs_scl'):
+            for item in soup.find_all('div', class_='gs_scl')[1:]:
                 key = item.find(class_='gsc_oci_field').text.strip().lower()
                 val = item.find(class_='gsc_oci_value')
                 if key == 'authors' or key == 'inventors':

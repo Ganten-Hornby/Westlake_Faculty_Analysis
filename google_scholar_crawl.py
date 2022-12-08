@@ -13,15 +13,17 @@ from selenium import webdriver
 
 from selenium.webdriver.chrome.options import Options
 chrome_options = Options()
+# chrome_options.headless = True
 chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
 driver = webdriver.Chrome(options=chrome_options)
 scholarly.set_driver(driver)
 
 #%%
-def search_author(name, email_domain='westlake', affiliation='westlake'):
+def search_author(name, email_domain='westlake', affiliation='westlake',):
     print(f'=======start searching {name}======')
     search_query = scholarly.search_author(name)
     for i, author in enumerate(search_query):
+        print(i)
         if (affiliation in author['affiliation'].lower()) or (email_domain in author['email_domain'].lower()):
             print(f'!!!! find {name}')
             return scholarly.fill(author)
@@ -34,12 +36,33 @@ def search_author(name, email_domain='westlake', affiliation='westlake'):
             break
     print(f'-------------Not find {name}')
     return None
+def fill_author_container_publication(author_container):
+    if author_container is not None:
+        for pub in tqdm(author_container['publications'][:100]):
+            try:
+                pub.update(scholarly.fill(pub,))
+                # print(pub['bib']['title'],'Successful')
+            except:
+                pass
+
 
 
 # author = search_author('jian ')
 
+def crawl_author_list_by(name_list,fill_publication=False,email_domain='westlake', affiliation='westlake',):
+    begin = time.time()
+    info_dict={}
+    for name in tqdm(name_list):
+        author_container=search_author(name,email_domain,affiliation)
+        if fill_publication:
+            fill_author_container_publication(author_container)
+        info_dict[name]=author_container
+    print(f'{time.time() - begin:.2f}s')
+    return info_dict
 
-def crawl_filled_author(name_list, max_workers=40, ):
+
+
+def crawl_author_list_by_multi_thread(name_list, max_workers=40, ):
     begin = time.time()
     executor = ThreadPoolExecutor(max_workers=max_workers)
     for author_info, author_name in tqdm(zip(executor.map(search_author, name_list), name_list)):
@@ -77,7 +100,7 @@ if __name__ == '__main__':
     nan_mask = westlake_pi_csv_table['english_name'].isna()
     name_list += westlake_pi_csv_table.loc[~nan_mask]['english_name'].str.split(',').str[0].to_list()
     name_list = list(set(name_list))
-    info_dict = crawl_filled_author()
+    info_dict = crawl_author_list_by_multi_thread(name_list)
     with open('result/Westlake_pi_google_scholar_info.json', 'w') as f:
         json.dump(info_dict, f)
 

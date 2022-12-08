@@ -110,12 +110,15 @@ class Navigator(object, metaclass=Singleton):
         timeout = self._TIMEOUT
         while tries < self._max_retries:
             try:
+                if hasattr(self,'driver'):
+                    # self.logger.critical("Using !!!!!webdriver")
+                    self.driver.get(pagerequest)
+                    w = random.uniform(0, 1)
+                    time.sleep(w)
+                    # print(self.driver.title)
+                    return self.driver.page_source
                 w = random.uniform(1, 2)
                 time.sleep(w)
-                if hasattr(self,'driver'):
-                    self.logger.critical("Using !!!!!webdriver")
-                    self.driver.get(pagerequest)
-                    return self.driver.page_source
                 resp = session.get(pagerequest, timeout=timeout)
                 self.logger.debug("Session proxy config is {}".format(session.proxies))
 
