@@ -10,7 +10,7 @@ from scholarly import scholarly,ProxyGenerator
 import requests
 import logging
 from selenium import webdriver
-
+import logging
 from selenium.webdriver.chrome.options import Options
 chrome_options = Options()
 # chrome_options.headless = True
@@ -30,8 +30,8 @@ def search_author(name, email_domain='westlake', affiliation='westlake',):
         if i >= 10:
             search_query = scholarly.search_author(name + f' {affiliation}')
             for author in search_query:
-                if ('westlake' in author['affiliation'].lower()) or ('westlake' in author['email_domain'].lower()):
-                    print(f'!!!! find {name} by adding westlake suffix******************')
+                if (affiliation in author['affiliation'].lower()) or (email_domain in author['email_domain'].lower()):
+                    print(f'!!!! find {name} by adding {affiliation} suffix******************')
                     return scholarly.fill(author)
             break
     print(f'-------------Not find {name}')
@@ -49,17 +49,41 @@ def fill_author_container_publication(author_container):
 
 # author = search_author('jian ')
 
-def crawl_author_list_by(name_list,fill_publication=False,email_domain='westlake', affiliation='westlake',):
+def crawl_author_list_by(name_list,fill_publication=False,email_domain='westlake', affiliation='westlake',enhance_search=False):
     begin = time.time()
     info_dict={}
+    i=0
     for name in tqdm(name_list):
         author_container=search_author(name,email_domain,affiliation)
-        if fill_publication:
-            fill_author_container_publication(author_container)
+        if author_container is None:
+            if enhance_search:
+                author_container=enhance_search_author(name,email_domain,affiliation)
+        if author_container is not None:
+            i+=1
+            if fill_publication:
+                fill_author_container_publication(author_container)
         info_dict[name]=author_container
+
+
     print(f'{time.time() - begin:.2f}s')
+    print(f'among {len(name_list)}, {i/len(name_list):.2%} has google scholar page')
     return info_dict
 
+
+def enhance_search_author(name, domain, affiliation):
+    name_parts = name.split()
+    first_name = name_parts[0]
+    if len(name_parts) >2:
+        last_name = name_parts[-1]
+        author_container = search_author(first_name + ' ' + last_name, domain, affiliation)
+        if author_container is not None:
+            logging.critical(f'Enhancing searched {first_name +" " + last_name}')
+            return author_container
+        else:
+            return None
+    # author_container=search_author(first_name, domain, affiliation)
+    # logging.critical(f'Enhancing searched {first_name}')
+    # return author_container
 
 
 def crawl_author_list_by_multi_thread(name_list, max_workers=40, ):

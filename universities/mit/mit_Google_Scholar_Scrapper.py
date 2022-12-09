@@ -11,16 +11,14 @@ from collections import defaultdict
 from pathlib import Path
 from tqdm import tqdm, trange
 from google_scholar_crawl import search_author, fill_author_container_publication,crawl_author_list_by
+EMAIL_DOMAIN=AFFILIATION='mit'
 
 RESULT_PATH = Path.cwd().parents[1] / 'result/mit'
 RESULT_PATH.exists()
 df=pd.read_csv(RESULT_PATH/'mit_faculty_degrees_info.csv', encoding='utf8')
 name_list=df.name.to_list()
-info_dic=crawl_author_list_by(name_list,email_domain='mit',affiliation='mit',fill_publication=False)
+info_dic=crawl_author_list_by(name_list, email_domain=EMAIL_DOMAIN, affiliation=AFFILIATION, fill_publication=False,enhance_search=True)
+
 
 with open(RESULT_PATH/'mit_pi_google_scholar_info.json', 'w') as f:
     json.dump(info_dic, f)
-
-
-# len(a['publications'])
-# len(b['publications'])
