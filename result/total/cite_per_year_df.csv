@@ -1,0 +1,5343 @@
+,school_name,faculty_name,year,cite
+0,caltech,Ralph Adolphs,1998,224
+1,caltech,Ralph Adolphs,1999,247
+2,caltech,Ralph Adolphs,2000,427
+3,caltech,Ralph Adolphs,2001,629
+4,caltech,Ralph Adolphs,2002,1091
+5,caltech,Ralph Adolphs,2003,1081
+6,caltech,Ralph Adolphs,2004,1413
+7,caltech,Ralph Adolphs,2005,1681
+8,caltech,Ralph Adolphs,2006,2096
+9,caltech,Ralph Adolphs,2007,2234
+10,caltech,Ralph Adolphs,2008,2910
+11,caltech,Ralph Adolphs,2009,2778
+12,caltech,Ralph Adolphs,2010,2939
+13,caltech,Ralph Adolphs,2011,3625
+14,caltech,Ralph Adolphs,2012,4550
+15,caltech,Ralph Adolphs,2013,4298
+16,caltech,Ralph Adolphs,2014,4364
+17,caltech,Ralph Adolphs,2015,4453
+18,caltech,Ralph Adolphs,2016,4515
+19,caltech,Ralph Adolphs,2017,4593
+20,caltech,Ralph Adolphs,2018,4433
+21,caltech,Ralph Adolphs,2019,4815
+22,caltech,Ralph Adolphs,2020,4812
+23,caltech,Ralph Adolphs,2021,5154
+24,caltech,Ralph Adolphs,2022,4730
+25,caltech,Richard A. Andersen,1986,155
+26,caltech,Richard A. Andersen,1987,118
+27,caltech,Richard A. Andersen,1988,152
+28,caltech,Richard A. Andersen,1989,198
+29,caltech,Richard A. Andersen,1990,423
+30,caltech,Richard A. Andersen,1991,331
+31,caltech,Richard A. Andersen,1992,614
+32,caltech,Richard A. Andersen,1993,403
+33,caltech,Richard A. Andersen,1994,678
+34,caltech,Richard A. Andersen,1995,464
+35,caltech,Richard A. Andersen,1996,625
+36,caltech,Richard A. Andersen,1997,800
+37,caltech,Richard A. Andersen,1998,868
+38,caltech,Richard A. Andersen,1999,1039
+39,caltech,Richard A. Andersen,2000,976
+40,caltech,Richard A. Andersen,2001,1263
+41,caltech,Richard A. Andersen,2002,1252
+42,caltech,Richard A. Andersen,2003,1366
+43,caltech,Richard A. Andersen,2004,1819
+44,caltech,Richard A. Andersen,2005,1354
+45,caltech,Richard A. Andersen,2006,1574
+46,caltech,Richard A. Andersen,2007,1920
+47,caltech,Richard A. Andersen,2008,1792
+48,caltech,Richard A. Andersen,2009,1968
+49,caltech,Richard A. Andersen,2010,2019
+50,caltech,Richard A. Andersen,2011,2119
+51,caltech,Richard A. Andersen,2012,1938
+52,caltech,Richard A. Andersen,2013,2134
+53,caltech,Richard A. Andersen,2014,1901
+54,caltech,Richard A. Andersen,2015,1833
+55,caltech,Richard A. Andersen,2016,1694
+56,caltech,Richard A. Andersen,2017,1573
+57,caltech,Richard A. Andersen,2018,1747
+58,caltech,Richard A. Andersen,2019,1600
+59,caltech,Richard A. Andersen,2020,1442
+60,caltech,Richard A. Andersen,2021,1580
+61,caltech,Richard A. Andersen,2022,1454
+62,caltech,David J. Anderson,1990,247
+63,caltech,David J. Anderson,1991,306
+64,caltech,David J. Anderson,1992,414
+65,caltech,David J. Anderson,1993,590
+66,caltech,David J. Anderson,1994,601
+67,caltech,David J. Anderson,1995,917
+68,caltech,David J. Anderson,1996,1051
+69,caltech,David J. Anderson,1997,1495
+70,caltech,David J. Anderson,1998,1448
+71,caltech,David J. Anderson,1999,1684
+72,caltech,David J. Anderson,2000,1850
+73,caltech,David J. Anderson,2001,1900
+74,caltech,David J. Anderson,2002,2276
+75,caltech,David J. Anderson,2003,2477
+76,caltech,David J. Anderson,2004,2703
+77,caltech,David J. Anderson,2005,2670
+78,caltech,David J. Anderson,2006,2774
+79,caltech,David J. Anderson,2007,2656
+80,caltech,David J. Anderson,2008,2733
+81,caltech,David J. Anderson,2009,2577
+82,caltech,David J. Anderson,2010,2699
+83,caltech,David J. Anderson,2011,2810
+84,caltech,David J. Anderson,2012,2965
+85,caltech,David J. Anderson,2013,2964
+86,caltech,David J. Anderson,2014,3024
+87,caltech,David J. Anderson,2015,3069
+88,caltech,David J. Anderson,2016,2937
+89,caltech,David J. Anderson,2017,2805
+90,caltech,David J. Anderson,2018,2882
+91,caltech,David J. Anderson,2019,2828
+92,caltech,David J. Anderson,2020,2980
+93,caltech,David J. Anderson,2021,3371
+94,caltech,David J. Anderson,2022,3106
+95,caltech,Alexei Aravin,2004,137
+96,caltech,Alexei Aravin,2005,315
+97,caltech,Alexei Aravin,2006,406
+98,caltech,Alexei Aravin,2007,753
+99,caltech,Alexei Aravin,2008,1106
+100,caltech,Alexei Aravin,2009,1523
+101,caltech,Alexei Aravin,2010,1627
+102,caltech,Alexei Aravin,2011,1786
+103,caltech,Alexei Aravin,2012,1958
+104,caltech,Alexei Aravin,2013,1968
+105,caltech,Alexei Aravin,2014,2141
+106,caltech,Alexei Aravin,2015,2031
+107,caltech,Alexei Aravin,2016,1779
+108,caltech,Alexei Aravin,2017,1785
+109,caltech,Alexei Aravin,2018,1787
+110,caltech,Alexei Aravin,2019,1668
+111,caltech,Alexei Aravin,2020,1606
+112,caltech,Alexei Aravin,2021,1842
+113,caltech,Alexei Aravin,2022,1547
+114,caltech,Frances H. Arnold,1993,170
+115,caltech,Frances H. Arnold,1994,218
+116,caltech,Frances H. Arnold,1995,226
+117,caltech,Frances H. Arnold,1996,306
+118,caltech,Frances H. Arnold,1997,368
+119,caltech,Frances H. Arnold,1998,478
+120,caltech,Frances H. Arnold,1999,675
+121,caltech,Frances H. Arnold,2000,899
+122,caltech,Frances H. Arnold,2001,1343
+123,caltech,Frances H. Arnold,2002,1384
+124,caltech,Frances H. Arnold,2003,1442
+125,caltech,Frances H. Arnold,2004,1683
+126,caltech,Frances H. Arnold,2005,1745
+127,caltech,Frances H. Arnold,2006,2307
+128,caltech,Frances H. Arnold,2007,2189
+129,caltech,Frances H. Arnold,2008,2344
+130,caltech,Frances H. Arnold,2009,2360
+131,caltech,Frances H. Arnold,2010,2722
+132,caltech,Frances H. Arnold,2011,2766
+133,caltech,Frances H. Arnold,2012,2964
+134,caltech,Frances H. Arnold,2013,3110
+135,caltech,Frances H. Arnold,2014,3122
+136,caltech,Frances H. Arnold,2015,3031
+137,caltech,Frances H. Arnold,2016,3288
+138,caltech,Frances H. Arnold,2017,3079
+139,caltech,Frances H. Arnold,2018,3629
+140,caltech,Frances H. Arnold,2019,4134
+141,caltech,Frances H. Arnold,2020,4513
+142,caltech,Frances H. Arnold,2021,4907
+143,caltech,Frances H. Arnold,2022,4466
+144,caltech,Pamela J. Bjorkman,1988,243
+145,caltech,Pamela J. Bjorkman,1989,726
+146,caltech,Pamela J. Bjorkman,1990,883
+147,caltech,Pamela J. Bjorkman,1991,975
+148,caltech,Pamela J. Bjorkman,1992,1003
+149,caltech,Pamela J. Bjorkman,1993,1082
+150,caltech,Pamela J. Bjorkman,1994,869
+151,caltech,Pamela J. Bjorkman,1995,819
+152,caltech,Pamela J. Bjorkman,1996,810
+153,caltech,Pamela J. Bjorkman,1997,697
+154,caltech,Pamela J. Bjorkman,1998,765
+155,caltech,Pamela J. Bjorkman,1999,848
+156,caltech,Pamela J. Bjorkman,2000,886
+157,caltech,Pamela J. Bjorkman,2001,831
+158,caltech,Pamela J. Bjorkman,2002,964
+159,caltech,Pamela J. Bjorkman,2003,829
+160,caltech,Pamela J. Bjorkman,2004,810
+161,caltech,Pamela J. Bjorkman,2005,914
+162,caltech,Pamela J. Bjorkman,2006,990
+163,caltech,Pamela J. Bjorkman,2007,987
+164,caltech,Pamela J. Bjorkman,2008,970
+165,caltech,Pamela J. Bjorkman,2009,1012
+166,caltech,Pamela J. Bjorkman,2010,993
+167,caltech,Pamela J. Bjorkman,2011,1065
+168,caltech,Pamela J. Bjorkman,2012,1407
+169,caltech,Pamela J. Bjorkman,2013,1493
+170,caltech,Pamela J. Bjorkman,2014,1627
+171,caltech,Pamela J. Bjorkman,2015,1768
+172,caltech,Pamela J. Bjorkman,2016,1962
+173,caltech,Pamela J. Bjorkman,2017,2078
+174,caltech,Pamela J. Bjorkman,2018,2205
+175,caltech,Pamela J. Bjorkman,2019,2274
+176,caltech,Pamela J. Bjorkman,2020,2794
+177,caltech,Pamela J. Bjorkman,2021,6082
+178,caltech,Pamela J. Bjorkman,2022,5245
+179,caltech,Marianne Bronner,1988,183
+180,caltech,Marianne Bronner,1989,186
+181,caltech,Marianne Bronner,1990,317
+182,caltech,Marianne Bronner,1991,349
+183,caltech,Marianne Bronner,1992,387
+184,caltech,Marianne Bronner,1993,583
+185,caltech,Marianne Bronner,1994,338
+186,caltech,Marianne Bronner,1995,483
+187,caltech,Marianne Bronner,1996,580
+188,caltech,Marianne Bronner,1997,822
+189,caltech,Marianne Bronner,1998,800
+190,caltech,Marianne Bronner,1999,711
+191,caltech,Marianne Bronner,2000,840
+192,caltech,Marianne Bronner,2001,812
+193,caltech,Marianne Bronner,2002,920
+194,caltech,Marianne Bronner,2003,978
+195,caltech,Marianne Bronner,2004,1056
+196,caltech,Marianne Bronner,2005,1312
+197,caltech,Marianne Bronner,2006,1186
+198,caltech,Marianne Bronner,2007,1107
+199,caltech,Marianne Bronner,2008,1434
+200,caltech,Marianne Bronner,2009,1406
+201,caltech,Marianne Bronner,2010,1737
+202,caltech,Marianne Bronner,2011,1559
+203,caltech,Marianne Bronner,2012,2028
+204,caltech,Marianne Bronner,2013,1969
+205,caltech,Marianne Bronner,2014,1879
+206,caltech,Marianne Bronner,2015,1993
+207,caltech,Marianne Bronner,2016,1730
+208,caltech,Marianne Bronner,2017,1983
+209,caltech,Marianne Bronner,2018,2116
+210,caltech,Marianne Bronner,2019,2067
+211,caltech,Marianne Bronner,2020,2370
+212,caltech,Marianne Bronner,2021,2792
+213,caltech,Marianne Bronner,2022,2210
+214,caltech,Long Cai,2006,39
+215,caltech,Long Cai,2007,83
+216,caltech,Long Cai,2008,111
+217,caltech,Long Cai,2009,173
+218,caltech,Long Cai,2010,206
+219,caltech,Long Cai,2011,201
+220,caltech,Long Cai,2012,220
+221,caltech,Long Cai,2013,269
+222,caltech,Long Cai,2014,300
+223,caltech,Long Cai,2015,410
+224,caltech,Long Cai,2016,591
+225,caltech,Long Cai,2017,704
+226,caltech,Long Cai,2018,911
+227,caltech,Long Cai,2019,1194
+228,caltech,Long Cai,2020,1365
+229,caltech,Long Cai,2021,1909
+230,caltech,Long Cai,2022,2053
+231,caltech,Michael H. Dickinson,1993,72
+232,caltech,Michael H. Dickinson,1994,73
+233,caltech,Michael H. Dickinson,1995,74
+234,caltech,Michael H. Dickinson,1996,128
+235,caltech,Michael H. Dickinson,1997,112
+236,caltech,Michael H. Dickinson,1998,101
+237,caltech,Michael H. Dickinson,1999,110
+238,caltech,Michael H. Dickinson,2000,145
+239,caltech,Michael H. Dickinson,2001,289
+240,caltech,Michael H. Dickinson,2002,285
+241,caltech,Michael H. Dickinson,2003,400
+242,caltech,Michael H. Dickinson,2004,549
+243,caltech,Michael H. Dickinson,2005,657
+244,caltech,Michael H. Dickinson,2006,766
+245,caltech,Michael H. Dickinson,2007,826
+246,caltech,Michael H. Dickinson,2008,903
+247,caltech,Michael H. Dickinson,2009,1256
+248,caltech,Michael H. Dickinson,2010,1361
+249,caltech,Michael H. Dickinson,2011,1147
+250,caltech,Michael H. Dickinson,2012,1382
+251,caltech,Michael H. Dickinson,2013,1463
+252,caltech,Michael H. Dickinson,2014,1695
+253,caltech,Michael H. Dickinson,2015,1709
+254,caltech,Michael H. Dickinson,2016,1748
+255,caltech,Michael H. Dickinson,2017,1734
+256,caltech,Michael H. Dickinson,2018,1752
+257,caltech,Michael H. Dickinson,2019,1845
+258,caltech,Michael H. Dickinson,2020,1807
+259,caltech,Michael H. Dickinson,2021,2001
+260,caltech,Michael H. Dickinson,2022,1790
+261,caltech,William G. Dunphy,1983,85
+262,caltech,William G. Dunphy,1984,76
+263,caltech,William G. Dunphy,1985,104
+264,caltech,William G. Dunphy,1986,146
+265,caltech,William G. Dunphy,1987,156
+266,caltech,William G. Dunphy,1988,176
+267,caltech,William G. Dunphy,1989,305
+268,caltech,William G. Dunphy,1990,314
+269,caltech,William G. Dunphy,1991,438
+270,caltech,William G. Dunphy,1992,461
+271,caltech,William G. Dunphy,1993,444
+272,caltech,William G. Dunphy,1994,364
+273,caltech,William G. Dunphy,1995,400
+274,caltech,William G. Dunphy,1996,512
+275,caltech,William G. Dunphy,1997,503
+276,caltech,William G. Dunphy,1998,662
+277,caltech,William G. Dunphy,1999,659
+278,caltech,William G. Dunphy,2000,609
+279,caltech,William G. Dunphy,2001,575
+280,caltech,William G. Dunphy,2002,606
+281,caltech,William G. Dunphy,2003,613
+282,caltech,William G. Dunphy,2004,681
+283,caltech,William G. Dunphy,2005,669
+284,caltech,William G. Dunphy,2006,615
+285,caltech,William G. Dunphy,2007,690
+286,caltech,William G. Dunphy,2008,607
+287,caltech,William G. Dunphy,2009,655
+288,caltech,William G. Dunphy,2010,763
+289,caltech,William G. Dunphy,2011,703
+290,caltech,William G. Dunphy,2012,611
+291,caltech,William G. Dunphy,2013,662
+292,caltech,William G. Dunphy,2014,514
+293,caltech,William G. Dunphy,2015,545
+294,caltech,William G. Dunphy,2016,529
+295,caltech,William G. Dunphy,2017,447
+296,caltech,William G. Dunphy,2018,396
+297,caltech,William G. Dunphy,2019,458
+298,caltech,William G. Dunphy,2020,433
+299,caltech,William G. Dunphy,2021,401
+300,caltech,William G. Dunphy,2022,318
+301,caltech,Michael B. Elowitz,2001,80
+302,caltech,Michael B. Elowitz,2002,137
+303,caltech,Michael B. Elowitz,2003,277
+304,caltech,Michael B. Elowitz,2004,486
+305,caltech,Michael B. Elowitz,2005,645
+306,caltech,Michael B. Elowitz,2006,867
+307,caltech,Michael B. Elowitz,2007,998
+308,caltech,Michael B. Elowitz,2008,1178
+309,caltech,Michael B. Elowitz,2009,1430
+310,caltech,Michael B. Elowitz,2010,1508
+311,caltech,Michael B. Elowitz,2011,1642
+312,caltech,Michael B. Elowitz,2012,1894
+313,caltech,Michael B. Elowitz,2013,1907
+314,caltech,Michael B. Elowitz,2014,1870
+315,caltech,Michael B. Elowitz,2015,1980
+316,caltech,Michael B. Elowitz,2016,2160
+317,caltech,Michael B. Elowitz,2017,2078
+318,caltech,Michael B. Elowitz,2018,2307
+319,caltech,Michael B. Elowitz,2019,2204
+320,caltech,Michael B. Elowitz,2020,2099
+321,caltech,Michael B. Elowitz,2021,2195
+322,caltech,Michael B. Elowitz,2022,1929
+323,caltech,Lea A. Goentoro,2006,5
+324,caltech,Lea A. Goentoro,2007,10
+325,caltech,Lea A. Goentoro,2008,18
+326,caltech,Lea A. Goentoro,2009,21
+327,caltech,Lea A. Goentoro,2010,30
+328,caltech,Lea A. Goentoro,2011,75
+329,caltech,Lea A. Goentoro,2012,97
+330,caltech,Lea A. Goentoro,2013,97
+331,caltech,Lea A. Goentoro,2014,97
+332,caltech,Lea A. Goentoro,2015,97
+333,caltech,Lea A. Goentoro,2016,93
+334,caltech,Lea A. Goentoro,2017,119
+335,caltech,Lea A. Goentoro,2018,167
+336,caltech,Lea A. Goentoro,2019,164
+337,caltech,Lea A. Goentoro,2020,143
+338,caltech,Lea A. Goentoro,2021,162
+339,caltech,Lea A. Goentoro,2022,158
+340,caltech,Viviana Gradinaru,2009,80
+341,caltech,Viviana Gradinaru,2010,227
+342,caltech,Viviana Gradinaru,2011,554
+343,caltech,Viviana Gradinaru,2012,676
+344,caltech,Viviana Gradinaru,2013,900
+345,caltech,Viviana Gradinaru,2014,930
+346,caltech,Viviana Gradinaru,2015,1194
+347,caltech,Viviana Gradinaru,2016,1426
+348,caltech,Viviana Gradinaru,2017,1698
+349,caltech,Viviana Gradinaru,2018,2174
+350,caltech,Viviana Gradinaru,2019,2562
+351,caltech,Viviana Gradinaru,2020,2956
+352,caltech,Viviana Gradinaru,2021,3691
+353,caltech,Viviana Gradinaru,2022,3799
+354,caltech,Mitchell Guttman,2009,152
+355,caltech,Mitchell Guttman,2010,423
+356,caltech,Mitchell Guttman,2011,866
+357,caltech,Mitchell Guttman,2012,1596
+358,caltech,Mitchell Guttman,2013,2265
+359,caltech,Mitchell Guttman,2014,2753
+360,caltech,Mitchell Guttman,2015,3372
+361,caltech,Mitchell Guttman,2016,3766
+362,caltech,Mitchell Guttman,2017,4095
+363,caltech,Mitchell Guttman,2018,4231
+364,caltech,Mitchell Guttman,2019,4631
+365,caltech,Mitchell Guttman,2020,4830
+366,caltech,Mitchell Guttman,2021,5511
+367,caltech,Mitchell Guttman,2022,4841
+368,caltech,Rustem F. Ismagilov,2000,98
+369,caltech,Rustem F. Ismagilov,2001,185
+370,caltech,Rustem F. Ismagilov,2002,246
+371,caltech,Rustem F. Ismagilov,2003,319
+372,caltech,Rustem F. Ismagilov,2004,505
+373,caltech,Rustem F. Ismagilov,2005,750
+374,caltech,Rustem F. Ismagilov,2006,964
+375,caltech,Rustem F. Ismagilov,2007,1009
+376,caltech,Rustem F. Ismagilov,2008,1295
+377,caltech,Rustem F. Ismagilov,2009,1471
+378,caltech,Rustem F. Ismagilov,2010,1678
+379,caltech,Rustem F. Ismagilov,2011,1722
+380,caltech,Rustem F. Ismagilov,2012,1788
+381,caltech,Rustem F. Ismagilov,2013,1692
+382,caltech,Rustem F. Ismagilov,2014,1619
+383,caltech,Rustem F. Ismagilov,2015,1857
+384,caltech,Rustem F. Ismagilov,2016,2285
+385,caltech,Rustem F. Ismagilov,2017,2077
+386,caltech,Rustem F. Ismagilov,2018,2067
+387,caltech,Rustem F. Ismagilov,2019,2232
+388,caltech,Rustem F. Ismagilov,2020,2397
+389,caltech,Rustem F. Ismagilov,2021,2378
+390,caltech,Rustem F. Ismagilov,2022,2331
+391,caltech,Mary B. Kennedy,1983,57
+392,caltech,Mary B. Kennedy,1984,89
+393,caltech,Mary B. Kennedy,1985,167
+394,caltech,Mary B. Kennedy,1986,196
+395,caltech,Mary B. Kennedy,1987,199
+396,caltech,Mary B. Kennedy,1988,273
+397,caltech,Mary B. Kennedy,1989,251
+398,caltech,Mary B. Kennedy,1990,257
+399,caltech,Mary B. Kennedy,1991,348
+400,caltech,Mary B. Kennedy,1992,311
+401,caltech,Mary B. Kennedy,1993,322
+402,caltech,Mary B. Kennedy,1994,301
+403,caltech,Mary B. Kennedy,1995,290
+404,caltech,Mary B. Kennedy,1996,476
+405,caltech,Mary B. Kennedy,1997,506
+406,caltech,Mary B. Kennedy,1998,741
+407,caltech,Mary B. Kennedy,1999,825
+408,caltech,Mary B. Kennedy,2000,841
+409,caltech,Mary B. Kennedy,2001,861
+410,caltech,Mary B. Kennedy,2002,798
+411,caltech,Mary B. Kennedy,2003,834
+412,caltech,Mary B. Kennedy,2004,761
+413,caltech,Mary B. Kennedy,2005,720
+414,caltech,Mary B. Kennedy,2006,723
+415,caltech,Mary B. Kennedy,2007,734
+416,caltech,Mary B. Kennedy,2008,797
+417,caltech,Mary B. Kennedy,2009,598
+418,caltech,Mary B. Kennedy,2010,572
+419,caltech,Mary B. Kennedy,2011,656
+420,caltech,Mary B. Kennedy,2012,695
+421,caltech,Mary B. Kennedy,2013,547
+422,caltech,Mary B. Kennedy,2014,569
+423,caltech,Mary B. Kennedy,2015,516
+424,caltech,Mary B. Kennedy,2016,527
+425,caltech,Mary B. Kennedy,2017,477
+426,caltech,Mary B. Kennedy,2018,535
+427,caltech,Mary B. Kennedy,2019,539
+428,caltech,Mary B. Kennedy,2020,538
+429,caltech,Mary B. Kennedy,2021,569
+430,caltech,Mary B. Kennedy,2022,382
+431,caltech,Akiko Kumagai,1990,36
+432,caltech,Akiko Kumagai,1991,124
+433,caltech,Akiko Kumagai,1992,202
+434,caltech,Akiko Kumagai,1993,204
+435,caltech,Akiko Kumagai,1994,185
+436,caltech,Akiko Kumagai,1995,151
+437,caltech,Akiko Kumagai,1996,192
+438,caltech,Akiko Kumagai,1997,160
+439,caltech,Akiko Kumagai,1998,256
+440,caltech,Akiko Kumagai,1999,294
+441,caltech,Akiko Kumagai,2000,290
+442,caltech,Akiko Kumagai,2001,305
+443,caltech,Akiko Kumagai,2002,345
+444,caltech,Akiko Kumagai,2003,381
+445,caltech,Akiko Kumagai,2004,450
+446,caltech,Akiko Kumagai,2005,431
+447,caltech,Akiko Kumagai,2006,395
+448,caltech,Akiko Kumagai,2007,460
+449,caltech,Akiko Kumagai,2008,358
+450,caltech,Akiko Kumagai,2009,418
+451,caltech,Akiko Kumagai,2010,503
+452,caltech,Akiko Kumagai,2011,442
+453,caltech,Akiko Kumagai,2012,381
+454,caltech,Akiko Kumagai,2013,425
+455,caltech,Akiko Kumagai,2014,314
+456,caltech,Akiko Kumagai,2015,349
+457,caltech,Akiko Kumagai,2016,386
+458,caltech,Akiko Kumagai,2017,339
+459,caltech,Akiko Kumagai,2018,371
+460,caltech,Akiko Kumagai,2019,428
+461,caltech,Akiko Kumagai,2020,514
+462,caltech,Akiko Kumagai,2021,552
+463,caltech,Akiko Kumagai,2022,513
+464,caltech,Henry A. Lester,1985,102
+465,caltech,Henry A. Lester,1986,155
+466,caltech,Henry A. Lester,1987,167
+467,caltech,Henry A. Lester,1988,260
+468,caltech,Henry A. Lester,1989,383
+469,caltech,Henry A. Lester,1990,428
+470,caltech,Henry A. Lester,1991,525
+471,caltech,Henry A. Lester,1992,569
+472,caltech,Henry A. Lester,1993,529
+473,caltech,Henry A. Lester,1994,589
+474,caltech,Henry A. Lester,1995,671
+475,caltech,Henry A. Lester,1996,890
+476,caltech,Henry A. Lester,1997,921
+477,caltech,Henry A. Lester,1998,1085
+478,caltech,Henry A. Lester,1999,1053
+479,caltech,Henry A. Lester,2000,998
+480,caltech,Henry A. Lester,2001,1057
+481,caltech,Henry A. Lester,2002,1059
+482,caltech,Henry A. Lester,2003,1066
+483,caltech,Henry A. Lester,2004,1151
+484,caltech,Henry A. Lester,2005,1176
+485,caltech,Henry A. Lester,2006,1400
+486,caltech,Henry A. Lester,2007,1282
+487,caltech,Henry A. Lester,2008,1392
+488,caltech,Henry A. Lester,2009,1614
+489,caltech,Henry A. Lester,2010,1497
+490,caltech,Henry A. Lester,2011,1608
+491,caltech,Henry A. Lester,2012,1750
+492,caltech,Henry A. Lester,2013,1542
+493,caltech,Henry A. Lester,2014,1975
+494,caltech,Henry A. Lester,2015,1551
+495,caltech,Henry A. Lester,2016,1337
+496,caltech,Henry A. Lester,2017,1237
+497,caltech,Henry A. Lester,2018,1205
+498,caltech,Henry A. Lester,2019,1181
+499,caltech,Henry A. Lester,2020,1101
+500,caltech,Henry A. Lester,2021,1165
+501,caltech,Henry A. Lester,2022,974
+502,caltech,Carlos Lois,1995,54
+503,caltech,Carlos Lois,1996,115
+504,caltech,Carlos Lois,1997,173
+505,caltech,Carlos Lois,1998,139
+506,caltech,Carlos Lois,1999,186
+507,caltech,Carlos Lois,2000,181
+508,caltech,Carlos Lois,2001,257
+509,caltech,Carlos Lois,2002,364
+510,caltech,Carlos Lois,2003,410
+511,caltech,Carlos Lois,2004,579
+512,caltech,Carlos Lois,2005,637
+513,caltech,Carlos Lois,2006,739
+514,caltech,Carlos Lois,2007,748
+515,caltech,Carlos Lois,2008,726
+516,caltech,Carlos Lois,2009,691
+517,caltech,Carlos Lois,2010,672
+518,caltech,Carlos Lois,2011,863
+519,caltech,Carlos Lois,2012,808
+520,caltech,Carlos Lois,2013,681
+521,caltech,Carlos Lois,2014,657
+522,caltech,Carlos Lois,2015,560
+523,caltech,Carlos Lois,2016,640
+524,caltech,Carlos Lois,2017,617
+525,caltech,Carlos Lois,2018,664
+526,caltech,Carlos Lois,2019,696
+527,caltech,Carlos Lois,2020,918
+528,caltech,Carlos Lois,2021,996
+529,caltech,Carlos Lois,2022,939
+530,caltech,Sarkis Mazmanian,2002,160
+531,caltech,Sarkis Mazmanian,2003,139
+532,caltech,Sarkis Mazmanian,2004,345
+533,caltech,Sarkis Mazmanian,2005,237
+534,caltech,Sarkis Mazmanian,2006,328
+535,caltech,Sarkis Mazmanian,2007,371
+536,caltech,Sarkis Mazmanian,2008,449
+537,caltech,Sarkis Mazmanian,2009,598
+538,caltech,Sarkis Mazmanian,2010,774
+539,caltech,Sarkis Mazmanian,2011,1258
+540,caltech,Sarkis Mazmanian,2012,1472
+541,caltech,Sarkis Mazmanian,2013,1791
+542,caltech,Sarkis Mazmanian,2014,2337
+543,caltech,Sarkis Mazmanian,2015,2873
+544,caltech,Sarkis Mazmanian,2016,3671
+545,caltech,Sarkis Mazmanian,2017,4309
+546,caltech,Sarkis Mazmanian,2018,4810
+547,caltech,Sarkis Mazmanian,2019,5642
+548,caltech,Sarkis Mazmanian,2020,6239
+549,caltech,Sarkis Mazmanian,2021,7140
+550,caltech,Sarkis Mazmanian,2022,6742
+551,caltech,Markus Meister,1993,101
+552,caltech,Markus Meister,1994,106
+553,caltech,Markus Meister,1995,158
+554,caltech,Markus Meister,1996,150
+555,caltech,Markus Meister,1997,211
+556,caltech,Markus Meister,1998,286
+557,caltech,Markus Meister,1999,368
+558,caltech,Markus Meister,2000,342
+559,caltech,Markus Meister,2001,463
+560,caltech,Markus Meister,2002,469
+561,caltech,Markus Meister,2003,610
+562,caltech,Markus Meister,2004,552
+563,caltech,Markus Meister,2005,638
+564,caltech,Markus Meister,2006,655
+565,caltech,Markus Meister,2007,749
+566,caltech,Markus Meister,2008,716
+567,caltech,Markus Meister,2009,790
+568,caltech,Markus Meister,2010,802
+569,caltech,Markus Meister,2011,960
+570,caltech,Markus Meister,2012,981
+571,caltech,Markus Meister,2013,1088
+572,caltech,Markus Meister,2014,1041
+573,caltech,Markus Meister,2015,1058
+574,caltech,Markus Meister,2016,1121
+575,caltech,Markus Meister,2017,1225
+576,caltech,Markus Meister,2018,1233
+577,caltech,Markus Meister,2019,1086
+578,caltech,Markus Meister,2020,1192
+579,caltech,Markus Meister,2021,1323
+580,caltech,Markus Meister,2022,1278
+581,caltech,Elliot Meyerowitz,1988,276
+582,caltech,Elliot Meyerowitz,1989,289
+583,caltech,Elliot Meyerowitz,1990,377
+584,caltech,Elliot Meyerowitz,1991,602
+585,caltech,Elliot Meyerowitz,1992,718
+586,caltech,Elliot Meyerowitz,1993,988
+587,caltech,Elliot Meyerowitz,1994,1101
+588,caltech,Elliot Meyerowitz,1995,1197
+589,caltech,Elliot Meyerowitz,1996,1279
+590,caltech,Elliot Meyerowitz,1997,1377
+591,caltech,Elliot Meyerowitz,1998,1847
+592,caltech,Elliot Meyerowitz,1999,1958
+593,caltech,Elliot Meyerowitz,2000,2005
+594,caltech,Elliot Meyerowitz,2001,2481
+595,caltech,Elliot Meyerowitz,2002,2847
+596,caltech,Elliot Meyerowitz,2003,3182
+597,caltech,Elliot Meyerowitz,2004,3206
+598,caltech,Elliot Meyerowitz,2005,3028
+599,caltech,Elliot Meyerowitz,2006,3348
+600,caltech,Elliot Meyerowitz,2007,3024
+601,caltech,Elliot Meyerowitz,2008,3075
+602,caltech,Elliot Meyerowitz,2009,3213
+603,caltech,Elliot Meyerowitz,2010,3518
+604,caltech,Elliot Meyerowitz,2011,3283
+605,caltech,Elliot Meyerowitz,2012,3589
+606,caltech,Elliot Meyerowitz,2013,3522
+607,caltech,Elliot Meyerowitz,2014,3776
+608,caltech,Elliot Meyerowitz,2015,3590
+609,caltech,Elliot Meyerowitz,2016,3421
+610,caltech,Elliot Meyerowitz,2017,3212
+611,caltech,Elliot Meyerowitz,2018,3549
+612,caltech,Elliot Meyerowitz,2019,3673
+613,caltech,Elliot Meyerowitz,2020,3484
+614,caltech,Elliot Meyerowitz,2021,3783
+615,caltech,Elliot Meyerowitz,2022,3039
+616,caltech,Dianne K. Newman,1998,81
+617,caltech,Dianne K. Newman,1999,87
+618,caltech,Dianne K. Newman,2000,112
+619,caltech,Dianne K. Newman,2001,144
+620,caltech,Dianne K. Newman,2002,192
+621,caltech,Dianne K. Newman,2003,237
+622,caltech,Dianne K. Newman,2004,351
+623,caltech,Dianne K. Newman,2005,433
+624,caltech,Dianne K. Newman,2006,511
+625,caltech,Dianne K. Newman,2007,709
+626,caltech,Dianne K. Newman,2008,820
+627,caltech,Dianne K. Newman,2009,909
+628,caltech,Dianne K. Newman,2010,1011
+629,caltech,Dianne K. Newman,2011,1056
+630,caltech,Dianne K. Newman,2012,1254
+631,caltech,Dianne K. Newman,2013,1318
+632,caltech,Dianne K. Newman,2014,1447
+633,caltech,Dianne K. Newman,2015,1466
+634,caltech,Dianne K. Newman,2016,1528
+635,caltech,Dianne K. Newman,2017,1679
+636,caltech,Dianne K. Newman,2018,1663
+637,caltech,Dianne K. Newman,2019,1747
+638,caltech,Dianne K. Newman,2020,1749
+639,caltech,Dianne K. Newman,2021,1996
+640,caltech,Dianne K. Newman,2022,1978
+641,caltech,Victoria J. Orphan,2001,40
+642,caltech,Victoria J. Orphan,2002,74
+643,caltech,Victoria J. Orphan,2003,137
+644,caltech,Victoria J. Orphan,2004,155
+645,caltech,Victoria J. Orphan,2005,232
+646,caltech,Victoria J. Orphan,2006,211
+647,caltech,Victoria J. Orphan,2007,254
+648,caltech,Victoria J. Orphan,2008,349
+649,caltech,Victoria J. Orphan,2009,397
+650,caltech,Victoria J. Orphan,2010,475
+651,caltech,Victoria J. Orphan,2011,500
+652,caltech,Victoria J. Orphan,2012,501
+653,caltech,Victoria J. Orphan,2013,515
+654,caltech,Victoria J. Orphan,2014,640
+655,caltech,Victoria J. Orphan,2015,726
+656,caltech,Victoria J. Orphan,2016,1063
+657,caltech,Victoria J. Orphan,2017,1028
+658,caltech,Victoria J. Orphan,2018,1239
+659,caltech,Victoria J. Orphan,2019,1314
+660,caltech,Victoria J. Orphan,2020,1487
+661,caltech,Victoria J. Orphan,2021,1874
+662,caltech,Victoria J. Orphan,2022,1824
+663,caltech,Lior S. Pachter,2003,922
+664,caltech,Lior S. Pachter,2004,1489
+665,caltech,Lior S. Pachter,2005,1874
+666,caltech,Lior S. Pachter,2006,1883
+667,caltech,Lior S. Pachter,2007,2203
+668,caltech,Lior S. Pachter,2008,2442
+669,caltech,Lior S. Pachter,2009,2367
+670,caltech,Lior S. Pachter,2010,2526
+671,caltech,Lior S. Pachter,2011,3050
+672,caltech,Lior S. Pachter,2012,3785
+673,caltech,Lior S. Pachter,2013,4664
+674,caltech,Lior S. Pachter,2014,5686
+675,caltech,Lior S. Pachter,2015,6331
+676,caltech,Lior S. Pachter,2016,7403
+677,caltech,Lior S. Pachter,2017,7962
+678,caltech,Lior S. Pachter,2018,8499
+679,caltech,Lior S. Pachter,2019,8742
+680,caltech,Lior S. Pachter,2020,8557
+681,caltech,Lior S. Pachter,2021,8904
+682,caltech,Lior S. Pachter,2022,7860
+683,caltech,Joseph Parker,2008,2
+684,caltech,Joseph Parker,2009,4
+685,caltech,Joseph Parker,2010,4
+686,caltech,Joseph Parker,2011,5
+687,caltech,Joseph Parker,2012,6
+688,caltech,Joseph Parker,2013,11
+689,caltech,Joseph Parker,2014,12
+690,caltech,Joseph Parker,2015,17
+691,caltech,Joseph Parker,2016,53
+692,caltech,Joseph Parker,2017,72
+693,caltech,Joseph Parker,2018,94
+694,caltech,Joseph Parker,2019,99
+695,caltech,Joseph Parker,2020,94
+696,caltech,Joseph Parker,2021,133
+697,caltech,Joseph Parker,2022,168
+698,caltech,Rob Phillips,1998,95
+699,caltech,Rob Phillips,1999,86
+700,caltech,Rob Phillips,2000,113
+701,caltech,Rob Phillips,2001,186
+702,caltech,Rob Phillips,2002,295
+703,caltech,Rob Phillips,2003,291
+704,caltech,Rob Phillips,2004,444
+705,caltech,Rob Phillips,2005,456
+706,caltech,Rob Phillips,2006,547
+707,caltech,Rob Phillips,2007,722
+708,caltech,Rob Phillips,2008,726
+709,caltech,Rob Phillips,2009,715
+710,caltech,Rob Phillips,2010,768
+711,caltech,Rob Phillips,2011,859
+712,caltech,Rob Phillips,2012,980
+713,caltech,Rob Phillips,2013,1051
+714,caltech,Rob Phillips,2014,1167
+715,caltech,Rob Phillips,2015,1135
+716,caltech,Rob Phillips,2016,1100
+717,caltech,Rob Phillips,2017,1208
+718,caltech,Rob Phillips,2018,1368
+719,caltech,Rob Phillips,2019,1653
+720,caltech,Rob Phillips,2020,2080
+721,caltech,Rob Phillips,2021,2482
+722,caltech,Rob Phillips,2022,2255
+723,caltech,Niles A. Pierce,1998,39
+724,caltech,Niles A. Pierce,1999,33
+725,caltech,Niles A. Pierce,2000,38
+726,caltech,Niles A. Pierce,2001,68
+727,caltech,Niles A. Pierce,2002,80
+728,caltech,Niles A. Pierce,2003,125
+729,caltech,Niles A. Pierce,2004,143
+730,caltech,Niles A. Pierce,2005,254
+731,caltech,Niles A. Pierce,2006,331
+732,caltech,Niles A. Pierce,2007,320
+733,caltech,Niles A. Pierce,2008,368
+734,caltech,Niles A. Pierce,2009,400
+735,caltech,Niles A. Pierce,2010,417
+736,caltech,Niles A. Pierce,2011,482
+737,caltech,Niles A. Pierce,2012,626
+738,caltech,Niles A. Pierce,2013,651
+739,caltech,Niles A. Pierce,2014,750
+740,caltech,Niles A. Pierce,2015,952
+741,caltech,Niles A. Pierce,2016,850
+742,caltech,Niles A. Pierce,2017,1040
+743,caltech,Niles A. Pierce,2018,1151
+744,caltech,Niles A. Pierce,2019,1174
+745,caltech,Niles A. Pierce,2020,1224
+746,caltech,Niles A. Pierce,2021,1387
+747,caltech,Niles A. Pierce,2022,1433
+748,caltech,David Prober,1999,19
+749,caltech,David Prober,2000,61
+750,caltech,David Prober,2001,79
+751,caltech,David Prober,2002,99
+752,caltech,David Prober,2003,123
+753,caltech,David Prober,2004,110
+754,caltech,David Prober,2005,97
+755,caltech,David Prober,2006,80
+756,caltech,David Prober,2007,58
+757,caltech,David Prober,2008,101
+758,caltech,David Prober,2009,91
+759,caltech,David Prober,2010,155
+760,caltech,David Prober,2011,206
+761,caltech,David Prober,2012,224
+762,caltech,David Prober,2013,214
+763,caltech,David Prober,2014,203
+764,caltech,David Prober,2015,244
+765,caltech,David Prober,2016,257
+766,caltech,David Prober,2017,326
+767,caltech,David Prober,2018,348
+768,caltech,David Prober,2019,424
+769,caltech,David Prober,2020,505
+770,caltech,David Prober,2021,534
+771,caltech,David Prober,2022,578
+772,caltech,Lulu Qian,2008,13
+773,caltech,Lulu Qian,2009,23
+774,caltech,Lulu Qian,2010,36
+775,caltech,Lulu Qian,2011,80
+776,caltech,Lulu Qian,2012,193
+777,caltech,Lulu Qian,2013,257
+778,caltech,Lulu Qian,2014,283
+779,caltech,Lulu Qian,2015,284
+780,caltech,Lulu Qian,2016,281
+781,caltech,Lulu Qian,2017,357
+782,caltech,Lulu Qian,2018,447
+783,caltech,Lulu Qian,2019,535
+784,caltech,Lulu Qian,2020,606
+785,caltech,Lulu Qian,2021,589
+786,caltech,Lulu Qian,2022,525
+787,caltech,Ellen Rothenberg,1983,70
+788,caltech,Ellen Rothenberg,1984,63
+789,caltech,Ellen Rothenberg,1985,76
+790,caltech,Ellen Rothenberg,1986,57
+791,caltech,Ellen Rothenberg,1987,77
+792,caltech,Ellen Rothenberg,1988,92
+793,caltech,Ellen Rothenberg,1989,68
+794,caltech,Ellen Rothenberg,1990,107
+795,caltech,Ellen Rothenberg,1991,116
+796,caltech,Ellen Rothenberg,1992,110
+797,caltech,Ellen Rothenberg,1993,114
+798,caltech,Ellen Rothenberg,1994,180
+799,caltech,Ellen Rothenberg,1995,154
+800,caltech,Ellen Rothenberg,1996,164
+801,caltech,Ellen Rothenberg,1997,179
+802,caltech,Ellen Rothenberg,1998,203
+803,caltech,Ellen Rothenberg,1999,206
+804,caltech,Ellen Rothenberg,2000,161
+805,caltech,Ellen Rothenberg,2001,221
+806,caltech,Ellen Rothenberg,2002,231
+807,caltech,Ellen Rothenberg,2003,240
+808,caltech,Ellen Rothenberg,2004,267
+809,caltech,Ellen Rothenberg,2005,322
+810,caltech,Ellen Rothenberg,2006,400
+811,caltech,Ellen Rothenberg,2007,382
+812,caltech,Ellen Rothenberg,2008,447
+813,caltech,Ellen Rothenberg,2009,427
+814,caltech,Ellen Rothenberg,2010,524
+815,caltech,Ellen Rothenberg,2011,446
+816,caltech,Ellen Rothenberg,2012,438
+817,caltech,Ellen Rothenberg,2013,549
+818,caltech,Ellen Rothenberg,2014,495
+819,caltech,Ellen Rothenberg,2015,464
+820,caltech,Ellen Rothenberg,2016,524
+821,caltech,Ellen Rothenberg,2017,482
+822,caltech,Ellen Rothenberg,2018,560
+823,caltech,Ellen Rothenberg,2019,606
+824,caltech,Ellen Rothenberg,2020,670
+825,caltech,Ellen Rothenberg,2021,934
+826,caltech,Ellen Rothenberg,2022,708
+827,caltech,Michael L. Roukes,1990,142
+828,caltech,Michael L. Roukes,1991,142
+829,caltech,Michael L. Roukes,1992,171
+830,caltech,Michael L. Roukes,1993,124
+831,caltech,Michael L. Roukes,1994,130
+832,caltech,Michael L. Roukes,1995,127
+833,caltech,Michael L. Roukes,1996,118
+834,caltech,Michael L. Roukes,1997,114
+835,caltech,Michael L. Roukes,1998,151
+836,caltech,Michael L. Roukes,1999,157
+837,caltech,Michael L. Roukes,2000,221
+838,caltech,Michael L. Roukes,2001,351
+839,caltech,Michael L. Roukes,2002,636
+840,caltech,Michael L. Roukes,2003,908
+841,caltech,Michael L. Roukes,2004,1294
+842,caltech,Michael L. Roukes,2005,1451
+843,caltech,Michael L. Roukes,2006,1728
+844,caltech,Michael L. Roukes,2007,2063
+845,caltech,Michael L. Roukes,2008,2268
+846,caltech,Michael L. Roukes,2009,2028
+847,caltech,Michael L. Roukes,2010,2296
+848,caltech,Michael L. Roukes,2011,2477
+849,caltech,Michael L. Roukes,2012,2813
+850,caltech,Michael L. Roukes,2013,2966
+851,caltech,Michael L. Roukes,2014,3040
+852,caltech,Michael L. Roukes,2015,2892
+853,caltech,Michael L. Roukes,2016,2825
+854,caltech,Michael L. Roukes,2017,2754
+855,caltech,Michael L. Roukes,2018,2494
+856,caltech,Michael L. Roukes,2019,2434
+857,caltech,Michael L. Roukes,2020,2316
+858,caltech,Michael L. Roukes,2021,2138
+859,caltech,Michael L. Roukes,2022,2069
+860,caltech,Thanos Siapas,1998,20
+861,caltech,Thanos Siapas,1999,23
+862,caltech,Thanos Siapas,2000,27
+863,caltech,Thanos Siapas,2001,55
+864,caltech,Thanos Siapas,2002,52
+865,caltech,Thanos Siapas,2003,65
+866,caltech,Thanos Siapas,2004,57
+867,caltech,Thanos Siapas,2005,72
+868,caltech,Thanos Siapas,2006,105
+869,caltech,Thanos Siapas,2007,111
+870,caltech,Thanos Siapas,2008,116
+871,caltech,Thanos Siapas,2009,169
+872,caltech,Thanos Siapas,2010,232
+873,caltech,Thanos Siapas,2011,284
+874,caltech,Thanos Siapas,2012,230
+875,caltech,Thanos Siapas,2013,246
+876,caltech,Thanos Siapas,2014,290
+877,caltech,Thanos Siapas,2015,306
+878,caltech,Thanos Siapas,2016,300
+879,caltech,Thanos Siapas,2017,303
+880,caltech,Thanos Siapas,2018,311
+881,caltech,Thanos Siapas,2019,344
+882,caltech,Thanos Siapas,2020,335
+883,caltech,Thanos Siapas,2021,334
+884,caltech,Thanos Siapas,2022,277
+885,caltech,Angelike Stathopoulos,1998,14
+886,caltech,Angelike Stathopoulos,1999,22
+887,caltech,Angelike Stathopoulos,2000,34
+888,caltech,Angelike Stathopoulos,2001,35
+889,caltech,Angelike Stathopoulos,2002,43
+890,caltech,Angelike Stathopoulos,2003,74
+891,caltech,Angelike Stathopoulos,2004,115
+892,caltech,Angelike Stathopoulos,2005,147
+893,caltech,Angelike Stathopoulos,2006,164
+894,caltech,Angelike Stathopoulos,2007,144
+895,caltech,Angelike Stathopoulos,2008,152
+896,caltech,Angelike Stathopoulos,2009,199
+897,caltech,Angelike Stathopoulos,2010,179
+898,caltech,Angelike Stathopoulos,2011,203
+899,caltech,Angelike Stathopoulos,2012,271
+900,caltech,Angelike Stathopoulos,2013,257
+901,caltech,Angelike Stathopoulos,2014,236
+902,caltech,Angelike Stathopoulos,2015,221
+903,caltech,Angelike Stathopoulos,2016,247
+904,caltech,Angelike Stathopoulos,2017,204
+905,caltech,Angelike Stathopoulos,2018,159
+906,caltech,Angelike Stathopoulos,2019,183
+907,caltech,Angelike Stathopoulos,2020,277
+908,caltech,Angelike Stathopoulos,2021,219
+909,caltech,Angelike Stathopoulos,2022,214
+910,caltech,Paul W. Sternberg,1990,184
+911,caltech,Paul W. Sternberg,1991,202
+912,caltech,Paul W. Sternberg,1992,283
+913,caltech,Paul W. Sternberg,1993,310
+914,caltech,Paul W. Sternberg,1994,462
+915,caltech,Paul W. Sternberg,1995,525
+916,caltech,Paul W. Sternberg,1996,533
+917,caltech,Paul W. Sternberg,1997,489
+918,caltech,Paul W. Sternberg,1998,575
+919,caltech,Paul W. Sternberg,1999,679
+920,caltech,Paul W. Sternberg,2000,718
+921,caltech,Paul W. Sternberg,2001,664
+922,caltech,Paul W. Sternberg,2002,702
+923,caltech,Paul W. Sternberg,2003,970
+924,caltech,Paul W. Sternberg,2004,917
+925,caltech,Paul W. Sternberg,2005,1086
+926,caltech,Paul W. Sternberg,2006,1253
+927,caltech,Paul W. Sternberg,2007,1228
+928,caltech,Paul W. Sternberg,2008,1291
+929,caltech,Paul W. Sternberg,2009,1335
+930,caltech,Paul W. Sternberg,2010,1333
+931,caltech,Paul W. Sternberg,2011,1555
+932,caltech,Paul W. Sternberg,2012,1858
+933,caltech,Paul W. Sternberg,2013,1828
+934,caltech,Paul W. Sternberg,2014,1976
+935,caltech,Paul W. Sternberg,2015,2069
+936,caltech,Paul W. Sternberg,2016,2092
+937,caltech,Paul W. Sternberg,2017,2180
+938,caltech,Paul W. Sternberg,2018,2199
+939,caltech,Paul W. Sternberg,2019,2532
+940,caltech,Paul W. Sternberg,2020,3171
+941,caltech,Paul W. Sternberg,2021,3488
+942,caltech,Paul W. Sternberg,2022,3467
+943,caltech,Matt Thomson,2008,26
+944,caltech,Matt Thomson,2009,152
+945,caltech,Matt Thomson,2010,201
+946,caltech,Matt Thomson,2011,269
+947,caltech,Matt Thomson,2012,310
+948,caltech,Matt Thomson,2013,358
+949,caltech,Matt Thomson,2014,339
+950,caltech,Matt Thomson,2015,312
+951,caltech,Matt Thomson,2016,377
+952,caltech,Matt Thomson,2017,450
+953,caltech,Matt Thomson,2018,456
+954,caltech,Matt Thomson,2019,488
+955,caltech,Matt Thomson,2020,539
+956,caltech,Matt Thomson,2021,600
+957,caltech,Matt Thomson,2022,603
+958,caltech,David Van Valen,2013,16
+959,caltech,David Van Valen,2014,13
+960,caltech,David Van Valen,2015,8
+961,caltech,David Van Valen,2016,14
+962,caltech,David Van Valen,2017,48
+963,caltech,David Van Valen,2018,93
+964,caltech,David Van Valen,2019,222
+965,caltech,David Van Valen,2020,393
+966,caltech,David Van Valen,2021,706
+967,caltech,David Van Valen,2022,770
+968,caltech,Rebecca Voorhees,2009,48
+969,caltech,Rebecca Voorhees,2010,142
+970,caltech,Rebecca Voorhees,2011,207
+971,caltech,Rebecca Voorhees,2012,181
+972,caltech,Rebecca Voorhees,2013,189
+973,caltech,Rebecca Voorhees,2014,215
+974,caltech,Rebecca Voorhees,2015,275
+975,caltech,Rebecca Voorhees,2016,241
+976,caltech,Rebecca Voorhees,2017,249
+977,caltech,Rebecca Voorhees,2018,208
+978,caltech,Rebecca Voorhees,2019,217
+979,caltech,Rebecca Voorhees,2020,247
+980,caltech,Rebecca Voorhees,2021,445
+981,caltech,Rebecca Voorhees,2022,404
+982,caltech,Daniel Wagenaar,2003,18
+983,caltech,Daniel Wagenaar,2004,37
+984,caltech,Daniel Wagenaar,2005,68
+985,caltech,Daniel Wagenaar,2006,124
+986,caltech,Daniel Wagenaar,2007,245
+987,caltech,Daniel Wagenaar,2008,265
+988,caltech,Daniel Wagenaar,2009,237
+989,caltech,Daniel Wagenaar,2010,239
+990,caltech,Daniel Wagenaar,2011,221
+991,caltech,Daniel Wagenaar,2012,255
+992,caltech,Daniel Wagenaar,2013,276
+993,caltech,Daniel Wagenaar,2014,285
+994,caltech,Daniel Wagenaar,2015,291
+995,caltech,Daniel Wagenaar,2016,286
+996,caltech,Daniel Wagenaar,2017,282
+997,caltech,Daniel Wagenaar,2018,271
+998,caltech,Daniel Wagenaar,2019,222
+999,caltech,Daniel Wagenaar,2020,218
+1000,caltech,Daniel Wagenaar,2021,216
+1001,caltech,Daniel Wagenaar,2022,224
+1002,caltech,Erik Winfree,1999,120
+1003,caltech,Erik Winfree,2000,142
+1004,caltech,Erik Winfree,2001,150
+1005,caltech,Erik Winfree,2002,238
+1006,caltech,Erik Winfree,2003,286
+1007,caltech,Erik Winfree,2004,364
+1008,caltech,Erik Winfree,2005,484
+1009,caltech,Erik Winfree,2006,583
+1010,caltech,Erik Winfree,2007,657
+1011,caltech,Erik Winfree,2008,915
+1012,caltech,Erik Winfree,2009,1021
+1013,caltech,Erik Winfree,2010,966
+1014,caltech,Erik Winfree,2011,1287
+1015,caltech,Erik Winfree,2012,1606
+1016,caltech,Erik Winfree,2013,1607
+1017,caltech,Erik Winfree,2014,1755
+1018,caltech,Erik Winfree,2015,1741
+1019,caltech,Erik Winfree,2016,1585
+1020,caltech,Erik Winfree,2017,1786
+1021,caltech,Erik Winfree,2018,1755
+1022,caltech,Erik Winfree,2019,1786
+1023,caltech,Erik Winfree,2020,1735
+1024,caltech,Erik Winfree,2021,1771
+1025,caltech,Erik Winfree,2022,1707
+1026,caltech,Changhuei Yang,2003,62
+1027,caltech,Changhuei Yang,2004,105
+1028,caltech,Changhuei Yang,2005,275
+1029,caltech,Changhuei Yang,2006,308
+1030,caltech,Changhuei Yang,2007,578
+1031,caltech,Changhuei Yang,2008,690
+1032,caltech,Changhuei Yang,2009,614
+1033,caltech,Changhuei Yang,2010,823
+1034,caltech,Changhuei Yang,2011,1173
+1035,caltech,Changhuei Yang,2012,1091
+1036,caltech,Changhuei Yang,2013,1199
+1037,caltech,Changhuei Yang,2014,1493
+1038,caltech,Changhuei Yang,2015,1596
+1039,caltech,Changhuei Yang,2016,1851
+1040,caltech,Changhuei Yang,2017,1920
+1041,caltech,Changhuei Yang,2018,2020
+1042,caltech,Changhuei Yang,2019,2524
+1043,caltech,Changhuei Yang,2020,2379
+1044,caltech,Changhuei Yang,2021,2003
+1045,caltech,Changhuei Yang,2022,1939
+1046,JHU,Nichole Broderick,2006,32
+1047,JHU,Nichole Broderick,2007,54
+1048,JHU,Nichole Broderick,2008,92
+1049,JHU,Nichole Broderick,2009,127
+1050,JHU,Nichole Broderick,2010,155
+1051,JHU,Nichole Broderick,2011,175
+1052,JHU,Nichole Broderick,2012,245
+1053,JHU,Nichole Broderick,2013,293
+1054,JHU,Nichole Broderick,2014,376
+1055,JHU,Nichole Broderick,2015,396
+1056,JHU,Nichole Broderick,2016,454
+1057,JHU,Nichole Broderick,2017,475
+1058,JHU,Nichole Broderick,2018,605
+1059,JHU,Nichole Broderick,2019,547
+1060,JHU,Nichole Broderick,2020,687
+1061,JHU,Nichole Broderick,2021,641
+1062,JHU,Nichole Broderick,2022,589
+1063,JHU,Xin Chen,2001,6
+1064,JHU,Xin Chen,2002,19
+1065,JHU,Xin Chen,2003,32
+1066,JHU,Xin Chen,2004,30
+1067,JHU,Xin Chen,2005,44
+1068,JHU,Xin Chen,2006,68
+1069,JHU,Xin Chen,2007,68
+1070,JHU,Xin Chen,2008,71
+1071,JHU,Xin Chen,2009,62
+1072,JHU,Xin Chen,2010,76
+1073,JHU,Xin Chen,2011,72
+1074,JHU,Xin Chen,2012,126
+1075,JHU,Xin Chen,2013,143
+1076,JHU,Xin Chen,2014,182
+1077,JHU,Xin Chen,2015,143
+1078,JHU,Xin Chen,2016,148
+1079,JHU,Xin Chen,2017,138
+1080,JHU,Xin Chen,2018,153
+1081,JHU,Xin Chen,2019,170
+1082,JHU,Xin Chen,2020,182
+1083,JHU,Xin Chen,2021,210
+1084,JHU,Xin Chen,2022,240
+1085,JHU,Kyle Cunningham,1990,94
+1086,JHU,Kyle Cunningham,1991,84
+1087,JHU,Kyle Cunningham,1992,85
+1088,JHU,Kyle Cunningham,1993,103
+1089,JHU,Kyle Cunningham,1994,105
+1090,JHU,Kyle Cunningham,1995,117
+1091,JHU,Kyle Cunningham,1996,126
+1092,JHU,Kyle Cunningham,1997,147
+1093,JHU,Kyle Cunningham,1998,193
+1094,JHU,Kyle Cunningham,1999,187
+1095,JHU,Kyle Cunningham,2000,221
+1096,JHU,Kyle Cunningham,2001,276
+1097,JHU,Kyle Cunningham,2002,320
+1098,JHU,Kyle Cunningham,2003,288
+1099,JHU,Kyle Cunningham,2004,357
+1100,JHU,Kyle Cunningham,2005,366
+1101,JHU,Kyle Cunningham,2006,299
+1102,JHU,Kyle Cunningham,2007,328
+1103,JHU,Kyle Cunningham,2008,334
+1104,JHU,Kyle Cunningham,2009,390
+1105,JHU,Kyle Cunningham,2010,345
+1106,JHU,Kyle Cunningham,2011,391
+1107,JHU,Kyle Cunningham,2012,418
+1108,JHU,Kyle Cunningham,2013,430
+1109,JHU,Kyle Cunningham,2014,347
+1110,JHU,Kyle Cunningham,2015,351
+1111,JHU,Kyle Cunningham,2016,412
+1112,JHU,Kyle Cunningham,2017,287
+1113,JHU,Kyle Cunningham,2018,258
+1114,JHU,Kyle Cunningham,2019,249
+1115,JHU,Kyle Cunningham,2020,268
+1116,JHU,Kyle Cunningham,2021,292
+1117,JHU,Kyle Cunningham,2022,265
+1118,JHU,Andrew Gordus,2004,19
+1119,JHU,Andrew Gordus,2005,25
+1120,JHU,Andrew Gordus,2006,78
+1121,JHU,Andrew Gordus,2007,111
+1122,JHU,Andrew Gordus,2008,118
+1123,JHU,Andrew Gordus,2009,134
+1124,JHU,Andrew Gordus,2010,129
+1125,JHU,Andrew Gordus,2011,110
+1126,JHU,Andrew Gordus,2012,159
+1127,JHU,Andrew Gordus,2013,277
+1128,JHU,Andrew Gordus,2014,342
+1129,JHU,Andrew Gordus,2015,432
+1130,JHU,Andrew Gordus,2016,415
+1131,JHU,Andrew Gordus,2017,509
+1132,JHU,Andrew Gordus,2018,602
+1133,JHU,Andrew Gordus,2019,643
+1134,JHU,Andrew Gordus,2020,572
+1135,JHU,Andrew Gordus,2021,558
+1136,JHU,Andrew Gordus,2022,513
+1137,JHU,Vincent Hilser,1996,23
+1138,JHU,Vincent Hilser,1997,78
+1139,JHU,Vincent Hilser,1998,98
+1140,JHU,Vincent Hilser,1999,75
+1141,JHU,Vincent Hilser,2000,106
+1142,JHU,Vincent Hilser,2001,126
+1143,JHU,Vincent Hilser,2002,113
+1144,JHU,Vincent Hilser,2003,107
+1145,JHU,Vincent Hilser,2004,173
+1146,JHU,Vincent Hilser,2005,160
+1147,JHU,Vincent Hilser,2006,195
+1148,JHU,Vincent Hilser,2007,198
+1149,JHU,Vincent Hilser,2008,281
+1150,JHU,Vincent Hilser,2009,284
+1151,JHU,Vincent Hilser,2010,256
+1152,JHU,Vincent Hilser,2011,277
+1153,JHU,Vincent Hilser,2012,339
+1154,JHU,Vincent Hilser,2013,303
+1155,JHU,Vincent Hilser,2014,362
+1156,JHU,Vincent Hilser,2015,445
+1157,JHU,Vincent Hilser,2016,491
+1158,JHU,Vincent Hilser,2017,444
+1159,JHU,Vincent Hilser,2018,460
+1160,JHU,Vincent Hilser,2019,452
+1161,JHU,Vincent Hilser,2020,517
+1162,JHU,Vincent Hilser,2021,533
+1163,JHU,Vincent Hilser,2022,480
+1164,JHU,Robert Johnston,2000,28
+1165,JHU,Robert Johnston,2001,109
+1166,JHU,Robert Johnston,2002,107
+1167,JHU,Robert Johnston,2003,162
+1168,JHU,Robert Johnston,2004,162
+1169,JHU,Robert Johnston,2005,264
+1170,JHU,Robert Johnston,2006,307
+1171,JHU,Robert Johnston,2007,273
+1172,JHU,Robert Johnston,2008,276
+1173,JHU,Robert Johnston,2009,305
+1174,JHU,Robert Johnston,2010,260
+1175,JHU,Robert Johnston,2011,267
+1176,JHU,Robert Johnston,2012,213
+1177,JHU,Robert Johnston,2013,237
+1178,JHU,Robert Johnston,2014,227
+1179,JHU,Robert Johnston,2015,189
+1180,JHU,Robert Johnston,2016,190
+1181,JHU,Robert Johnston,2017,219
+1182,JHU,Robert Johnston,2018,206
+1183,JHU,Robert Johnston,2019,220
+1184,JHU,Robert Johnston,2020,225
+1185,JHU,Robert Johnston,2021,242
+1186,JHU,Robert Johnston,2022,249
+1187,JHU,Christian Kaiser,2006,10
+1188,JHU,Christian Kaiser,2007,25
+1189,JHU,Christian Kaiser,2008,34
+1190,JHU,Christian Kaiser,2009,39
+1191,JHU,Christian Kaiser,2010,56
+1192,JHU,Christian Kaiser,2011,39
+1193,JHU,Christian Kaiser,2012,66
+1194,JHU,Christian Kaiser,2013,107
+1195,JHU,Christian Kaiser,2014,92
+1196,JHU,Christian Kaiser,2015,96
+1197,JHU,Christian Kaiser,2016,130
+1198,JHU,Christian Kaiser,2017,103
+1199,JHU,Christian Kaiser,2018,131
+1200,JHU,Christian Kaiser,2019,122
+1201,JHU,Christian Kaiser,2020,177
+1202,JHU,Christian Kaiser,2021,223
+1203,JHU,Christian Kaiser,2022,226
+1204,JHU,John Kim,1996,38
+1205,JHU,John Kim,1997,29
+1206,JHU,John Kim,1998,44
+1207,JHU,John Kim,1999,65
+1208,JHU,John Kim,2000,96
+1209,JHU,John Kim,2001,190
+1210,JHU,John Kim,2002,214
+1211,JHU,John Kim,2003,219
+1212,JHU,John Kim,2004,308
+1213,JHU,John Kim,2005,308
+1214,JHU,John Kim,2006,358
+1215,JHU,John Kim,2007,351
+1216,JHU,John Kim,2008,401
+1217,JHU,John Kim,2009,386
+1218,JHU,John Kim,2010,405
+1219,JHU,John Kim,2011,498
+1220,JHU,John Kim,2012,591
+1221,JHU,John Kim,2013,536
+1222,JHU,John Kim,2014,596
+1223,JHU,John Kim,2015,495
+1224,JHU,John Kim,2016,468
+1225,JHU,John Kim,2017,453
+1226,JHU,John Kim,2018,486
+1227,JHU,John Kim,2019,496
+1228,JHU,John Kim,2020,495
+1229,JHU,John Kim,2021,549
+1230,JHU,John Kim,2022,453
+1231,JHU,Yumi Kim,2005,11
+1232,JHU,Yumi Kim,2006,10
+1233,JHU,Yumi Kim,2007,20
+1234,JHU,Yumi Kim,2008,27
+1235,JHU,Yumi Kim,2009,28
+1236,JHU,Yumi Kim,2010,35
+1237,JHU,Yumi Kim,2011,48
+1238,JHU,Yumi Kim,2012,56
+1239,JHU,Yumi Kim,2013,57
+1240,JHU,Yumi Kim,2014,81
+1241,JHU,Yumi Kim,2015,104
+1242,JHU,Yumi Kim,2016,71
+1243,JHU,Yumi Kim,2017,92
+1244,JHU,Yumi Kim,2018,102
+1245,JHU,Yumi Kim,2019,99
+1246,JHU,Yumi Kim,2020,93
+1247,JHU,Yumi Kim,2021,101
+1248,JHU,Yumi Kim,2022,84
+1249,JHU,Rejji Kuruvilla,2001,27
+1250,JHU,Rejji Kuruvilla,2002,32
+1251,JHU,Rejji Kuruvilla,2003,36
+1252,JHU,Rejji Kuruvilla,2004,61
+1253,JHU,Rejji Kuruvilla,2005,82
+1254,JHU,Rejji Kuruvilla,2006,101
+1255,JHU,Rejji Kuruvilla,2007,124
+1256,JHU,Rejji Kuruvilla,2008,119
+1257,JHU,Rejji Kuruvilla,2009,138
+1258,JHU,Rejji Kuruvilla,2010,136
+1259,JHU,Rejji Kuruvilla,2011,174
+1260,JHU,Rejji Kuruvilla,2012,191
+1261,JHU,Rejji Kuruvilla,2013,188
+1262,JHU,Rejji Kuruvilla,2014,258
+1263,JHU,Rejji Kuruvilla,2015,221
+1264,JHU,Rejji Kuruvilla,2016,263
+1265,JHU,Rejji Kuruvilla,2017,219
+1266,JHU,Rejji Kuruvilla,2018,295
+1267,JHU,Rejji Kuruvilla,2019,236
+1268,JHU,Rejji Kuruvilla,2020,252
+1269,JHU,Rejji Kuruvilla,2021,346
+1270,JHU,Rejji Kuruvilla,2022,349
+1271,JHU,Rajiv McCoy,2015,69
+1272,JHU,Rajiv McCoy,2016,147
+1273,JHU,Rajiv McCoy,2017,211
+1274,JHU,Rajiv McCoy,2018,241
+1275,JHU,Rajiv McCoy,2019,295
+1276,JHU,Rajiv McCoy,2020,420
+1277,JHU,Rajiv McCoy,2021,615
+1278,JHU,Rajiv McCoy,2022,1215
+1279,JHU,Michael Schatz,2007,182
+1280,JHU,Michael Schatz,2008,549
+1281,JHU,Michael Schatz,2009,725
+1282,JHU,Michael Schatz,2010,845
+1283,JHU,Michael Schatz,2011,1175
+1284,JHU,Michael Schatz,2012,1586
+1285,JHU,Michael Schatz,2013,1848
+1286,JHU,Michael Schatz,2014,2376
+1287,JHU,Michael Schatz,2015,2475
+1288,JHU,Michael Schatz,2016,2777
+1289,JHU,Michael Schatz,2017,2975
+1290,JHU,Michael Schatz,2018,2998
+1291,JHU,Michael Schatz,2019,3520
+1292,JHU,Michael Schatz,2020,3799
+1293,JHU,Michael Schatz,2021,4778
+1294,JHU,Michael Schatz,2022,5315
+1295,JHU,Trina Schroer,1989,51
+1296,JHU,Trina Schroer,1990,83
+1297,JHU,Trina Schroer,1991,173
+1298,JHU,Trina Schroer,1992,206
+1299,JHU,Trina Schroer,1993,213
+1300,JHU,Trina Schroer,1994,226
+1301,JHU,Trina Schroer,1995,280
+1302,JHU,Trina Schroer,1996,353
+1303,JHU,Trina Schroer,1997,286
+1304,JHU,Trina Schroer,1998,475
+1305,JHU,Trina Schroer,1999,458
+1306,JHU,Trina Schroer,2000,524
+1307,JHU,Trina Schroer,2001,410
+1308,JHU,Trina Schroer,2002,460
+1309,JHU,Trina Schroer,2003,470
+1310,JHU,Trina Schroer,2004,533
+1311,JHU,Trina Schroer,2005,542
+1312,JHU,Trina Schroer,2006,576
+1313,JHU,Trina Schroer,2007,523
+1314,JHU,Trina Schroer,2008,596
+1315,JHU,Trina Schroer,2009,627
+1316,JHU,Trina Schroer,2010,568
+1317,JHU,Trina Schroer,2011,511
+1318,JHU,Trina Schroer,2012,605
+1319,JHU,Trina Schroer,2013,597
+1320,JHU,Trina Schroer,2014,574
+1321,JHU,Trina Schroer,2015,462
+1322,JHU,Trina Schroer,2016,499
+1323,JHU,Trina Schroer,2017,462
+1324,JHU,Trina Schroer,2018,497
+1325,JHU,Trina Schroer,2019,472
+1326,JHU,Trina Schroer,2020,473
+1327,JHU,Trina Schroer,2021,443
+1328,JHU,Trina Schroer,2022,340
+1329,JHU,Tatjana Trcek,2006,7
+1330,JHU,Tatjana Trcek,2007,42
+1331,JHU,Tatjana Trcek,2008,56
+1332,JHU,Tatjana Trcek,2009,58
+1333,JHU,Tatjana Trcek,2010,59
+1334,JHU,Tatjana Trcek,2011,64
+1335,JHU,Tatjana Trcek,2012,100
+1336,JHU,Tatjana Trcek,2013,146
+1337,JHU,Tatjana Trcek,2014,144
+1338,JHU,Tatjana Trcek,2015,105
+1339,JHU,Tatjana Trcek,2016,168
+1340,JHU,Tatjana Trcek,2017,134
+1341,JHU,Tatjana Trcek,2018,150
+1342,JHU,Tatjana Trcek,2019,175
+1343,JHU,Tatjana Trcek,2020,213
+1344,JHU,Tatjana Trcek,2021,242
+1345,JHU,Tatjana Trcek,2022,181
+1346,JHU,Mark Van Doren,1992,16
+1347,JHU,Mark Van Doren,1993,35
+1348,JHU,Mark Van Doren,1994,48
+1349,JHU,Mark Van Doren,1995,46
+1350,JHU,Mark Van Doren,1996,65
+1351,JHU,Mark Van Doren,1997,72
+1352,JHU,Mark Van Doren,1998,78
+1353,JHU,Mark Van Doren,1999,116
+1354,JHU,Mark Van Doren,2000,95
+1355,JHU,Mark Van Doren,2001,90
+1356,JHU,Mark Van Doren,2002,97
+1357,JHU,Mark Van Doren,2003,112
+1358,JHU,Mark Van Doren,2004,106
+1359,JHU,Mark Van Doren,2005,112
+1360,JHU,Mark Van Doren,2006,152
+1361,JHU,Mark Van Doren,2007,132
+1362,JHU,Mark Van Doren,2008,139
+1363,JHU,Mark Van Doren,2009,121
+1364,JHU,Mark Van Doren,2010,134
+1365,JHU,Mark Van Doren,2011,202
+1366,JHU,Mark Van Doren,2012,212
+1367,JHU,Mark Van Doren,2013,123
+1368,JHU,Mark Van Doren,2014,174
+1369,JHU,Mark Van Doren,2015,184
+1370,JHU,Mark Van Doren,2016,169
+1371,JHU,Mark Van Doren,2017,159
+1372,JHU,Mark Van Doren,2018,191
+1373,JHU,Mark Van Doren,2019,151
+1374,JHU,Mark Van Doren,2020,144
+1375,JHU,Mark Van Doren,2021,197
+1376,JHU,Mark Van Doren,2022,156
+1377,JHU,Carl Wu,1983,145
+1378,JHU,Carl Wu,1984,183
+1379,JHU,Carl Wu,1985,220
+1380,JHU,Carl Wu,1986,278
+1381,JHU,Carl Wu,1987,272
+1382,JHU,Carl Wu,1988,262
+1383,JHU,Carl Wu,1989,252
+1384,JHU,Carl Wu,1990,257
+1385,JHU,Carl Wu,1991,306
+1386,JHU,Carl Wu,1992,307
+1387,JHU,Carl Wu,1993,455
+1388,JHU,Carl Wu,1994,543
+1389,JHU,Carl Wu,1995,694
+1390,JHU,Carl Wu,1996,730
+1391,JHU,Carl Wu,1997,827
+1392,JHU,Carl Wu,1998,1071
+1393,JHU,Carl Wu,1999,1031
+1394,JHU,Carl Wu,2000,870
+1395,JHU,Carl Wu,2001,745
+1396,JHU,Carl Wu,2002,787
+1397,JHU,Carl Wu,2003,856
+1398,JHU,Carl Wu,2004,849
+1399,JHU,Carl Wu,2005,870
+1400,JHU,Carl Wu,2006,917
+1401,JHU,Carl Wu,2007,1028
+1402,JHU,Carl Wu,2008,862
+1403,JHU,Carl Wu,2009,950
+1404,JHU,Carl Wu,2010,1009
+1405,JHU,Carl Wu,2011,1085
+1406,JHU,Carl Wu,2012,1141
+1407,JHU,Carl Wu,2013,1024
+1408,JHU,Carl Wu,2014,1003
+1409,JHU,Carl Wu,2015,980
+1410,JHU,Carl Wu,2016,1008
+1411,JHU,Carl Wu,2017,998
+1412,JHU,Carl Wu,2018,883
+1413,JHU,Carl Wu,2019,820
+1414,JHU,Carl Wu,2020,869
+1415,JHU,Carl Wu,2021,890
+1416,JHU,Carl Wu,2022,774
+1417,JHU,Haiqing Zhao,1998,31
+1418,JHU,Haiqing Zhao,1999,63
+1419,JHU,Haiqing Zhao,2000,58
+1420,JHU,Haiqing Zhao,2001,67
+1421,JHU,Haiqing Zhao,2002,53
+1422,JHU,Haiqing Zhao,2003,61
+1423,JHU,Haiqing Zhao,2004,62
+1424,JHU,Haiqing Zhao,2005,55
+1425,JHU,Haiqing Zhao,2006,38
+1426,JHU,Haiqing Zhao,2007,45
+1427,JHU,Haiqing Zhao,2008,69
+1428,JHU,Haiqing Zhao,2009,101
+1429,JHU,Haiqing Zhao,2010,123
+1430,JHU,Haiqing Zhao,2011,152
+1431,JHU,Haiqing Zhao,2012,167
+1432,JHU,Haiqing Zhao,2013,197
+1433,JHU,Haiqing Zhao,2014,238
+1434,JHU,Haiqing Zhao,2015,241
+1435,JHU,Haiqing Zhao,2016,263
+1436,JHU,Haiqing Zhao,2017,265
+1437,JHU,Haiqing Zhao,2018,289
+1438,JHU,Haiqing Zhao,2019,272
+1439,JHU,Haiqing Zhao,2020,354
+1440,JHU,Haiqing Zhao,2021,428
+1441,JHU,Haiqing Zhao,2022,356
+1442,MIT,Tania A. Baker,1985,76
+1443,MIT,Tania A. Baker,1986,102
+1444,MIT,Tania A. Baker,1987,182
+1445,MIT,Tania A. Baker,1988,234
+1446,MIT,Tania A. Baker,1989,259
+1447,MIT,Tania A. Baker,1990,277
+1448,MIT,Tania A. Baker,1991,261
+1449,MIT,Tania A. Baker,1992,379
+1450,MIT,Tania A. Baker,1993,385
+1451,MIT,Tania A. Baker,1994,479
+1452,MIT,Tania A. Baker,1995,521
+1453,MIT,Tania A. Baker,1996,598
+1454,MIT,Tania A. Baker,1997,561
+1455,MIT,Tania A. Baker,1998,613
+1456,MIT,Tania A. Baker,1999,571
+1457,MIT,Tania A. Baker,2000,600
+1458,MIT,Tania A. Baker,2001,686
+1459,MIT,Tania A. Baker,2002,617
+1460,MIT,Tania A. Baker,2003,658
+1461,MIT,Tania A. Baker,2004,722
+1462,MIT,Tania A. Baker,2005,717
+1463,MIT,Tania A. Baker,2006,844
+1464,MIT,Tania A. Baker,2007,1014
+1465,MIT,Tania A. Baker,2008,959
+1466,MIT,Tania A. Baker,2009,1033
+1467,MIT,Tania A. Baker,2010,876
+1468,MIT,Tania A. Baker,2011,991
+1469,MIT,Tania A. Baker,2012,1006
+1470,MIT,Tania A. Baker,2013,1234
+1471,MIT,Tania A. Baker,2014,1058
+1472,MIT,Tania A. Baker,2015,1149
+1473,MIT,Tania A. Baker,2016,1379
+1474,MIT,Tania A. Baker,2017,1224
+1475,MIT,Tania A. Baker,2018,1163
+1476,MIT,Tania A. Baker,2019,1030
+1477,MIT,Tania A. Baker,2020,1199
+1478,MIT,Tania A. Baker,2021,1048
+1479,MIT,Tania A. Baker,2022,1037
+1480,MIT,David Bartel,2002,810
+1481,MIT,David Bartel,2003,1311
+1482,MIT,David Bartel,2004,2492
+1483,MIT,David Bartel,2005,3489
+1484,MIT,David Bartel,2006,4484
+1485,MIT,David Bartel,2007,5938
+1486,MIT,David Bartel,2008,6895
+1487,MIT,David Bartel,2009,8882
+1488,MIT,David Bartel,2010,11003
+1489,MIT,David Bartel,2011,12387
+1490,MIT,David Bartel,2012,14889
+1491,MIT,David Bartel,2013,15961
+1492,MIT,David Bartel,2014,16277
+1493,MIT,David Bartel,2015,16437
+1494,MIT,David Bartel,2016,15422
+1495,MIT,David Bartel,2017,14813
+1496,MIT,David Bartel,2018,14098
+1497,MIT,David Bartel,2019,14182
+1498,MIT,David Bartel,2020,13777
+1499,MIT,David Bartel,2021,13958
+1500,MIT,David Bartel,2022,11205
+1501,MIT,Eliezer Calo,2009,16
+1502,MIT,Eliezer Calo,2010,51
+1503,MIT,Eliezer Calo,2011,69
+1504,MIT,Eliezer Calo,2012,95
+1505,MIT,Eliezer Calo,2013,126
+1506,MIT,Eliezer Calo,2014,218
+1507,MIT,Eliezer Calo,2015,265
+1508,MIT,Eliezer Calo,2016,266
+1509,MIT,Eliezer Calo,2017,329
+1510,MIT,Eliezer Calo,2018,370
+1511,MIT,Eliezer Calo,2019,389
+1512,MIT,Eliezer Calo,2020,340
+1513,MIT,Eliezer Calo,2021,456
+1514,MIT,Eliezer Calo,2022,359
+1515,MIT,Lindsay Case,2011,8
+1516,MIT,Lindsay Case,2012,14
+1517,MIT,Lindsay Case,2013,19
+1518,MIT,Lindsay Case,2014,30
+1519,MIT,Lindsay Case,2015,38
+1520,MIT,Lindsay Case,2016,123
+1521,MIT,Lindsay Case,2017,155
+1522,MIT,Lindsay Case,2018,146
+1523,MIT,Lindsay Case,2019,217
+1524,MIT,Lindsay Case,2020,274
+1525,MIT,Lindsay Case,2021,354
+1526,MIT,Lindsay Case,2022,353
+1527,MIT,Iain M. Cheeseman,2001,47
+1528,MIT,Iain M. Cheeseman,2002,79
+1529,MIT,Iain M. Cheeseman,2003,159
+1530,MIT,Iain M. Cheeseman,2004,195
+1531,MIT,Iain M. Cheeseman,2005,284
+1532,MIT,Iain M. Cheeseman,2006,227
+1533,MIT,Iain M. Cheeseman,2007,354
+1534,MIT,Iain M. Cheeseman,2008,342
+1535,MIT,Iain M. Cheeseman,2009,546
+1536,MIT,Iain M. Cheeseman,2010,669
+1537,MIT,Iain M. Cheeseman,2011,836
+1538,MIT,Iain M. Cheeseman,2012,903
+1539,MIT,Iain M. Cheeseman,2013,855
+1540,MIT,Iain M. Cheeseman,2014,937
+1541,MIT,Iain M. Cheeseman,2015,957
+1542,MIT,Iain M. Cheeseman,2016,1049
+1543,MIT,Iain M. Cheeseman,2017,1169
+1544,MIT,Iain M. Cheeseman,2018,976
+1545,MIT,Iain M. Cheeseman,2019,1047
+1546,MIT,Iain M. Cheeseman,2020,1150
+1547,MIT,Iain M. Cheeseman,2021,1065
+1548,MIT,Iain M. Cheeseman,2022,953
+1549,MIT,Jianzhu Chen,1993,74
+1550,MIT,Jianzhu Chen,1994,172
+1551,MIT,Jianzhu Chen,1995,200
+1552,MIT,Jianzhu Chen,1996,282
+1553,MIT,Jianzhu Chen,1997,250
+1554,MIT,Jianzhu Chen,1998,339
+1555,MIT,Jianzhu Chen,1999,325
+1556,MIT,Jianzhu Chen,2000,351
+1557,MIT,Jianzhu Chen,2001,420
+1558,MIT,Jianzhu Chen,2002,510
+1559,MIT,Jianzhu Chen,2003,743
+1560,MIT,Jianzhu Chen,2004,753
+1561,MIT,Jianzhu Chen,2005,961
+1562,MIT,Jianzhu Chen,2006,913
+1563,MIT,Jianzhu Chen,2007,932
+1564,MIT,Jianzhu Chen,2008,1012
+1565,MIT,Jianzhu Chen,2009,996
+1566,MIT,Jianzhu Chen,2010,1036
+1567,MIT,Jianzhu Chen,2011,1026
+1568,MIT,Jianzhu Chen,2012,1191
+1569,MIT,Jianzhu Chen,2013,1244
+1570,MIT,Jianzhu Chen,2014,1360
+1571,MIT,Jianzhu Chen,2015,1377
+1572,MIT,Jianzhu Chen,2016,1321
+1573,MIT,Jianzhu Chen,2017,1175
+1574,MIT,Jianzhu Chen,2018,1252
+1575,MIT,Jianzhu Chen,2019,1242
+1576,MIT,Jianzhu Chen,2020,1326
+1577,MIT,Jianzhu Chen,2021,1628
+1578,MIT,Jianzhu Chen,2022,1388
+1579,MIT,Sallie (Penny) W. Chisholm,1989,213
+1580,MIT,Sallie (Penny) W. Chisholm,1990,199
+1581,MIT,Sallie (Penny) W. Chisholm,1991,215
+1582,MIT,Sallie (Penny) W. Chisholm,1992,240
+1583,MIT,Sallie (Penny) W. Chisholm,1993,313
+1584,MIT,Sallie (Penny) W. Chisholm,1994,291
+1585,MIT,Sallie (Penny) W. Chisholm,1995,376
+1586,MIT,Sallie (Penny) W. Chisholm,1996,461
+1587,MIT,Sallie (Penny) W. Chisholm,1997,430
+1588,MIT,Sallie (Penny) W. Chisholm,1998,468
+1589,MIT,Sallie (Penny) W. Chisholm,1999,630
+1590,MIT,Sallie (Penny) W. Chisholm,2000,665
+1591,MIT,Sallie (Penny) W. Chisholm,2001,739
+1592,MIT,Sallie (Penny) W. Chisholm,2002,720
+1593,MIT,Sallie (Penny) W. Chisholm,2003,960
+1594,MIT,Sallie (Penny) W. Chisholm,2004,806
+1595,MIT,Sallie (Penny) W. Chisholm,2005,1179
+1596,MIT,Sallie (Penny) W. Chisholm,2006,1319
+1597,MIT,Sallie (Penny) W. Chisholm,2007,1576
+1598,MIT,Sallie (Penny) W. Chisholm,2008,1720
+1599,MIT,Sallie (Penny) W. Chisholm,2009,1683
+1600,MIT,Sallie (Penny) W. Chisholm,2010,1915
+1601,MIT,Sallie (Penny) W. Chisholm,2011,2044
+1602,MIT,Sallie (Penny) W. Chisholm,2012,2413
+1603,MIT,Sallie (Penny) W. Chisholm,2013,2383
+1604,MIT,Sallie (Penny) W. Chisholm,2014,2624
+1605,MIT,Sallie (Penny) W. Chisholm,2015,2376
+1606,MIT,Sallie (Penny) W. Chisholm,2016,2370
+1607,MIT,Sallie (Penny) W. Chisholm,2017,2206
+1608,MIT,Sallie (Penny) W. Chisholm,2018,2217
+1609,MIT,Sallie (Penny) W. Chisholm,2019,2095
+1610,MIT,Sallie (Penny) W. Chisholm,2020,2225
+1611,MIT,Sallie (Penny) W. Chisholm,2021,2365
+1612,MIT,Sallie (Penny) W. Chisholm,2022,2221
+1613,MIT,Ibrahim Cissé,2004,21
+1614,MIT,Ibrahim Cissé,2005,44
+1615,MIT,Ibrahim Cissé,2006,45
+1616,MIT,Ibrahim Cissé,2007,55
+1617,MIT,Ibrahim Cissé,2008,79
+1618,MIT,Ibrahim Cissé,2009,81
+1619,MIT,Ibrahim Cissé,2010,100
+1620,MIT,Ibrahim Cissé,2011,80
+1621,MIT,Ibrahim Cissé,2012,105
+1622,MIT,Ibrahim Cissé,2013,108
+1623,MIT,Ibrahim Cissé,2014,134
+1624,MIT,Ibrahim Cissé,2015,164
+1625,MIT,Ibrahim Cissé,2016,173
+1626,MIT,Ibrahim Cissé,2017,186
+1627,MIT,Ibrahim Cissé,2018,351
+1628,MIT,Ibrahim Cissé,2019,646
+1629,MIT,Ibrahim Cissé,2020,832
+1630,MIT,Ibrahim Cissé,2021,1267
+1631,MIT,Ibrahim Cissé,2022,1103
+1632,MIT,Olivia Corradin,2012,12
+1633,MIT,Olivia Corradin,2013,32
+1634,MIT,Olivia Corradin,2014,68
+1635,MIT,Olivia Corradin,2015,130
+1636,MIT,Olivia Corradin,2016,193
+1637,MIT,Olivia Corradin,2017,201
+1638,MIT,Olivia Corradin,2018,206
+1639,MIT,Olivia Corradin,2019,185
+1640,MIT,Olivia Corradin,2020,190
+1641,MIT,Olivia Corradin,2021,226
+1642,MIT,Olivia Corradin,2022,156
+1643,MIT,Joseph (Joey) Davis,2007,8
+1644,MIT,Joseph (Joey) Davis,2008,18
+1645,MIT,Joseph (Joey) Davis,2009,19
+1646,MIT,Joseph (Joey) Davis,2010,53
+1647,MIT,Joseph (Joey) Davis,2011,53
+1648,MIT,Joseph (Joey) Davis,2012,79
+1649,MIT,Joseph (Joey) Davis,2013,95
+1650,MIT,Joseph (Joey) Davis,2014,92
+1651,MIT,Joseph (Joey) Davis,2015,105
+1652,MIT,Joseph (Joey) Davis,2016,159
+1653,MIT,Joseph (Joey) Davis,2017,157
+1654,MIT,Joseph (Joey) Davis,2018,207
+1655,MIT,Joseph (Joey) Davis,2019,221
+1656,MIT,Joseph (Joey) Davis,2020,331
+1657,MIT,Joseph (Joey) Davis,2021,439
+1658,MIT,Joseph (Joey) Davis,2022,523
+1659,MIT,Catherine Drennan,1996,60
+1660,MIT,Catherine Drennan,1997,79
+1661,MIT,Catherine Drennan,1998,94
+1662,MIT,Catherine Drennan,1999,82
+1663,MIT,Catherine Drennan,2000,51
+1664,MIT,Catherine Drennan,2001,84
+1665,MIT,Catherine Drennan,2002,125
+1666,MIT,Catherine Drennan,2003,163
+1667,MIT,Catherine Drennan,2004,216
+1668,MIT,Catherine Drennan,2005,213
+1669,MIT,Catherine Drennan,2006,251
+1670,MIT,Catherine Drennan,2007,288
+1671,MIT,Catherine Drennan,2008,301
+1672,MIT,Catherine Drennan,2009,385
+1673,MIT,Catherine Drennan,2010,339
+1674,MIT,Catherine Drennan,2011,459
+1675,MIT,Catherine Drennan,2012,472
+1676,MIT,Catherine Drennan,2013,487
+1677,MIT,Catherine Drennan,2014,553
+1678,MIT,Catherine Drennan,2015,560
+1679,MIT,Catherine Drennan,2016,593
+1680,MIT,Catherine Drennan,2017,760
+1681,MIT,Catherine Drennan,2018,823
+1682,MIT,Catherine Drennan,2019,865
+1683,MIT,Catherine Drennan,2020,869
+1684,MIT,Catherine Drennan,2021,1004
+1685,MIT,Catherine Drennan,2022,1066
+1686,MIT,Mary Gehring,2004,61
+1687,MIT,Mary Gehring,2005,77
+1688,MIT,Mary Gehring,2006,110
+1689,MIT,Mary Gehring,2007,220
+1690,MIT,Mary Gehring,2008,254
+1691,MIT,Mary Gehring,2009,289
+1692,MIT,Mary Gehring,2010,362
+1693,MIT,Mary Gehring,2011,383
+1694,MIT,Mary Gehring,2012,439
+1695,MIT,Mary Gehring,2013,472
+1696,MIT,Mary Gehring,2014,394
+1697,MIT,Mary Gehring,2015,355
+1698,MIT,Mary Gehring,2016,357
+1699,MIT,Mary Gehring,2017,445
+1700,MIT,Mary Gehring,2018,470
+1701,MIT,Mary Gehring,2019,495
+1702,MIT,Mary Gehring,2020,611
+1703,MIT,Mary Gehring,2021,703
+1704,MIT,Mary Gehring,2022,693
+1705,MIT,Alan D. Grossman,1985,76
+1706,MIT,Alan D. Grossman,1986,88
+1707,MIT,Alan D. Grossman,1987,123
+1708,MIT,Alan D. Grossman,1988,115
+1709,MIT,Alan D. Grossman,1989,109
+1710,MIT,Alan D. Grossman,1990,159
+1711,MIT,Alan D. Grossman,1991,184
+1712,MIT,Alan D. Grossman,1992,190
+1713,MIT,Alan D. Grossman,1993,261
+1714,MIT,Alan D. Grossman,1994,251
+1715,MIT,Alan D. Grossman,1995,330
+1716,MIT,Alan D. Grossman,1996,304
+1717,MIT,Alan D. Grossman,1997,324
+1718,MIT,Alan D. Grossman,1998,427
+1719,MIT,Alan D. Grossman,1999,483
+1720,MIT,Alan D. Grossman,2000,558
+1721,MIT,Alan D. Grossman,2001,678
+1722,MIT,Alan D. Grossman,2002,525
+1723,MIT,Alan D. Grossman,2003,618
+1724,MIT,Alan D. Grossman,2004,711
+1725,MIT,Alan D. Grossman,2005,750
+1726,MIT,Alan D. Grossman,2006,875
+1727,MIT,Alan D. Grossman,2007,899
+1728,MIT,Alan D. Grossman,2008,903
+1729,MIT,Alan D. Grossman,2009,851
+1730,MIT,Alan D. Grossman,2010,837
+1731,MIT,Alan D. Grossman,2011,817
+1732,MIT,Alan D. Grossman,2012,960
+1733,MIT,Alan D. Grossman,2013,934
+1734,MIT,Alan D. Grossman,2014,844
+1735,MIT,Alan D. Grossman,2015,1034
+1736,MIT,Alan D. Grossman,2016,914
+1737,MIT,Alan D. Grossman,2017,1017
+1738,MIT,Alan D. Grossman,2018,916
+1739,MIT,Alan D. Grossman,2019,977
+1740,MIT,Alan D. Grossman,2020,926
+1741,MIT,Alan D. Grossman,2021,903
+1742,MIT,Alan D. Grossman,2022,865
+1743,MIT,Siniša Hrvatin,2007,12
+1744,MIT,Siniša Hrvatin,2008,38
+1745,MIT,Siniša Hrvatin,2009,69
+1746,MIT,Siniša Hrvatin,2010,44
+1747,MIT,Siniša Hrvatin,2011,52
+1748,MIT,Siniša Hrvatin,2012,39
+1749,MIT,Siniša Hrvatin,2013,57
+1750,MIT,Siniša Hrvatin,2014,79
+1751,MIT,Siniša Hrvatin,2015,130
+1752,MIT,Siniša Hrvatin,2016,153
+1753,MIT,Siniša Hrvatin,2017,144
+1754,MIT,Siniša Hrvatin,2018,232
+1755,MIT,Siniša Hrvatin,2019,287
+1756,MIT,Siniša Hrvatin,2020,348
+1757,MIT,Siniša Hrvatin,2021,493
+1758,MIT,Siniša Hrvatin,2022,316
+1759,MIT,Kristin Knouse,2009,23
+1760,MIT,Kristin Knouse,2010,26
+1761,MIT,Kristin Knouse,2011,19
+1762,MIT,Kristin Knouse,2012,26
+1763,MIT,Kristin Knouse,2013,19
+1764,MIT,Kristin Knouse,2014,18
+1765,MIT,Kristin Knouse,2015,39
+1766,MIT,Kristin Knouse,2016,75
+1767,MIT,Kristin Knouse,2017,93
+1768,MIT,Kristin Knouse,2018,148
+1769,MIT,Kristin Knouse,2019,224
+1770,MIT,Kristin Knouse,2020,183
+1771,MIT,Kristin Knouse,2021,252
+1772,MIT,Kristin Knouse,2022,178
+1773,MIT,Rebecca Lamason,2006,40
+1774,MIT,Rebecca Lamason,2007,71
+1775,MIT,Rebecca Lamason,2008,91
+1776,MIT,Rebecca Lamason,2009,93
+1777,MIT,Rebecca Lamason,2010,73
+1778,MIT,Rebecca Lamason,2011,83
+1779,MIT,Rebecca Lamason,2012,79
+1780,MIT,Rebecca Lamason,2013,97
+1781,MIT,Rebecca Lamason,2014,110
+1782,MIT,Rebecca Lamason,2015,111
+1783,MIT,Rebecca Lamason,2016,124
+1784,MIT,Rebecca Lamason,2017,98
+1785,MIT,Rebecca Lamason,2018,119
+1786,MIT,Rebecca Lamason,2019,121
+1787,MIT,Rebecca Lamason,2020,119
+1788,MIT,Rebecca Lamason,2021,156
+1789,MIT,Rebecca Lamason,2022,152
+1790,MIT,Michael T. Laub,2000,100
+1791,MIT,Michael T. Laub,2001,213
+1792,MIT,Michael T. Laub,2002,391
+1793,MIT,Michael T. Laub,2003,362
+1794,MIT,Michael T. Laub,2004,433
+1795,MIT,Michael T. Laub,2005,348
+1796,MIT,Michael T. Laub,2006,430
+1797,MIT,Michael T. Laub,2007,440
+1798,MIT,Michael T. Laub,2008,517
+1799,MIT,Michael T. Laub,2009,572
+1800,MIT,Michael T. Laub,2010,585
+1801,MIT,Michael T. Laub,2011,577
+1802,MIT,Michael T. Laub,2012,756
+1803,MIT,Michael T. Laub,2013,778
+1804,MIT,Michael T. Laub,2014,816
+1805,MIT,Michael T. Laub,2015,942
+1806,MIT,Michael T. Laub,2016,1016
+1807,MIT,Michael T. Laub,2017,995
+1808,MIT,Michael T. Laub,2018,1087
+1809,MIT,Michael T. Laub,2019,1188
+1810,MIT,Michael T. Laub,2020,1273
+1811,MIT,Michael T. Laub,2021,1253
+1812,MIT,Michael T. Laub,2022,1180
+1813,MIT,Douglas Lauffenburger,1994,206
+1814,MIT,Douglas Lauffenburger,1995,276
+1815,MIT,Douglas Lauffenburger,1996,320
+1816,MIT,Douglas Lauffenburger,1997,451
+1817,MIT,Douglas Lauffenburger,1998,570
+1818,MIT,Douglas Lauffenburger,1999,782
+1819,MIT,Douglas Lauffenburger,2000,884
+1820,MIT,Douglas Lauffenburger,2001,916
+1821,MIT,Douglas Lauffenburger,2002,1160
+1822,MIT,Douglas Lauffenburger,2003,1323
+1823,MIT,Douglas Lauffenburger,2004,1622
+1824,MIT,Douglas Lauffenburger,2005,1764
+1825,MIT,Douglas Lauffenburger,2006,2147
+1826,MIT,Douglas Lauffenburger,2007,2196
+1827,MIT,Douglas Lauffenburger,2008,2398
+1828,MIT,Douglas Lauffenburger,2009,2565
+1829,MIT,Douglas Lauffenburger,2010,2871
+1830,MIT,Douglas Lauffenburger,2011,2850
+1831,MIT,Douglas Lauffenburger,2012,3206
+1832,MIT,Douglas Lauffenburger,2013,3421
+1833,MIT,Douglas Lauffenburger,2014,3329
+1834,MIT,Douglas Lauffenburger,2015,2913
+1835,MIT,Douglas Lauffenburger,2016,3033
+1836,MIT,Douglas Lauffenburger,2017,3033
+1837,MIT,Douglas Lauffenburger,2018,3177
+1838,MIT,Douglas Lauffenburger,2019,2842
+1839,MIT,Douglas Lauffenburger,2020,2846
+1840,MIT,Douglas Lauffenburger,2021,2709
+1841,MIT,Douglas Lauffenburger,2022,2136
+1842,MIT,Jacqueline Lees,1990,54
+1843,MIT,Jacqueline Lees,1991,120
+1844,MIT,Jacqueline Lees,1992,184
+1845,MIT,Jacqueline Lees,1993,329
+1846,MIT,Jacqueline Lees,1994,381
+1847,MIT,Jacqueline Lees,1995,436
+1848,MIT,Jacqueline Lees,1996,475
+1849,MIT,Jacqueline Lees,1997,545
+1850,MIT,Jacqueline Lees,1998,546
+1851,MIT,Jacqueline Lees,1999,501
+1852,MIT,Jacqueline Lees,2000,583
+1853,MIT,Jacqueline Lees,2001,636
+1854,MIT,Jacqueline Lees,2002,734
+1855,MIT,Jacqueline Lees,2003,729
+1856,MIT,Jacqueline Lees,2004,798
+1857,MIT,Jacqueline Lees,2005,826
+1858,MIT,Jacqueline Lees,2006,732
+1859,MIT,Jacqueline Lees,2007,813
+1860,MIT,Jacqueline Lees,2008,783
+1861,MIT,Jacqueline Lees,2009,711
+1862,MIT,Jacqueline Lees,2010,860
+1863,MIT,Jacqueline Lees,2011,790
+1864,MIT,Jacqueline Lees,2012,865
+1865,MIT,Jacqueline Lees,2013,828
+1866,MIT,Jacqueline Lees,2014,758
+1867,MIT,Jacqueline Lees,2015,728
+1868,MIT,Jacqueline Lees,2016,632
+1869,MIT,Jacqueline Lees,2017,657
+1870,MIT,Jacqueline Lees,2018,636
+1871,MIT,Jacqueline Lees,2019,688
+1872,MIT,Jacqueline Lees,2020,711
+1873,MIT,Jacqueline Lees,2021,849
+1874,MIT,Jacqueline Lees,2022,679
+1875,MIT,Ruth Lehmann,1987,116
+1876,MIT,Ruth Lehmann,1988,204
+1877,MIT,Ruth Lehmann,1989,284
+1878,MIT,Ruth Lehmann,1990,326
+1879,MIT,Ruth Lehmann,1991,302
+1880,MIT,Ruth Lehmann,1992,307
+1881,MIT,Ruth Lehmann,1993,296
+1882,MIT,Ruth Lehmann,1994,349
+1883,MIT,Ruth Lehmann,1995,355
+1884,MIT,Ruth Lehmann,1996,470
+1885,MIT,Ruth Lehmann,1997,446
+1886,MIT,Ruth Lehmann,1998,562
+1887,MIT,Ruth Lehmann,1999,608
+1888,MIT,Ruth Lehmann,2000,532
+1889,MIT,Ruth Lehmann,2001,628
+1890,MIT,Ruth Lehmann,2002,619
+1891,MIT,Ruth Lehmann,2003,655
+1892,MIT,Ruth Lehmann,2004,759
+1893,MIT,Ruth Lehmann,2005,818
+1894,MIT,Ruth Lehmann,2006,824
+1895,MIT,Ruth Lehmann,2007,856
+1896,MIT,Ruth Lehmann,2008,793
+1897,MIT,Ruth Lehmann,2009,853
+1898,MIT,Ruth Lehmann,2010,850
+1899,MIT,Ruth Lehmann,2011,880
+1900,MIT,Ruth Lehmann,2012,870
+1901,MIT,Ruth Lehmann,2013,838
+1902,MIT,Ruth Lehmann,2014,882
+1903,MIT,Ruth Lehmann,2015,952
+1904,MIT,Ruth Lehmann,2016,968
+1905,MIT,Ruth Lehmann,2017,980
+1906,MIT,Ruth Lehmann,2018,1025
+1907,MIT,Ruth Lehmann,2019,1103
+1908,MIT,Ruth Lehmann,2020,1162
+1909,MIT,Ruth Lehmann,2021,1228
+1910,MIT,Ruth Lehmann,2022,1070
+1911,MIT,Gene-Wei Li,2008,70
+1912,MIT,Gene-Wei Li,2009,118
+1913,MIT,Gene-Wei Li,2010,163
+1914,MIT,Gene-Wei Li,2011,292
+1915,MIT,Gene-Wei Li,2012,450
+1916,MIT,Gene-Wei Li,2013,604
+1917,MIT,Gene-Wei Li,2014,759
+1918,MIT,Gene-Wei Li,2015,826
+1919,MIT,Gene-Wei Li,2016,953
+1920,MIT,Gene-Wei Li,2017,966
+1921,MIT,Gene-Wei Li,2018,1030
+1922,MIT,Gene-Wei Li,2019,937
+1923,MIT,Gene-Wei Li,2020,1053
+1924,MIT,Gene-Wei Li,2021,1123
+1925,MIT,Gene-Wei Li,2022,830
+1926,MIT,Pulin Li,2008,7
+1927,MIT,Pulin Li,2009,27
+1928,MIT,Pulin Li,2010,62
+1929,MIT,Pulin Li,2011,69
+1930,MIT,Pulin Li,2012,124
+1931,MIT,Pulin Li,2013,145
+1932,MIT,Pulin Li,2014,150
+1933,MIT,Pulin Li,2015,174
+1934,MIT,Pulin Li,2016,215
+1935,MIT,Pulin Li,2017,212
+1936,MIT,Pulin Li,2018,186
+1937,MIT,Pulin Li,2019,197
+1938,MIT,Pulin Li,2020,223
+1939,MIT,Pulin Li,2021,225
+1940,MIT,Pulin Li,2022,171
+1941,MIT,Troy Littleton,1994,55
+1942,MIT,Troy Littleton,1995,123
+1943,MIT,Troy Littleton,1996,111
+1944,MIT,Troy Littleton,1997,99
+1945,MIT,Troy Littleton,1998,152
+1946,MIT,Troy Littleton,1999,190
+1947,MIT,Troy Littleton,2000,342
+1948,MIT,Troy Littleton,2001,508
+1949,MIT,Troy Littleton,2002,470
+1950,MIT,Troy Littleton,2003,489
+1951,MIT,Troy Littleton,2004,426
+1952,MIT,Troy Littleton,2005,425
+1953,MIT,Troy Littleton,2006,438
+1954,MIT,Troy Littleton,2007,499
+1955,MIT,Troy Littleton,2008,591
+1956,MIT,Troy Littleton,2009,512
+1957,MIT,Troy Littleton,2010,490
+1958,MIT,Troy Littleton,2011,487
+1959,MIT,Troy Littleton,2012,551
+1960,MIT,Troy Littleton,2013,558
+1961,MIT,Troy Littleton,2014,542
+1962,MIT,Troy Littleton,2015,672
+1963,MIT,Troy Littleton,2016,575
+1964,MIT,Troy Littleton,2017,691
+1965,MIT,Troy Littleton,2018,666
+1966,MIT,Troy Littleton,2019,574
+1967,MIT,Troy Littleton,2020,725
+1968,MIT,Troy Littleton,2021,678
+1969,MIT,Troy Littleton,2022,552
+1970,MIT,Sebastian Lourido,2007,16
+1971,MIT,Sebastian Lourido,2008,21
+1972,MIT,Sebastian Lourido,2009,25
+1973,MIT,Sebastian Lourido,2010,45
+1974,MIT,Sebastian Lourido,2011,87
+1975,MIT,Sebastian Lourido,2012,98
+1976,MIT,Sebastian Lourido,2013,138
+1977,MIT,Sebastian Lourido,2014,130
+1978,MIT,Sebastian Lourido,2015,155
+1979,MIT,Sebastian Lourido,2016,239
+1980,MIT,Sebastian Lourido,2017,335
+1981,MIT,Sebastian Lourido,2018,375
+1982,MIT,Sebastian Lourido,2019,432
+1983,MIT,Sebastian Lourido,2020,488
+1984,MIT,Sebastian Lourido,2021,658
+1985,MIT,Sebastian Lourido,2022,597
+1986,MIT,Adam C. Martin,2005,39
+1987,MIT,Adam C. Martin,2006,65
+1988,MIT,Adam C. Martin,2007,80
+1989,MIT,Adam C. Martin,2008,104
+1990,MIT,Adam C. Martin,2009,102
+1991,MIT,Adam C. Martin,2010,149
+1992,MIT,Adam C. Martin,2011,189
+1993,MIT,Adam C. Martin,2012,263
+1994,MIT,Adam C. Martin,2013,194
+1995,MIT,Adam C. Martin,2014,252
+1996,MIT,Adam C. Martin,2015,271
+1997,MIT,Adam C. Martin,2016,344
+1998,MIT,Adam C. Martin,2017,457
+1999,MIT,Adam C. Martin,2018,524
+2000,MIT,Adam C. Martin,2019,519
+2001,MIT,Adam C. Martin,2020,610
+2002,MIT,Adam C. Martin,2021,669
+2003,MIT,Adam C. Martin,2022,608
+2004,MIT,Hernandez Moura Silva,2009,3
+2005,MIT,Hernandez Moura Silva,2010,6
+2006,MIT,Hernandez Moura Silva,2011,8
+2007,MIT,Hernandez Moura Silva,2012,20
+2008,MIT,Hernandez Moura Silva,2013,19
+2009,MIT,Hernandez Moura Silva,2014,28
+2010,MIT,Hernandez Moura Silva,2015,37
+2011,MIT,Hernandez Moura Silva,2016,55
+2012,MIT,Hernandez Moura Silva,2017,95
+2013,MIT,Hernandez Moura Silva,2018,102
+2014,MIT,Hernandez Moura Silva,2019,96
+2015,MIT,Hernandez Moura Silva,2020,144
+2016,MIT,Hernandez Moura Silva,2021,260
+2017,MIT,Hernandez Moura Silva,2022,249
+2018,MIT,Alison E. Ringel,2014,17
+2019,MIT,Alison E. Ringel,2015,39
+2020,MIT,Alison E. Ringel,2016,69
+2021,MIT,Alison E. Ringel,2017,95
+2022,MIT,Alison E. Ringel,2018,164
+2023,MIT,Alison E. Ringel,2019,200
+2024,MIT,Alison E. Ringel,2020,296
+2025,MIT,Alison E. Ringel,2021,393
+2026,MIT,Alison E. Ringel,2022,437
+2027,MIT,Francisco J. Sánchez-Rivera,2011,26
+2028,MIT,Francisco J. Sánchez-Rivera,2012,32
+2029,MIT,Francisco J. Sánchez-Rivera,2013,31
+2030,MIT,Francisco J. Sánchez-Rivera,2014,39
+2031,MIT,Francisco J. Sánchez-Rivera,2015,89
+2032,MIT,Francisco J. Sánchez-Rivera,2016,149
+2033,MIT,Francisco J. Sánchez-Rivera,2017,205
+2034,MIT,Francisco J. Sánchez-Rivera,2018,334
+2035,MIT,Francisco J. Sánchez-Rivera,2019,482
+2036,MIT,Francisco J. Sánchez-Rivera,2020,571
+2037,MIT,Francisco J. Sánchez-Rivera,2021,821
+2038,MIT,Francisco J. Sánchez-Rivera,2022,913
+2039,MIT,Thomas U. Schwartz,1999,28
+2040,MIT,Thomas U. Schwartz,2000,41
+2041,MIT,Thomas U. Schwartz,2001,40
+2042,MIT,Thomas U. Schwartz,2002,31
+2043,MIT,Thomas U. Schwartz,2003,52
+2044,MIT,Thomas U. Schwartz,2004,83
+2045,MIT,Thomas U. Schwartz,2005,102
+2046,MIT,Thomas U. Schwartz,2006,129
+2047,MIT,Thomas U. Schwartz,2007,123
+2048,MIT,Thomas U. Schwartz,2008,139
+2049,MIT,Thomas U. Schwartz,2009,263
+2050,MIT,Thomas U. Schwartz,2010,254
+2051,MIT,Thomas U. Schwartz,2011,256
+2052,MIT,Thomas U. Schwartz,2012,277
+2053,MIT,Thomas U. Schwartz,2013,281
+2054,MIT,Thomas U. Schwartz,2014,306
+2055,MIT,Thomas U. Schwartz,2015,341
+2056,MIT,Thomas U. Schwartz,2016,526
+2057,MIT,Thomas U. Schwartz,2017,481
+2058,MIT,Thomas U. Schwartz,2018,553
+2059,MIT,Thomas U. Schwartz,2019,613
+2060,MIT,Thomas U. Schwartz,2020,730
+2061,MIT,Thomas U. Schwartz,2021,680
+2062,MIT,Thomas U. Schwartz,2022,732
+2063,MIT,Anthony J. Sinskey,1983,95
+2064,MIT,Anthony J. Sinskey,1984,71
+2065,MIT,Anthony J. Sinskey,1985,93
+2066,MIT,Anthony J. Sinskey,1986,105
+2067,MIT,Anthony J. Sinskey,1987,142
+2068,MIT,Anthony J. Sinskey,1988,135
+2069,MIT,Anthony J. Sinskey,1989,234
+2070,MIT,Anthony J. Sinskey,1990,271
+2071,MIT,Anthony J. Sinskey,1991,299
+2072,MIT,Anthony J. Sinskey,1992,264
+2073,MIT,Anthony J. Sinskey,1993,316
+2074,MIT,Anthony J. Sinskey,1994,389
+2075,MIT,Anthony J. Sinskey,1995,428
+2076,MIT,Anthony J. Sinskey,1996,444
+2077,MIT,Anthony J. Sinskey,1997,338
+2078,MIT,Anthony J. Sinskey,1998,399
+2079,MIT,Anthony J. Sinskey,1999,466
+2080,MIT,Anthony J. Sinskey,2000,470
+2081,MIT,Anthony J. Sinskey,2001,465
+2082,MIT,Anthony J. Sinskey,2002,510
+2083,MIT,Anthony J. Sinskey,2003,574
+2084,MIT,Anthony J. Sinskey,2004,498
+2085,MIT,Anthony J. Sinskey,2005,751
+2086,MIT,Anthony J. Sinskey,2006,794
+2087,MIT,Anthony J. Sinskey,2007,721
+2088,MIT,Anthony J. Sinskey,2008,727
+2089,MIT,Anthony J. Sinskey,2009,734
+2090,MIT,Anthony J. Sinskey,2010,834
+2091,MIT,Anthony J. Sinskey,2011,875
+2092,MIT,Anthony J. Sinskey,2012,996
+2093,MIT,Anthony J. Sinskey,2013,1120
+2094,MIT,Anthony J. Sinskey,2014,1024
+2095,MIT,Anthony J. Sinskey,2015,1150
+2096,MIT,Anthony J. Sinskey,2016,1136
+2097,MIT,Anthony J. Sinskey,2017,974
+2098,MIT,Anthony J. Sinskey,2018,1075
+2099,MIT,Anthony J. Sinskey,2019,1107
+2100,MIT,Anthony J. Sinskey,2020,1115
+2101,MIT,Anthony J. Sinskey,2021,1120
+2102,MIT,Anthony J. Sinskey,2022,978
+2103,MIT,Stefani Spranger,2011,41
+2104,MIT,Stefani Spranger,2012,69
+2105,MIT,Stefani Spranger,2013,106
+2106,MIT,Stefani Spranger,2014,220
+2107,MIT,Stefani Spranger,2015,419
+2108,MIT,Stefani Spranger,2016,807
+2109,MIT,Stefani Spranger,2017,1123
+2110,MIT,Stefani Spranger,2018,1448
+2111,MIT,Stefani Spranger,2019,1699
+2112,MIT,Stefani Spranger,2020,2395
+2113,MIT,Stefani Spranger,2021,2614
+2114,MIT,Stefani Spranger,2022,2260
+2115,MIT,Seychelle M. Vos,2011,11
+2116,MIT,Seychelle M. Vos,2012,26
+2117,MIT,Seychelle M. Vos,2013,58
+2118,MIT,Seychelle M. Vos,2014,72
+2119,MIT,Seychelle M. Vos,2015,62
+2120,MIT,Seychelle M. Vos,2016,87
+2121,MIT,Seychelle M. Vos,2017,86
+2122,MIT,Seychelle M. Vos,2018,146
+2123,MIT,Seychelle M. Vos,2019,275
+2124,MIT,Seychelle M. Vos,2020,259
+2125,MIT,Seychelle M. Vos,2021,410
+2126,MIT,Seychelle M. Vos,2022,391
+2127,MIT,Graham C. Walker,1983,309
+2128,MIT,Graham C. Walker,1984,283
+2129,MIT,Graham C. Walker,1985,553
+2130,MIT,Graham C. Walker,1986,444
+2131,MIT,Graham C. Walker,1987,544
+2132,MIT,Graham C. Walker,1988,592
+2133,MIT,Graham C. Walker,1989,646
+2134,MIT,Graham C. Walker,1990,734
+2135,MIT,Graham C. Walker,1991,845
+2136,MIT,Graham C. Walker,1992,685
+2137,MIT,Graham C. Walker,1993,739
+2138,MIT,Graham C. Walker,1994,629
+2139,MIT,Graham C. Walker,1995,563
+2140,MIT,Graham C. Walker,1996,875
+2141,MIT,Graham C. Walker,1997,841
+2142,MIT,Graham C. Walker,1998,1161
+2143,MIT,Graham C. Walker,1999,1064
+2144,MIT,Graham C. Walker,2000,1107
+2145,MIT,Graham C. Walker,2001,1168
+2146,MIT,Graham C. Walker,2002,1109
+2147,MIT,Graham C. Walker,2003,982
+2148,MIT,Graham C. Walker,2004,1118
+2149,MIT,Graham C. Walker,2005,1165
+2150,MIT,Graham C. Walker,2006,1205
+2151,MIT,Graham C. Walker,2007,1180
+2152,MIT,Graham C. Walker,2008,1334
+2153,MIT,Graham C. Walker,2009,1494
+2154,MIT,Graham C. Walker,2010,1499
+2155,MIT,Graham C. Walker,2011,1535
+2156,MIT,Graham C. Walker,2012,1786
+2157,MIT,Graham C. Walker,2013,1892
+2158,MIT,Graham C. Walker,2014,1607
+2159,MIT,Graham C. Walker,2015,1810
+2160,MIT,Graham C. Walker,2016,1637
+2161,MIT,Graham C. Walker,2017,1878
+2162,MIT,Graham C. Walker,2018,1601
+2163,MIT,Graham C. Walker,2019,1677
+2164,MIT,Graham C. Walker,2020,1925
+2165,MIT,Graham C. Walker,2021,2193
+2166,MIT,Graham C. Walker,2022,1796
+2167,MIT,Bruce Walker,1989,280
+2168,MIT,Bruce Walker,1990,372
+2169,MIT,Bruce Walker,1991,360
+2170,MIT,Bruce Walker,1992,325
+2171,MIT,Bruce Walker,1993,339
+2172,MIT,Bruce Walker,1994,445
+2173,MIT,Bruce Walker,1995,461
+2174,MIT,Bruce Walker,1996,519
+2175,MIT,Bruce Walker,1997,698
+2176,MIT,Bruce Walker,1998,805
+2177,MIT,Bruce Walker,1999,1118
+2178,MIT,Bruce Walker,2000,1642
+2179,MIT,Bruce Walker,2001,2177
+2180,MIT,Bruce Walker,2002,2436
+2181,MIT,Bruce Walker,2003,2496
+2182,MIT,Bruce Walker,2004,2973
+2183,MIT,Bruce Walker,2005,3214
+2184,MIT,Bruce Walker,2006,3125
+2185,MIT,Bruce Walker,2007,3676
+2186,MIT,Bruce Walker,2008,4348
+2187,MIT,Bruce Walker,2009,4582
+2188,MIT,Bruce Walker,2010,4607
+2189,MIT,Bruce Walker,2011,5419
+2190,MIT,Bruce Walker,2012,5855
+2191,MIT,Bruce Walker,2013,5426
+2192,MIT,Bruce Walker,2014,5328
+2193,MIT,Bruce Walker,2015,5038
+2194,MIT,Bruce Walker,2016,4716
+2195,MIT,Bruce Walker,2017,4811
+2196,MIT,Bruce Walker,2018,4679
+2197,MIT,Bruce Walker,2019,4650
+2198,MIT,Bruce Walker,2020,4940
+2199,MIT,Bruce Walker,2021,6149
+2200,MIT,Bruce Walker,2022,5508
+2201,MIT,Robert A. Weinberg,1983,959
+2202,MIT,Robert A. Weinberg,1984,1230
+2203,MIT,Robert A. Weinberg,1985,1425
+2204,MIT,Robert A. Weinberg,1986,1458
+2205,MIT,Robert A. Weinberg,1987,1713
+2206,MIT,Robert A. Weinberg,1988,1549
+2207,MIT,Robert A. Weinberg,1989,1997
+2208,MIT,Robert A. Weinberg,1990,2175
+2209,MIT,Robert A. Weinberg,1991,2231
+2210,MIT,Robert A. Weinberg,1992,2295
+2211,MIT,Robert A. Weinberg,1993,2437
+2212,MIT,Robert A. Weinberg,1994,2741
+2213,MIT,Robert A. Weinberg,1995,2769
+2214,MIT,Robert A. Weinberg,1996,3153
+2215,MIT,Robert A. Weinberg,1997,3553
+2216,MIT,Robert A. Weinberg,1998,3789
+2217,MIT,Robert A. Weinberg,1999,3853
+2218,MIT,Robert A. Weinberg,2000,4186
+2219,MIT,Robert A. Weinberg,2001,4501
+2220,MIT,Robert A. Weinberg,2002,4938
+2221,MIT,Robert A. Weinberg,2003,5224
+2222,MIT,Robert A. Weinberg,2004,5504
+2223,MIT,Robert A. Weinberg,2005,5898
+2224,MIT,Robert A. Weinberg,2006,6130
+2225,MIT,Robert A. Weinberg,2007,6158
+2226,MIT,Robert A. Weinberg,2008,7320
+2227,MIT,Robert A. Weinberg,2009,7829
+2228,MIT,Robert A. Weinberg,2010,9718
+2229,MIT,Robert A. Weinberg,2011,11678
+2230,MIT,Robert A. Weinberg,2012,14677
+2231,MIT,Robert A. Weinberg,2013,16845
+2232,MIT,Robert A. Weinberg,2014,17768
+2233,MIT,Robert A. Weinberg,2015,18301
+2234,MIT,Robert A. Weinberg,2016,19404
+2235,MIT,Robert A. Weinberg,2017,18979
+2236,MIT,Robert A. Weinberg,2018,18955
+2237,MIT,Robert A. Weinberg,2019,19950
+2238,MIT,Robert A. Weinberg,2020,21381
+2239,MIT,Robert A. Weinberg,2021,23085
+2240,MIT,Robert A. Weinberg,2022,18951
+2241,MIT,Brandon Weissbourd,2010,18
+2242,MIT,Brandon Weissbourd,2011,95
+2243,MIT,Brandon Weissbourd,2012,81
+2244,MIT,Brandon Weissbourd,2013,90
+2245,MIT,Brandon Weissbourd,2014,109
+2246,MIT,Brandon Weissbourd,2015,104
+2247,MIT,Brandon Weissbourd,2016,158
+2248,MIT,Brandon Weissbourd,2017,196
+2249,MIT,Brandon Weissbourd,2018,214
+2250,MIT,Brandon Weissbourd,2019,294
+2251,MIT,Brandon Weissbourd,2020,330
+2252,MIT,Brandon Weissbourd,2021,356
+2253,MIT,Brandon Weissbourd,2022,358
+2254,MIT,Jing-Ke Weng,2008,26
+2255,MIT,Jing-Ke Weng,2009,81
+2256,MIT,Jing-Ke Weng,2010,139
+2257,MIT,Jing-Ke Weng,2011,201
+2258,MIT,Jing-Ke Weng,2012,335
+2259,MIT,Jing-Ke Weng,2013,359
+2260,MIT,Jing-Ke Weng,2014,369
+2261,MIT,Jing-Ke Weng,2015,349
+2262,MIT,Jing-Ke Weng,2016,390
+2263,MIT,Jing-Ke Weng,2017,392
+2264,MIT,Jing-Ke Weng,2018,488
+2265,MIT,Jing-Ke Weng,2019,621
+2266,MIT,Jing-Ke Weng,2020,876
+2267,MIT,Jing-Ke Weng,2021,1352
+2268,MIT,Jing-Ke Weng,2022,1344
+2269,MIT,Matthew A. Wilson,1995,197
+2270,MIT,Matthew A. Wilson,1996,180
+2271,MIT,Matthew A. Wilson,1997,240
+2272,MIT,Matthew A. Wilson,1998,265
+2273,MIT,Matthew A. Wilson,1999,318
+2274,MIT,Matthew A. Wilson,2000,313
+2275,MIT,Matthew A. Wilson,2001,418
+2276,MIT,Matthew A. Wilson,2002,563
+2277,MIT,Matthew A. Wilson,2003,670
+2278,MIT,Matthew A. Wilson,2004,671
+2279,MIT,Matthew A. Wilson,2005,889
+2280,MIT,Matthew A. Wilson,2006,1130
+2281,MIT,Matthew A. Wilson,2007,1703
+2282,MIT,Matthew A. Wilson,2008,2085
+2283,MIT,Matthew A. Wilson,2009,2468
+2284,MIT,Matthew A. Wilson,2010,2267
+2285,MIT,Matthew A. Wilson,2011,2226
+2286,MIT,Matthew A. Wilson,2012,2121
+2287,MIT,Matthew A. Wilson,2013,2199
+2288,MIT,Matthew A. Wilson,2014,2364
+2289,MIT,Matthew A. Wilson,2015,2449
+2290,MIT,Matthew A. Wilson,2016,2387
+2291,MIT,Matthew A. Wilson,2017,2449
+2292,MIT,Matthew A. Wilson,2018,2562
+2293,MIT,Matthew A. Wilson,2019,2485
+2294,MIT,Matthew A. Wilson,2020,2609
+2295,MIT,Matthew A. Wilson,2021,2506
+2296,MIT,Matthew A. Wilson,2022,2551
+2297,MIT,Harikesh S. Wong,2015,9
+2298,MIT,Harikesh S. Wong,2016,28
+2299,MIT,Harikesh S. Wong,2017,19
+2300,MIT,Harikesh S. Wong,2018,28
+2301,MIT,Harikesh S. Wong,2019,34
+2302,MIT,Harikesh S. Wong,2020,45
+2303,MIT,Harikesh S. Wong,2021,95
+2304,MIT,Harikesh S. Wong,2022,118
+2305,MIT,Yukiko Yamashita,1997,39
+2306,MIT,Yukiko Yamashita,1998,57
+2307,MIT,Yukiko Yamashita,1999,67
+2308,MIT,Yukiko Yamashita,2000,78
+2309,MIT,Yukiko Yamashita,2001,108
+2310,MIT,Yukiko Yamashita,2002,145
+2311,MIT,Yukiko Yamashita,2003,131
+2312,MIT,Yukiko Yamashita,2004,195
+2313,MIT,Yukiko Yamashita,2005,210
+2314,MIT,Yukiko Yamashita,2006,267
+2315,MIT,Yukiko Yamashita,2007,273
+2316,MIT,Yukiko Yamashita,2008,301
+2317,MIT,Yukiko Yamashita,2009,329
+2318,MIT,Yukiko Yamashita,2010,315
+2319,MIT,Yukiko Yamashita,2011,348
+2320,MIT,Yukiko Yamashita,2012,466
+2321,MIT,Yukiko Yamashita,2013,459
+2322,MIT,Yukiko Yamashita,2014,375
+2323,MIT,Yukiko Yamashita,2015,435
+2324,MIT,Yukiko Yamashita,2016,418
+2325,MIT,Yukiko Yamashita,2017,432
+2326,MIT,Yukiko Yamashita,2018,426
+2327,MIT,Yukiko Yamashita,2019,496
+2328,MIT,Yukiko Yamashita,2020,532
+2329,MIT,Yukiko Yamashita,2021,575
+2330,MIT,Yukiko Yamashita,2022,475
+2331,MIT,Omer H. Yilmaz,2006,188
+2332,MIT,Omer H. Yilmaz,2007,298
+2333,MIT,Omer H. Yilmaz,2008,413
+2334,MIT,Omer H. Yilmaz,2009,460
+2335,MIT,Omer H. Yilmaz,2010,489
+2336,MIT,Omer H. Yilmaz,2011,529
+2337,MIT,Omer H. Yilmaz,2012,548
+2338,MIT,Omer H. Yilmaz,2013,600
+2339,MIT,Omer H. Yilmaz,2014,679
+2340,MIT,Omer H. Yilmaz,2015,618
+2341,MIT,Omer H. Yilmaz,2016,710
+2342,MIT,Omer H. Yilmaz,2017,769
+2343,MIT,Omer H. Yilmaz,2018,989
+2344,MIT,Omer H. Yilmaz,2019,1200
+2345,MIT,Omer H. Yilmaz,2020,1471
+2346,MIT,Omer H. Yilmaz,2021,1969
+2347,MIT,Omer H. Yilmaz,2022,1902
+2348,MIT,Richard A. Young,1985,437
+2349,MIT,Richard A. Young,1986,668
+2350,MIT,Richard A. Young,1987,1007
+2351,MIT,Richard A. Young,1988,1117
+2352,MIT,Richard A. Young,1989,1259
+2353,MIT,Richard A. Young,1990,1397
+2354,MIT,Richard A. Young,1991,1334
+2355,MIT,Richard A. Young,1992,1288
+2356,MIT,Richard A. Young,1993,1128
+2357,MIT,Richard A. Young,1994,1199
+2358,MIT,Richard A. Young,1995,1105
+2359,MIT,Richard A. Young,1996,1457
+2360,MIT,Richard A. Young,1997,1294
+2361,MIT,Richard A. Young,1998,1712
+2362,MIT,Richard A. Young,1999,1645
+2363,MIT,Richard A. Young,2000,1702
+2364,MIT,Richard A. Young,2001,1878
+2365,MIT,Richard A. Young,2002,2090
+2366,MIT,Richard A. Young,2003,2418
+2367,MIT,Richard A. Young,2004,3021
+2368,MIT,Richard A. Young,2005,3298
+2369,MIT,Richard A. Young,2006,3742
+2370,MIT,Richard A. Young,2007,4262
+2371,MIT,Richard A. Young,2008,4562
+2372,MIT,Richard A. Young,2009,4842
+2373,MIT,Richard A. Young,2010,5039
+2374,MIT,Richard A. Young,2011,5513
+2375,MIT,Richard A. Young,2012,6014
+2376,MIT,Richard A. Young,2013,6290
+2377,MIT,Richard A. Young,2014,6621
+2378,MIT,Richard A. Young,2015,7127
+2379,MIT,Richard A. Young,2016,7286
+2380,MIT,Richard A. Young,2017,7744
+2381,MIT,Richard A. Young,2018,7974
+2382,MIT,Richard A. Young,2019,8883
+2383,MIT,Richard A. Young,2020,9270
+2384,MIT,Richard A. Young,2021,10144
+2385,MIT,Richard A. Young,2022,8899
+2386,princeton,Britt Adamson,2010,21
+2387,princeton,Britt Adamson,2011,65
+2388,princeton,Britt Adamson,2012,95
+2389,princeton,Britt Adamson,2013,165
+2390,princeton,Britt Adamson,2014,173
+2391,princeton,Britt Adamson,2015,306
+2392,princeton,Britt Adamson,2016,374
+2393,princeton,Britt Adamson,2017,640
+2394,princeton,Britt Adamson,2018,772
+2395,princeton,Britt Adamson,2019,916
+2396,princeton,Britt Adamson,2020,1101
+2397,princeton,Britt Adamson,2021,1294
+2398,princeton,Britt Adamson,2022,1370
+2399,princeton,Bonnie L. Bassler,1999,153
+2400,princeton,Bonnie L. Bassler,2000,272
+2401,princeton,Bonnie L. Bassler,2001,389
+2402,princeton,Bonnie L. Bassler,2002,553
+2403,princeton,Bonnie L. Bassler,2003,796
+2404,princeton,Bonnie L. Bassler,2004,1123
+2405,princeton,Bonnie L. Bassler,2005,1279
+2406,princeton,Bonnie L. Bassler,2006,1834
+2407,princeton,Bonnie L. Bassler,2007,1974
+2408,princeton,Bonnie L. Bassler,2008,2295
+2409,princeton,Bonnie L. Bassler,2009,2482
+2410,princeton,Bonnie L. Bassler,2010,2231
+2411,princeton,Bonnie L. Bassler,2011,2861
+2412,princeton,Bonnie L. Bassler,2012,2835
+2413,princeton,Bonnie L. Bassler,2013,2746
+2414,princeton,Bonnie L. Bassler,2014,2931
+2415,princeton,Bonnie L. Bassler,2015,3172
+2416,princeton,Bonnie L. Bassler,2016,3472
+2417,princeton,Bonnie L. Bassler,2017,3655
+2418,princeton,Bonnie L. Bassler,2018,3762
+2419,princeton,Bonnie L. Bassler,2019,3772
+2420,princeton,Bonnie L. Bassler,2020,4283
+2421,princeton,Bonnie L. Bassler,2021,4196
+2422,princeton,Bonnie L. Bassler,2022,4106
+2423,princeton,John F. Brooks II,2017,5
+2424,princeton,John F. Brooks II,2018,3
+2425,princeton,John F. Brooks II,2019,2
+2426,princeton,John F. Brooks II,2020,20
+2427,princeton,John F. Brooks II,2021,137
+2428,princeton,John F. Brooks II,2022,217
+2429,princeton,Rebecca D. Burdine,1998,19
+2430,princeton,Rebecca D. Burdine,1999,22
+2431,princeton,Rebecca D. Burdine,2000,51
+2432,princeton,Rebecca D. Burdine,2001,93
+2433,princeton,Rebecca D. Burdine,2002,116
+2434,princeton,Rebecca D. Burdine,2003,117
+2435,princeton,Rebecca D. Burdine,2004,100
+2436,princeton,Rebecca D. Burdine,2005,146
+2437,princeton,Rebecca D. Burdine,2006,105
+2438,princeton,Rebecca D. Burdine,2007,106
+2439,princeton,Rebecca D. Burdine,2008,140
+2440,princeton,Rebecca D. Burdine,2009,155
+2441,princeton,Rebecca D. Burdine,2010,134
+2442,princeton,Rebecca D. Burdine,2011,186
+2443,princeton,Rebecca D. Burdine,2012,200
+2444,princeton,Rebecca D. Burdine,2013,268
+2445,princeton,Rebecca D. Burdine,2014,370
+2446,princeton,Rebecca D. Burdine,2015,291
+2447,princeton,Rebecca D. Burdine,2016,328
+2448,princeton,Rebecca D. Burdine,2017,411
+2449,princeton,Rebecca D. Burdine,2018,493
+2450,princeton,Rebecca D. Burdine,2019,412
+2451,princeton,Rebecca D. Burdine,2020,528
+2452,princeton,Rebecca D. Burdine,2021,491
+2453,princeton,Rebecca D. Burdine,2022,471
+2454,princeton,Mohamed S. Donia,2008,28
+2455,princeton,Mohamed S. Donia,2009,56
+2456,princeton,Mohamed S. Donia,2010,86
+2457,princeton,Mohamed S. Donia,2011,108
+2458,princeton,Mohamed S. Donia,2012,163
+2459,princeton,Mohamed S. Donia,2013,189
+2460,princeton,Mohamed S. Donia,2014,192
+2461,princeton,Mohamed S. Donia,2015,346
+2462,princeton,Mohamed S. Donia,2016,451
+2463,princeton,Mohamed S. Donia,2017,514
+2464,princeton,Mohamed S. Donia,2018,565
+2465,princeton,Mohamed S. Donia,2019,656
+2466,princeton,Mohamed S. Donia,2020,815
+2467,princeton,Mohamed S. Donia,2021,910
+2468,princeton,Mohamed S. Donia,2022,931
+2469,princeton,Elizabeth R. Gavis,1983,104
+2470,princeton,Elizabeth R. Gavis,1984,76
+2471,princeton,Elizabeth R. Gavis,1985,72
+2472,princeton,Elizabeth R. Gavis,1986,74
+2473,princeton,Elizabeth R. Gavis,1987,89
+2474,princeton,Elizabeth R. Gavis,1988,93
+2475,princeton,Elizabeth R. Gavis,1989,80
+2476,princeton,Elizabeth R. Gavis,1990,89
+2477,princeton,Elizabeth R. Gavis,1991,65
+2478,princeton,Elizabeth R. Gavis,1992,76
+2479,princeton,Elizabeth R. Gavis,1993,77
+2480,princeton,Elizabeth R. Gavis,1994,80
+2481,princeton,Elizabeth R. Gavis,1995,94
+2482,princeton,Elizabeth R. Gavis,1996,104
+2483,princeton,Elizabeth R. Gavis,1997,101
+2484,princeton,Elizabeth R. Gavis,1998,112
+2485,princeton,Elizabeth R. Gavis,1999,125
+2486,princeton,Elizabeth R. Gavis,2000,97
+2487,princeton,Elizabeth R. Gavis,2001,148
+2488,princeton,Elizabeth R. Gavis,2002,113
+2489,princeton,Elizabeth R. Gavis,2003,109
+2490,princeton,Elizabeth R. Gavis,2004,127
+2491,princeton,Elizabeth R. Gavis,2005,162
+2492,princeton,Elizabeth R. Gavis,2006,182
+2493,princeton,Elizabeth R. Gavis,2007,170
+2494,princeton,Elizabeth R. Gavis,2008,223
+2495,princeton,Elizabeth R. Gavis,2009,175
+2496,princeton,Elizabeth R. Gavis,2010,196
+2497,princeton,Elizabeth R. Gavis,2011,248
+2498,princeton,Elizabeth R. Gavis,2012,222
+2499,princeton,Elizabeth R. Gavis,2013,203
+2500,princeton,Elizabeth R. Gavis,2014,254
+2501,princeton,Elizabeth R. Gavis,2015,243
+2502,princeton,Elizabeth R. Gavis,2016,293
+2503,princeton,Elizabeth R. Gavis,2017,267
+2504,princeton,Elizabeth R. Gavis,2018,291
+2505,princeton,Elizabeth R. Gavis,2019,294
+2506,princeton,Elizabeth R. Gavis,2020,314
+2507,princeton,Elizabeth R. Gavis,2021,308
+2508,princeton,Elizabeth R. Gavis,2022,249
+2509,princeton,Zemer Gitai,2004,36
+2510,princeton,Zemer Gitai,2005,93
+2511,princeton,Zemer Gitai,2006,163
+2512,princeton,Zemer Gitai,2007,186
+2513,princeton,Zemer Gitai,2008,147
+2514,princeton,Zemer Gitai,2009,183
+2515,princeton,Zemer Gitai,2010,271
+2516,princeton,Zemer Gitai,2011,289
+2517,princeton,Zemer Gitai,2012,361
+2518,princeton,Zemer Gitai,2013,344
+2519,princeton,Zemer Gitai,2014,370
+2520,princeton,Zemer Gitai,2015,460
+2521,princeton,Zemer Gitai,2016,513
+2522,princeton,Zemer Gitai,2017,673
+2523,princeton,Zemer Gitai,2018,751
+2524,princeton,Zemer Gitai,2019,822
+2525,princeton,Zemer Gitai,2020,851
+2526,princeton,Zemer Gitai,2021,1009
+2527,princeton,Zemer Gitai,2022,947
+2528,princeton,Frederick M. Hughson,1991,44
+2529,princeton,Frederick M. Hughson,1992,51
+2530,princeton,Frederick M. Hughson,1993,79
+2531,princeton,Frederick M. Hughson,1994,106
+2532,princeton,Frederick M. Hughson,1995,189
+2533,princeton,Frederick M. Hughson,1996,206
+2534,princeton,Frederick M. Hughson,1997,203
+2535,princeton,Frederick M. Hughson,1998,268
+2536,princeton,Frederick M. Hughson,1999,260
+2537,princeton,Frederick M. Hughson,2000,339
+2538,princeton,Frederick M. Hughson,2001,282
+2539,princeton,Frederick M. Hughson,2002,316
+2540,princeton,Frederick M. Hughson,2003,360
+2541,princeton,Frederick M. Hughson,2004,368
+2542,princeton,Frederick M. Hughson,2005,436
+2543,princeton,Frederick M. Hughson,2006,453
+2544,princeton,Frederick M. Hughson,2007,489
+2545,princeton,Frederick M. Hughson,2008,542
+2546,princeton,Frederick M. Hughson,2009,517
+2547,princeton,Frederick M. Hughson,2010,482
+2548,princeton,Frederick M. Hughson,2011,499
+2549,princeton,Frederick M. Hughson,2012,530
+2550,princeton,Frederick M. Hughson,2013,528
+2551,princeton,Frederick M. Hughson,2014,532
+2552,princeton,Frederick M. Hughson,2015,521
+2553,princeton,Frederick M. Hughson,2016,556
+2554,princeton,Frederick M. Hughson,2017,525
+2555,princeton,Frederick M. Hughson,2018,533
+2556,princeton,Frederick M. Hughson,2019,490
+2557,princeton,Frederick M. Hughson,2020,526
+2558,princeton,Frederick M. Hughson,2021,508
+2559,princeton,Frederick M. Hughson,2022,501
+2560,princeton,John R. Jimah,2012,3
+2561,princeton,John R. Jimah,2013,23
+2562,princeton,John R. Jimah,2014,25
+2563,princeton,John R. Jimah,2015,25
+2564,princeton,John R. Jimah,2016,50
+2565,princeton,John R. Jimah,2017,46
+2566,princeton,John R. Jimah,2018,76
+2567,princeton,John R. Jimah,2019,101
+2568,princeton,John R. Jimah,2020,120
+2569,princeton,John R. Jimah,2021,149
+2570,princeton,John R. Jimah,2022,156
+2571,princeton,Martin Jonikas,2009,22
+2572,princeton,Martin Jonikas,2010,48
+2573,princeton,Martin Jonikas,2011,89
+2574,princeton,Martin Jonikas,2012,77
+2575,princeton,Martin Jonikas,2013,73
+2576,princeton,Martin Jonikas,2014,82
+2577,princeton,Martin Jonikas,2015,127
+2578,princeton,Martin Jonikas,2016,199
+2579,princeton,Martin Jonikas,2017,272
+2580,princeton,Martin Jonikas,2018,310
+2581,princeton,Martin Jonikas,2019,429
+2582,princeton,Martin Jonikas,2020,542
+2583,princeton,Martin Jonikas,2021,541
+2584,princeton,Martin Jonikas,2022,593
+2585,princeton,Yibin Kang,2001,123
+2586,princeton,Yibin Kang,2002,176
+2587,princeton,Yibin Kang,2003,221
+2588,princeton,Yibin Kang,2004,269
+2589,princeton,Yibin Kang,2005,420
+2590,princeton,Yibin Kang,2006,522
+2591,princeton,Yibin Kang,2007,568
+2592,princeton,Yibin Kang,2008,658
+2593,princeton,Yibin Kang,2009,746
+2594,princeton,Yibin Kang,2010,881
+2595,princeton,Yibin Kang,2011,1345
+2596,princeton,Yibin Kang,2012,1517
+2597,princeton,Yibin Kang,2013,1888
+2598,princeton,Yibin Kang,2014,2277
+2599,princeton,Yibin Kang,2015,2583
+2600,princeton,Yibin Kang,2016,3010
+2601,princeton,Yibin Kang,2017,3055
+2602,princeton,Yibin Kang,2018,3165
+2603,princeton,Yibin Kang,2019,3485
+2604,princeton,Yibin Kang,2020,4012
+2605,princeton,Yibin Kang,2021,5056
+2606,princeton,Yibin Kang,2022,4212
+2607,princeton,Ricardo Mallarino,2005,5
+2608,princeton,Ricardo Mallarino,2006,14
+2609,princeton,Ricardo Mallarino,2007,22
+2610,princeton,Ricardo Mallarino,2008,21
+2611,princeton,Ricardo Mallarino,2009,20
+2612,princeton,Ricardo Mallarino,2010,36
+2613,princeton,Ricardo Mallarino,2011,36
+2614,princeton,Ricardo Mallarino,2012,57
+2615,princeton,Ricardo Mallarino,2013,68
+2616,princeton,Ricardo Mallarino,2014,98
+2617,princeton,Ricardo Mallarino,2015,55
+2618,princeton,Ricardo Mallarino,2016,77
+2619,princeton,Ricardo Mallarino,2017,105
+2620,princeton,Ricardo Mallarino,2018,111
+2621,princeton,Ricardo Mallarino,2019,138
+2622,princeton,Ricardo Mallarino,2020,158
+2623,princeton,Ricardo Mallarino,2021,191
+2624,princeton,Ricardo Mallarino,2022,149
+2625,princeton,Coleen T. Murphy,2003,48
+2626,princeton,Coleen T. Murphy,2004,185
+2627,princeton,Coleen T. Murphy,2005,263
+2628,princeton,Coleen T. Murphy,2006,222
+2629,princeton,Coleen T. Murphy,2007,256
+2630,princeton,Coleen T. Murphy,2008,315
+2631,princeton,Coleen T. Murphy,2009,286
+2632,princeton,Coleen T. Murphy,2010,403
+2633,princeton,Coleen T. Murphy,2011,409
+2634,princeton,Coleen T. Murphy,2012,499
+2635,princeton,Coleen T. Murphy,2013,516
+2636,princeton,Coleen T. Murphy,2014,559
+2637,princeton,Coleen T. Murphy,2015,674
+2638,princeton,Coleen T. Murphy,2016,639
+2639,princeton,Coleen T. Murphy,2017,754
+2640,princeton,Coleen T. Murphy,2018,783
+2641,princeton,Coleen T. Murphy,2019,858
+2642,princeton,Coleen T. Murphy,2020,942
+2643,princeton,Coleen T. Murphy,2021,1126
+2644,princeton,Coleen T. Murphy,2022,957
+2645,princeton,Cameron A. Myhrvold,2014,19
+2646,princeton,Cameron A. Myhrvold,2015,14
+2647,princeton,Cameron A. Myhrvold,2016,35
+2648,princeton,Cameron A. Myhrvold,2017,86
+2649,princeton,Cameron A. Myhrvold,2018,306
+2650,princeton,Cameron A. Myhrvold,2019,412
+2651,princeton,Cameron A. Myhrvold,2020,1007
+2652,princeton,Cameron A. Myhrvold,2021,1543
+2653,princeton,Cameron A. Myhrvold,2022,1578
+2654,princeton,Daniel A. Notterman,1994,45
+2655,princeton,Daniel A. Notterman,1995,55
+2656,princeton,Daniel A. Notterman,1996,83
+2657,princeton,Daniel A. Notterman,1997,69
+2658,princeton,Daniel A. Notterman,1998,99
+2659,princeton,Daniel A. Notterman,1999,110
+2660,princeton,Daniel A. Notterman,2000,262
+2661,princeton,Daniel A. Notterman,2001,416
+2662,princeton,Daniel A. Notterman,2002,521
+2663,princeton,Daniel A. Notterman,2003,593
+2664,princeton,Daniel A. Notterman,2004,628
+2665,princeton,Daniel A. Notterman,2005,680
+2666,princeton,Daniel A. Notterman,2006,713
+2667,princeton,Daniel A. Notterman,2007,713
+2668,princeton,Daniel A. Notterman,2008,795
+2669,princeton,Daniel A. Notterman,2009,810
+2670,princeton,Daniel A. Notterman,2010,833
+2671,princeton,Daniel A. Notterman,2011,784
+2672,princeton,Daniel A. Notterman,2012,750
+2673,princeton,Daniel A. Notterman,2013,760
+2674,princeton,Daniel A. Notterman,2014,720
+2675,princeton,Daniel A. Notterman,2015,843
+2676,princeton,Daniel A. Notterman,2016,712
+2677,princeton,Daniel A. Notterman,2017,679
+2678,princeton,Daniel A. Notterman,2018,682
+2679,princeton,Daniel A. Notterman,2019,678
+2680,princeton,Daniel A. Notterman,2020,751
+2681,princeton,Daniel A. Notterman,2021,837
+2682,princeton,Daniel A. Notterman,2022,749
+2683,princeton,Sabine Petry,2006,31
+2684,princeton,Sabine Petry,2007,161
+2685,princeton,Sabine Petry,2008,208
+2686,princeton,Sabine Petry,2009,224
+2687,princeton,Sabine Petry,2010,237
+2688,princeton,Sabine Petry,2011,218
+2689,princeton,Sabine Petry,2012,201
+2690,princeton,Sabine Petry,2013,197
+2691,princeton,Sabine Petry,2014,188
+2692,princeton,Sabine Petry,2015,188
+2693,princeton,Sabine Petry,2016,223
+2694,princeton,Sabine Petry,2017,207
+2695,princeton,Sabine Petry,2018,250
+2696,princeton,Sabine Petry,2019,263
+2697,princeton,Sabine Petry,2020,337
+2698,princeton,Sabine Petry,2021,400
+2699,princeton,Sabine Petry,2022,373
+2700,princeton,Alexander Ploss,2006,51
+2701,princeton,Alexander Ploss,2007,80
+2702,princeton,Alexander Ploss,2008,70
+2703,princeton,Alexander Ploss,2009,140
+2704,princeton,Alexander Ploss,2010,299
+2705,princeton,Alexander Ploss,2011,427
+2706,princeton,Alexander Ploss,2012,548
+2707,princeton,Alexander Ploss,2013,788
+2708,princeton,Alexander Ploss,2014,1031
+2709,princeton,Alexander Ploss,2015,1009
+2710,princeton,Alexander Ploss,2016,984
+2711,princeton,Alexander Ploss,2017,913
+2712,princeton,Alexander Ploss,2018,889
+2713,princeton,Alexander Ploss,2019,880
+2714,princeton,Alexander Ploss,2020,925
+2715,princeton,Alexander Ploss,2021,1120
+2716,princeton,Alexander Ploss,2022,936
+2717,princeton,Thomas J. Silhavy,1983,345
+2718,princeton,Thomas J. Silhavy,1984,437
+2719,princeton,Thomas J. Silhavy,1985,598
+2720,princeton,Thomas J. Silhavy,1986,609
+2721,princeton,Thomas J. Silhavy,1987,581
+2722,princeton,Thomas J. Silhavy,1988,664
+2723,princeton,Thomas J. Silhavy,1989,684
+2724,princeton,Thomas J. Silhavy,1990,761
+2725,princeton,Thomas J. Silhavy,1991,731
+2726,princeton,Thomas J. Silhavy,1992,622
+2727,princeton,Thomas J. Silhavy,1993,696
+2728,princeton,Thomas J. Silhavy,1994,615
+2729,princeton,Thomas J. Silhavy,1995,685
+2730,princeton,Thomas J. Silhavy,1996,718
+2731,princeton,Thomas J. Silhavy,1997,681
+2732,princeton,Thomas J. Silhavy,1998,753
+2733,princeton,Thomas J. Silhavy,1999,676
+2734,princeton,Thomas J. Silhavy,2000,759
+2735,princeton,Thomas J. Silhavy,2001,701
+2736,princeton,Thomas J. Silhavy,2002,733
+2737,princeton,Thomas J. Silhavy,2003,751
+2738,princeton,Thomas J. Silhavy,2004,745
+2739,princeton,Thomas J. Silhavy,2005,887
+2740,princeton,Thomas J. Silhavy,2006,875
+2741,princeton,Thomas J. Silhavy,2007,980
+2742,princeton,Thomas J. Silhavy,2008,1060
+2743,princeton,Thomas J. Silhavy,2009,998
+2744,princeton,Thomas J. Silhavy,2010,1106
+2745,princeton,Thomas J. Silhavy,2011,1194
+2746,princeton,Thomas J. Silhavy,2012,1446
+2747,princeton,Thomas J. Silhavy,2013,1238
+2748,princeton,Thomas J. Silhavy,2014,1424
+2749,princeton,Thomas J. Silhavy,2015,1510
+2750,princeton,Thomas J. Silhavy,2016,1486
+2751,princeton,Thomas J. Silhavy,2017,1796
+2752,princeton,Thomas J. Silhavy,2018,1702
+2753,princeton,Thomas J. Silhavy,2019,1833
+2754,princeton,Thomas J. Silhavy,2020,1922
+2755,princeton,Thomas J. Silhavy,2021,1925
+2756,princeton,Thomas J. Silhavy,2022,1611
+2757,princeton,A.J. te Velthuis,2007,11
+2758,princeton,A.J. te Velthuis,2008,19
+2759,princeton,A.J. te Velthuis,2009,26
+2760,princeton,A.J. te Velthuis,2010,48
+2761,princeton,A.J. te Velthuis,2011,76
+2762,princeton,A.J. te Velthuis,2012,93
+2763,princeton,A.J. te Velthuis,2013,63
+2764,princeton,A.J. te Velthuis,2014,99
+2765,princeton,A.J. te Velthuis,2015,87
+2766,princeton,A.J. te Velthuis,2016,110
+2767,princeton,A.J. te Velthuis,2017,123
+2768,princeton,A.J. te Velthuis,2018,181
+2769,princeton,A.J. te Velthuis,2019,267
+2770,princeton,A.J. te Velthuis,2020,926
+2771,princeton,A.J. te Velthuis,2021,1082
+2772,princeton,A.J. te Velthuis,2022,684
+2773,princeton,Jared E. Toettcher,2016,6
+2774,princeton,Jared E. Toettcher,2017,25
+2775,princeton,Jared E. Toettcher,2018,42
+2776,princeton,Jared E. Toettcher,2019,70
+2777,princeton,Jared E. Toettcher,2020,105
+2778,princeton,Jared E. Toettcher,2021,131
+2779,princeton,Jared E. Toettcher,2022,140
+2780,princeton,Ned Wingreen,1992,148
+2781,princeton,Ned Wingreen,1993,237
+2782,princeton,Ned Wingreen,1994,300
+2783,princeton,Ned Wingreen,1995,270
+2784,princeton,Ned Wingreen,1996,315
+2785,princeton,Ned Wingreen,1997,342
+2786,princeton,Ned Wingreen,1998,429
+2787,princeton,Ned Wingreen,1999,451
+2788,princeton,Ned Wingreen,2000,516
+2789,princeton,Ned Wingreen,2001,669
+2790,princeton,Ned Wingreen,2002,634
+2791,princeton,Ned Wingreen,2003,701
+2792,princeton,Ned Wingreen,2004,863
+2793,princeton,Ned Wingreen,2005,1030
+2794,princeton,Ned Wingreen,2006,1062
+2795,princeton,Ned Wingreen,2007,1126
+2796,princeton,Ned Wingreen,2008,1297
+2797,princeton,Ned Wingreen,2009,1238
+2798,princeton,Ned Wingreen,2010,1374
+2799,princeton,Ned Wingreen,2011,1418
+2800,princeton,Ned Wingreen,2012,1463
+2801,princeton,Ned Wingreen,2013,1537
+2802,princeton,Ned Wingreen,2014,1466
+2803,princeton,Ned Wingreen,2015,1557
+2804,princeton,Ned Wingreen,2016,1600
+2805,princeton,Ned Wingreen,2017,1727
+2806,princeton,Ned Wingreen,2018,1718
+2807,princeton,Ned Wingreen,2019,1866
+2808,princeton,Ned Wingreen,2020,2002
+2809,princeton,Ned Wingreen,2021,2248
+2810,princeton,Ned Wingreen,2022,2153
+2811,princeton,Martin H. Wühr,2008,22
+2812,princeton,Martin H. Wühr,2009,22
+2813,princeton,Martin H. Wühr,2010,40
+2814,princeton,Martin H. Wühr,2011,51
+2815,princeton,Martin H. Wühr,2012,66
+2816,princeton,Martin H. Wühr,2013,86
+2817,princeton,Martin H. Wühr,2014,103
+2818,princeton,Martin H. Wühr,2015,153
+2819,princeton,Martin H. Wühr,2016,352
+2820,princeton,Martin H. Wühr,2017,469
+2821,princeton,Martin H. Wühr,2018,659
+2822,princeton,Martin H. Wühr,2019,721
+2823,princeton,Martin H. Wühr,2020,842
+2824,princeton,Martin H. Wühr,2021,885
+2825,princeton,Martin H. Wühr,2022,722
+2826,stanford,Christopher O. Barnes,2012,28
+2827,stanford,Christopher O. Barnes,2013,44
+2828,stanford,Christopher O. Barnes,2014,39
+2829,stanford,Christopher O. Barnes,2015,57
+2830,stanford,Christopher O. Barnes,2016,75
+2831,stanford,Christopher O. Barnes,2017,115
+2832,stanford,Christopher O. Barnes,2018,135
+2833,stanford,Christopher O. Barnes,2019,219
+2834,stanford,Christopher O. Barnes,2020,710
+2835,stanford,Christopher O. Barnes,2021,3835
+2836,stanford,Christopher O. Barnes,2022,3458
+2837,stanford,Dominique Bergmann,2002,23
+2838,stanford,Dominique Bergmann,2003,24
+2839,stanford,Dominique Bergmann,2004,35
+2840,stanford,Dominique Bergmann,2005,50
+2841,stanford,Dominique Bergmann,2006,55
+2842,stanford,Dominique Bergmann,2007,122
+2843,stanford,Dominique Bergmann,2008,137
+2844,stanford,Dominique Bergmann,2009,218
+2845,stanford,Dominique Bergmann,2010,264
+2846,stanford,Dominique Bergmann,2011,286
+2847,stanford,Dominique Bergmann,2012,392
+2848,stanford,Dominique Bergmann,2013,503
+2849,stanford,Dominique Bergmann,2014,563
+2850,stanford,Dominique Bergmann,2015,464
+2851,stanford,Dominique Bergmann,2016,686
+2852,stanford,Dominique Bergmann,2017,602
+2853,stanford,Dominique Bergmann,2018,738
+2854,stanford,Dominique Bergmann,2019,742
+2855,stanford,Dominique Bergmann,2020,862
+2856,stanford,Dominique Bergmann,2021,1037
+2857,stanford,Dominique Bergmann,2022,937
+2858,stanford,Barbara Block,1990,74
+2859,stanford,Barbara Block,1991,78
+2860,stanford,Barbara Block,1992,89
+2861,stanford,Barbara Block,1993,71
+2862,stanford,Barbara Block,1994,139
+2863,stanford,Barbara Block,1995,158
+2864,stanford,Barbara Block,1996,143
+2865,stanford,Barbara Block,1997,137
+2866,stanford,Barbara Block,1998,179
+2867,stanford,Barbara Block,1999,157
+2868,stanford,Barbara Block,2000,201
+2869,stanford,Barbara Block,2001,312
+2870,stanford,Barbara Block,2002,275
+2871,stanford,Barbara Block,2003,293
+2872,stanford,Barbara Block,2004,426
+2873,stanford,Barbara Block,2005,456
+2874,stanford,Barbara Block,2006,464
+2875,stanford,Barbara Block,2007,592
+2876,stanford,Barbara Block,2008,621
+2877,stanford,Barbara Block,2009,933
+2878,stanford,Barbara Block,2010,900
+2879,stanford,Barbara Block,2011,1093
+2880,stanford,Barbara Block,2012,1281
+2881,stanford,Barbara Block,2013,1314
+2882,stanford,Barbara Block,2014,1332
+2883,stanford,Barbara Block,2015,1731
+2884,stanford,Barbara Block,2016,1568
+2885,stanford,Barbara Block,2017,1610
+2886,stanford,Barbara Block,2018,1467
+2887,stanford,Barbara Block,2019,1904
+2888,stanford,Barbara Block,2020,1827
+2889,stanford,Barbara Block,2021,2259
+2890,stanford,Barbara Block,2022,1833
+2891,stanford,Xiaoke Chen,2004,10
+2892,stanford,Xiaoke Chen,2005,17
+2893,stanford,Xiaoke Chen,2006,49
+2894,stanford,Xiaoke Chen,2007,86
+2895,stanford,Xiaoke Chen,2008,74
+2896,stanford,Xiaoke Chen,2009,90
+2897,stanford,Xiaoke Chen,2010,88
+2898,stanford,Xiaoke Chen,2011,95
+2899,stanford,Xiaoke Chen,2012,127
+2900,stanford,Xiaoke Chen,2013,99
+2901,stanford,Xiaoke Chen,2014,124
+2902,stanford,Xiaoke Chen,2015,117
+2903,stanford,Xiaoke Chen,2016,125
+2904,stanford,Xiaoke Chen,2017,144
+2905,stanford,Xiaoke Chen,2018,169
+2906,stanford,Xiaoke Chen,2019,231
+2907,stanford,Xiaoke Chen,2020,222
+2908,stanford,Xiaoke Chen,2021,290
+2909,stanford,Xiaoke Chen,2022,240
+2910,stanford,Jonas Cremer,2008,5
+2911,stanford,Jonas Cremer,2009,8
+2912,stanford,Jonas Cremer,2010,11
+2913,stanford,Jonas Cremer,2011,33
+2914,stanford,Jonas Cremer,2012,35
+2915,stanford,Jonas Cremer,2013,44
+2916,stanford,Jonas Cremer,2014,38
+2917,stanford,Jonas Cremer,2015,42
+2918,stanford,Jonas Cremer,2016,33
+2919,stanford,Jonas Cremer,2017,46
+2920,stanford,Jonas Cremer,2018,107
+2921,stanford,Jonas Cremer,2019,87
+2922,stanford,Jonas Cremer,2020,124
+2923,stanford,Jonas Cremer,2021,173
+2924,stanford,Jonas Cremer,2022,194
+2925,stanford,Martha S. Cyert,1988,37
+2926,stanford,Martha S. Cyert,1989,64
+2927,stanford,Martha S. Cyert,1990,62
+2928,stanford,Martha S. Cyert,1991,73
+2929,stanford,Martha S. Cyert,1992,75
+2930,stanford,Martha S. Cyert,1993,78
+2931,stanford,Martha S. Cyert,1994,79
+2932,stanford,Martha S. Cyert,1995,95
+2933,stanford,Martha S. Cyert,1996,76
+2934,stanford,Martha S. Cyert,1997,100
+2935,stanford,Martha S. Cyert,1998,119
+2936,stanford,Martha S. Cyert,1999,130
+2937,stanford,Martha S. Cyert,2000,159
+2938,stanford,Martha S. Cyert,2001,167
+2939,stanford,Martha S. Cyert,2002,229
+2940,stanford,Martha S. Cyert,2003,220
+2941,stanford,Martha S. Cyert,2004,264
+2942,stanford,Martha S. Cyert,2005,228
+2943,stanford,Martha S. Cyert,2006,248
+2944,stanford,Martha S. Cyert,2007,290
+2945,stanford,Martha S. Cyert,2008,343
+2946,stanford,Martha S. Cyert,2009,330
+2947,stanford,Martha S. Cyert,2010,358
+2948,stanford,Martha S. Cyert,2011,328
+2949,stanford,Martha S. Cyert,2012,393
+2950,stanford,Martha S. Cyert,2013,473
+2951,stanford,Martha S. Cyert,2014,404
+2952,stanford,Martha S. Cyert,2015,379
+2953,stanford,Martha S. Cyert,2016,475
+2954,stanford,Martha S. Cyert,2017,383
+2955,stanford,Martha S. Cyert,2018,343
+2956,stanford,Martha S. Cyert,2019,404
+2957,stanford,Martha S. Cyert,2020,415
+2958,stanford,Martha S. Cyert,2021,462
+2959,stanford,Martha S. Cyert,2022,427
+2960,stanford,Gretchen C. Daily,1997,205
+2961,stanford,Gretchen C. Daily,1998,212
+2962,stanford,Gretchen C. Daily,1999,276
+2963,stanford,Gretchen C. Daily,2000,405
+2964,stanford,Gretchen C. Daily,2001,431
+2965,stanford,Gretchen C. Daily,2002,547
+2966,stanford,Gretchen C. Daily,2003,683
+2967,stanford,Gretchen C. Daily,2004,810
+2968,stanford,Gretchen C. Daily,2005,972
+2969,stanford,Gretchen C. Daily,2006,1134
+2970,stanford,Gretchen C. Daily,2007,1540
+2971,stanford,Gretchen C. Daily,2008,1795
+2972,stanford,Gretchen C. Daily,2009,2044
+2973,stanford,Gretchen C. Daily,2010,2623
+2974,stanford,Gretchen C. Daily,2011,2669
+2975,stanford,Gretchen C. Daily,2012,3297
+2976,stanford,Gretchen C. Daily,2013,4148
+2977,stanford,Gretchen C. Daily,2014,4631
+2978,stanford,Gretchen C. Daily,2015,5213
+2979,stanford,Gretchen C. Daily,2016,5744
+2980,stanford,Gretchen C. Daily,2017,5903
+2981,stanford,Gretchen C. Daily,2018,6240
+2982,stanford,Gretchen C. Daily,2019,6383
+2983,stanford,Gretchen C. Daily,2020,6748
+2984,stanford,Gretchen C. Daily,2021,7355
+2985,stanford,Gretchen C. Daily,2022,6624
+2986,stanford,José R. Dinneny,2004,44
+2987,stanford,José R. Dinneny,2005,53
+2988,stanford,José R. Dinneny,2006,108
+2989,stanford,José R. Dinneny,2007,103
+2990,stanford,José R. Dinneny,2008,125
+2991,stanford,José R. Dinneny,2009,204
+2992,stanford,José R. Dinneny,2010,268
+2993,stanford,José R. Dinneny,2011,262
+2994,stanford,José R. Dinneny,2012,256
+2995,stanford,José R. Dinneny,2013,312
+2996,stanford,José R. Dinneny,2014,344
+2997,stanford,José R. Dinneny,2015,437
+2998,stanford,José R. Dinneny,2016,429
+2999,stanford,José R. Dinneny,2017,457
+3000,stanford,José R. Dinneny,2018,656
+3001,stanford,José R. Dinneny,2019,770
+3002,stanford,José R. Dinneny,2020,937
+3003,stanford,José R. Dinneny,2021,1082
+3004,stanford,José R. Dinneny,2022,1126
+3005,stanford,Rodolfo Dirzo,1998,143
+3006,stanford,Rodolfo Dirzo,1999,183
+3007,stanford,Rodolfo Dirzo,2000,256
+3008,stanford,Rodolfo Dirzo,2001,334
+3009,stanford,Rodolfo Dirzo,2002,358
+3010,stanford,Rodolfo Dirzo,2003,453
+3011,stanford,Rodolfo Dirzo,2004,537
+3012,stanford,Rodolfo Dirzo,2005,563
+3013,stanford,Rodolfo Dirzo,2006,706
+3014,stanford,Rodolfo Dirzo,2007,850
+3015,stanford,Rodolfo Dirzo,2008,978
+3016,stanford,Rodolfo Dirzo,2009,1103
+3017,stanford,Rodolfo Dirzo,2010,1298
+3018,stanford,Rodolfo Dirzo,2011,1490
+3019,stanford,Rodolfo Dirzo,2012,1624
+3020,stanford,Rodolfo Dirzo,2013,1889
+3021,stanford,Rodolfo Dirzo,2014,2083
+3022,stanford,Rodolfo Dirzo,2015,2472
+3023,stanford,Rodolfo Dirzo,2016,2684
+3024,stanford,Rodolfo Dirzo,2017,2945
+3025,stanford,Rodolfo Dirzo,2018,3392
+3026,stanford,Rodolfo Dirzo,2019,3650
+3027,stanford,Rodolfo Dirzo,2020,3698
+3028,stanford,Rodolfo Dirzo,2021,3970
+3029,stanford,Rodolfo Dirzo,2022,3451
+3030,stanford,Marcus Feldman,1983,228
+3031,stanford,Marcus Feldman,1984,284
+3032,stanford,Marcus Feldman,1985,262
+3033,stanford,Marcus Feldman,1986,266
+3034,stanford,Marcus Feldman,1987,274
+3035,stanford,Marcus Feldman,1988,266
+3036,stanford,Marcus Feldman,1989,256
+3037,stanford,Marcus Feldman,1990,301
+3038,stanford,Marcus Feldman,1991,305
+3039,stanford,Marcus Feldman,1992,288
+3040,stanford,Marcus Feldman,1993,300
+3041,stanford,Marcus Feldman,1994,538
+3042,stanford,Marcus Feldman,1995,312
+3043,stanford,Marcus Feldman,1996,535
+3044,stanford,Marcus Feldman,1997,477
+3045,stanford,Marcus Feldman,1998,636
+3046,stanford,Marcus Feldman,1999,650
+3047,stanford,Marcus Feldman,2000,829
+3048,stanford,Marcus Feldman,2001,970
+3049,stanford,Marcus Feldman,2002,976
+3050,stanford,Marcus Feldman,2003,1351
+3051,stanford,Marcus Feldman,2004,1447
+3052,stanford,Marcus Feldman,2005,1673
+3053,stanford,Marcus Feldman,2006,2235
+3054,stanford,Marcus Feldman,2007,2394
+3055,stanford,Marcus Feldman,2008,2355
+3056,stanford,Marcus Feldman,2009,2602
+3057,stanford,Marcus Feldman,2010,2993
+3058,stanford,Marcus Feldman,2011,3396
+3059,stanford,Marcus Feldman,2012,3614
+3060,stanford,Marcus Feldman,2013,3563
+3061,stanford,Marcus Feldman,2014,4047
+3062,stanford,Marcus Feldman,2015,3952
+3063,stanford,Marcus Feldman,2016,4183
+3064,stanford,Marcus Feldman,2017,3971
+3065,stanford,Marcus Feldman,2018,4027
+3066,stanford,Marcus Feldman,2019,4520
+3067,stanford,Marcus Feldman,2020,4560
+3068,stanford,Marcus Feldman,2021,4884
+3069,stanford,Marcus Feldman,2022,4415
+3070,stanford,Chris Field,1994,400
+3071,stanford,Chris Field,1995,633
+3072,stanford,Chris Field,1996,742
+3073,stanford,Chris Field,1997,835
+3074,stanford,Chris Field,1998,852
+3075,stanford,Chris Field,1999,1113
+3076,stanford,Chris Field,2000,1334
+3077,stanford,Chris Field,2001,1523
+3078,stanford,Chris Field,2002,1807
+3079,stanford,Chris Field,2003,2017
+3080,stanford,Chris Field,2004,2557
+3081,stanford,Chris Field,2005,2834
+3082,stanford,Chris Field,2006,2973
+3083,stanford,Chris Field,2007,3182
+3084,stanford,Chris Field,2008,4078
+3085,stanford,Chris Field,2009,4546
+3086,stanford,Chris Field,2010,5334
+3087,stanford,Chris Field,2011,5690
+3088,stanford,Chris Field,2012,6078
+3089,stanford,Chris Field,2013,6990
+3090,stanford,Chris Field,2014,7263
+3091,stanford,Chris Field,2015,8167
+3092,stanford,Chris Field,2016,8952
+3093,stanford,Chris Field,2017,9163
+3094,stanford,Chris Field,2018,9626
+3095,stanford,Chris Field,2019,10118
+3096,stanford,Chris Field,2020,11533
+3097,stanford,Chris Field,2021,12713
+3098,stanford,Chris Field,2022,10905
+3099,stanford,Hunter Fraser,2002,41
+3100,stanford,Hunter Fraser,2003,107
+3101,stanford,Hunter Fraser,2004,151
+3102,stanford,Hunter Fraser,2005,307
+3103,stanford,Hunter Fraser,2006,373
+3104,stanford,Hunter Fraser,2007,335
+3105,stanford,Hunter Fraser,2008,330
+3106,stanford,Hunter Fraser,2009,377
+3107,stanford,Hunter Fraser,2010,415
+3108,stanford,Hunter Fraser,2011,398
+3109,stanford,Hunter Fraser,2012,440
+3110,stanford,Hunter Fraser,2013,487
+3111,stanford,Hunter Fraser,2014,457
+3112,stanford,Hunter Fraser,2015,549
+3113,stanford,Hunter Fraser,2016,560
+3114,stanford,Hunter Fraser,2017,569
+3115,stanford,Hunter Fraser,2018,558
+3116,stanford,Hunter Fraser,2019,531
+3117,stanford,Hunter Fraser,2020,523
+3118,stanford,Hunter Fraser,2021,574
+3119,stanford,Hunter Fraser,2022,566
+3120,stanford,Judith Frydman,1994,63
+3121,stanford,Judith Frydman,1995,108
+3122,stanford,Judith Frydman,1996,135
+3123,stanford,Judith Frydman,1997,152
+3124,stanford,Judith Frydman,1998,158
+3125,stanford,Judith Frydman,1999,160
+3126,stanford,Judith Frydman,2000,205
+3127,stanford,Judith Frydman,2001,242
+3128,stanford,Judith Frydman,2002,238
+3129,stanford,Judith Frydman,2003,265
+3130,stanford,Judith Frydman,2004,274
+3131,stanford,Judith Frydman,2005,339
+3132,stanford,Judith Frydman,2006,420
+3133,stanford,Judith Frydman,2007,421
+3134,stanford,Judith Frydman,2008,467
+3135,stanford,Judith Frydman,2009,440
+3136,stanford,Judith Frydman,2010,691
+3137,stanford,Judith Frydman,2011,740
+3138,stanford,Judith Frydman,2012,842
+3139,stanford,Judith Frydman,2013,910
+3140,stanford,Judith Frydman,2014,1171
+3141,stanford,Judith Frydman,2015,1079
+3142,stanford,Judith Frydman,2016,1299
+3143,stanford,Judith Frydman,2017,1354
+3144,stanford,Judith Frydman,2018,1327
+3145,stanford,Judith Frydman,2019,1492
+3146,stanford,Judith Frydman,2020,1674
+3147,stanford,Judith Frydman,2021,1699
+3148,stanford,Judith Frydman,2022,1386
+3149,stanford,Tadashi Fukami,2005,53
+3150,stanford,Tadashi Fukami,2006,97
+3151,stanford,Tadashi Fukami,2007,136
+3152,stanford,Tadashi Fukami,2008,130
+3153,stanford,Tadashi Fukami,2009,198
+3154,stanford,Tadashi Fukami,2010,231
+3155,stanford,Tadashi Fukami,2011,286
+3156,stanford,Tadashi Fukami,2012,320
+3157,stanford,Tadashi Fukami,2013,490
+3158,stanford,Tadashi Fukami,2014,743
+3159,stanford,Tadashi Fukami,2015,934
+3160,stanford,Tadashi Fukami,2016,1181
+3161,stanford,Tadashi Fukami,2017,1365
+3162,stanford,Tadashi Fukami,2018,1511
+3163,stanford,Tadashi Fukami,2019,1683
+3164,stanford,Tadashi Fukami,2020,1750
+3165,stanford,Tadashi Fukami,2021,2081
+3166,stanford,Tadashi Fukami,2022,1913
+3167,stanford,Deborah M Gordon,1991,46
+3168,stanford,Deborah M Gordon,1992,62
+3169,stanford,Deborah M Gordon,1993,50
+3170,stanford,Deborah M Gordon,1994,51
+3171,stanford,Deborah M Gordon,1995,74
+3172,stanford,Deborah M Gordon,1996,109
+3173,stanford,Deborah M Gordon,1997,118
+3174,stanford,Deborah M Gordon,1998,115
+3175,stanford,Deborah M Gordon,1999,155
+3176,stanford,Deborah M Gordon,2000,167
+3177,stanford,Deborah M Gordon,2001,232
+3178,stanford,Deborah M Gordon,2002,232
+3179,stanford,Deborah M Gordon,2003,279
+3180,stanford,Deborah M Gordon,2004,299
+3181,stanford,Deborah M Gordon,2005,339
+3182,stanford,Deborah M Gordon,2006,381
+3183,stanford,Deborah M Gordon,2007,444
+3184,stanford,Deborah M Gordon,2008,441
+3185,stanford,Deborah M Gordon,2009,506
+3186,stanford,Deborah M Gordon,2010,606
+3187,stanford,Deborah M Gordon,2011,586
+3188,stanford,Deborah M Gordon,2012,653
+3189,stanford,Deborah M Gordon,2013,765
+3190,stanford,Deborah M Gordon,2014,642
+3191,stanford,Deborah M Gordon,2015,713
+3192,stanford,Deborah M Gordon,2016,862
+3193,stanford,Deborah M Gordon,2017,719
+3194,stanford,Deborah M Gordon,2018,865
+3195,stanford,Deborah M Gordon,2019,803
+3196,stanford,Deborah M Gordon,2020,734
+3197,stanford,Deborah M Gordon,2021,831
+3198,stanford,Deborah M Gordon,2022,705
+3199,stanford,Or Gozani,1997,51
+3200,stanford,Or Gozani,1998,77
+3201,stanford,Or Gozani,1999,92
+3202,stanford,Or Gozani,2000,89
+3203,stanford,Or Gozani,2001,98
+3204,stanford,Or Gozani,2002,85
+3205,stanford,Or Gozani,2003,94
+3206,stanford,Or Gozani,2004,134
+3207,stanford,Or Gozani,2005,138
+3208,stanford,Or Gozani,2006,232
+3209,stanford,Or Gozani,2007,433
+3210,stanford,Or Gozani,2008,513
+3211,stanford,Or Gozani,2009,713
+3212,stanford,Or Gozani,2010,639
+3213,stanford,Or Gozani,2011,931
+3214,stanford,Or Gozani,2012,927
+3215,stanford,Or Gozani,2013,1135
+3216,stanford,Or Gozani,2014,1137
+3217,stanford,Or Gozani,2015,1261
+3218,stanford,Or Gozani,2016,1471
+3219,stanford,Or Gozani,2017,1090
+3220,stanford,Or Gozani,2018,1021
+3221,stanford,Or Gozani,2019,1140
+3222,stanford,Or Gozani,2020,1171
+3223,stanford,Or Gozani,2021,1336
+3224,stanford,Or Gozani,2022,1234
+3225,stanford,H. Craig Heller,1983,74
+3226,stanford,H. Craig Heller,1984,117
+3227,stanford,H. Craig Heller,1985,91
+3228,stanford,H. Craig Heller,1986,121
+3229,stanford,H. Craig Heller,1987,100
+3230,stanford,H. Craig Heller,1988,124
+3231,stanford,H. Craig Heller,1989,144
+3232,stanford,H. Craig Heller,1990,124
+3233,stanford,H. Craig Heller,1991,98
+3234,stanford,H. Craig Heller,1992,140
+3235,stanford,H. Craig Heller,1993,153
+3236,stanford,H. Craig Heller,1994,182
+3237,stanford,H. Craig Heller,1995,206
+3238,stanford,H. Craig Heller,1996,265
+3239,stanford,H. Craig Heller,1997,278
+3240,stanford,H. Craig Heller,1998,329
+3241,stanford,H. Craig Heller,1999,362
+3242,stanford,H. Craig Heller,2000,549
+3243,stanford,H. Craig Heller,2001,457
+3244,stanford,H. Craig Heller,2002,555
+3245,stanford,H. Craig Heller,2003,588
+3246,stanford,H. Craig Heller,2004,629
+3247,stanford,H. Craig Heller,2005,774
+3248,stanford,H. Craig Heller,2006,698
+3249,stanford,H. Craig Heller,2007,726
+3250,stanford,H. Craig Heller,2008,725
+3251,stanford,H. Craig Heller,2009,797
+3252,stanford,H. Craig Heller,2010,950
+3253,stanford,H. Craig Heller,2011,1025
+3254,stanford,H. Craig Heller,2012,981
+3255,stanford,H. Craig Heller,2013,1108
+3256,stanford,H. Craig Heller,2014,1109
+3257,stanford,H. Craig Heller,2015,1189
+3258,stanford,H. Craig Heller,2016,1120
+3259,stanford,H. Craig Heller,2017,1190
+3260,stanford,H. Craig Heller,2018,1190
+3261,stanford,H. Craig Heller,2019,1179
+3262,stanford,H. Craig Heller,2020,1127
+3263,stanford,H. Craig Heller,2021,1267
+3264,stanford,H. Craig Heller,2022,1069
+3265,stanford,Mary Hynes,1989,37
+3266,stanford,Mary Hynes,1990,52
+3267,stanford,Mary Hynes,1991,68
+3268,stanford,Mary Hynes,1992,64
+3269,stanford,Mary Hynes,1993,51
+3270,stanford,Mary Hynes,1994,60
+3271,stanford,Mary Hynes,1995,110
+3272,stanford,Mary Hynes,1996,187
+3273,stanford,Mary Hynes,1997,225
+3274,stanford,Mary Hynes,1998,320
+3275,stanford,Mary Hynes,1999,481
+3276,stanford,Mary Hynes,2000,510
+3277,stanford,Mary Hynes,2001,507
+3278,stanford,Mary Hynes,2002,495
+3279,stanford,Mary Hynes,2003,548
+3280,stanford,Mary Hynes,2004,538
+3281,stanford,Mary Hynes,2005,509
+3282,stanford,Mary Hynes,2006,555
+3283,stanford,Mary Hynes,2007,422
+3284,stanford,Mary Hynes,2008,484
+3285,stanford,Mary Hynes,2009,445
+3286,stanford,Mary Hynes,2010,431
+3287,stanford,Mary Hynes,2011,505
+3288,stanford,Mary Hynes,2012,467
+3289,stanford,Mary Hynes,2013,471
+3290,stanford,Mary Hynes,2014,400
+3291,stanford,Mary Hynes,2015,405
+3292,stanford,Mary Hynes,2016,366
+3293,stanford,Mary Hynes,2017,350
+3294,stanford,Mary Hynes,2018,325
+3295,stanford,Mary Hynes,2019,325
+3296,stanford,Mary Hynes,2020,338
+3297,stanford,Mary Hynes,2021,328
+3298,stanford,Mary Hynes,2022,230
+3299,stanford,Richard Klein,1983,68
+3300,stanford,Richard Klein,1984,61
+3301,stanford,Richard Klein,1985,58
+3302,stanford,Richard Klein,1986,145
+3303,stanford,Richard Klein,1987,181
+3304,stanford,Richard Klein,1988,128
+3305,stanford,Richard Klein,1989,187
+3306,stanford,Richard Klein,1990,144
+3307,stanford,Richard Klein,1991,262
+3308,stanford,Richard Klein,1992,232
+3309,stanford,Richard Klein,1993,356
+3310,stanford,Richard Klein,1994,247
+3311,stanford,Richard Klein,1995,251
+3312,stanford,Richard Klein,1996,275
+3313,stanford,Richard Klein,1997,262
+3314,stanford,Richard Klein,1998,361
+3315,stanford,Richard Klein,1999,334
+3316,stanford,Richard Klein,2000,387
+3317,stanford,Richard Klein,2001,493
+3318,stanford,Richard Klein,2002,577
+3319,stanford,Richard Klein,2003,496
+3320,stanford,Richard Klein,2004,566
+3321,stanford,Richard Klein,2005,545
+3322,stanford,Richard Klein,2006,697
+3323,stanford,Richard Klein,2007,624
+3324,stanford,Richard Klein,2008,813
+3325,stanford,Richard Klein,2009,787
+3326,stanford,Richard Klein,2010,1006
+3327,stanford,Richard Klein,2011,1021
+3328,stanford,Richard Klein,2012,1043
+3329,stanford,Richard Klein,2013,1144
+3330,stanford,Richard Klein,2014,1176
+3331,stanford,Richard Klein,2015,1042
+3332,stanford,Richard Klein,2016,1380
+3333,stanford,Richard Klein,2017,1023
+3334,stanford,Richard Klein,2018,1069
+3335,stanford,Richard Klein,2019,1165
+3336,stanford,Richard Klein,2020,1043
+3337,stanford,Richard Klein,2021,1040
+3338,stanford,Richard Klein,2022,891
+3339,stanford,Ron Kopito,1988,95
+3340,stanford,Ron Kopito,1989,154
+3341,stanford,Ron Kopito,1990,105
+3342,stanford,Ron Kopito,1991,146
+3343,stanford,Ron Kopito,1992,199
+3344,stanford,Ron Kopito,1993,165
+3345,stanford,Ron Kopito,1994,175
+3346,stanford,Ron Kopito,1995,229
+3347,stanford,Ron Kopito,1996,358
+3348,stanford,Ron Kopito,1997,351
+3349,stanford,Ron Kopito,1998,517
+3350,stanford,Ron Kopito,1999,608
+3351,stanford,Ron Kopito,2000,641
+3352,stanford,Ron Kopito,2001,681
+3353,stanford,Ron Kopito,2002,926
+3354,stanford,Ron Kopito,2003,959
+3355,stanford,Ron Kopito,2004,1054
+3356,stanford,Ron Kopito,2005,1091
+3357,stanford,Ron Kopito,2006,1195
+3358,stanford,Ron Kopito,2007,1062
+3359,stanford,Ron Kopito,2008,1305
+3360,stanford,Ron Kopito,2009,1198
+3361,stanford,Ron Kopito,2010,1328
+3362,stanford,Ron Kopito,2011,1437
+3363,stanford,Ron Kopito,2012,1480
+3364,stanford,Ron Kopito,2013,1424
+3365,stanford,Ron Kopito,2014,1530
+3366,stanford,Ron Kopito,2015,1416
+3367,stanford,Ron Kopito,2016,1160
+3368,stanford,Ron Kopito,2017,1244
+3369,stanford,Ron Kopito,2018,1223
+3370,stanford,Ron Kopito,2019,1276
+3371,stanford,Ron Kopito,2020,1395
+3372,stanford,Ron Kopito,2021,1236
+3373,stanford,Ron Kopito,2022,1004
+3374,stanford,Christopher Lowe,1998,39
+3375,stanford,Christopher Lowe,1999,66
+3376,stanford,Christopher Lowe,2000,55
+3377,stanford,Christopher Lowe,2001,60
+3378,stanford,Christopher Lowe,2002,69
+3379,stanford,Christopher Lowe,2003,77
+3380,stanford,Christopher Lowe,2004,72
+3381,stanford,Christopher Lowe,2005,103
+3382,stanford,Christopher Lowe,2006,100
+3383,stanford,Christopher Lowe,2007,170
+3384,stanford,Christopher Lowe,2008,248
+3385,stanford,Christopher Lowe,2009,213
+3386,stanford,Christopher Lowe,2010,181
+3387,stanford,Christopher Lowe,2011,145
+3388,stanford,Christopher Lowe,2012,189
+3389,stanford,Christopher Lowe,2013,202
+3390,stanford,Christopher Lowe,2014,247
+3391,stanford,Christopher Lowe,2015,378
+3392,stanford,Christopher Lowe,2016,304
+3393,stanford,Christopher Lowe,2017,332
+3394,stanford,Christopher Lowe,2018,341
+3395,stanford,Christopher Lowe,2019,315
+3396,stanford,Christopher Lowe,2020,277
+3397,stanford,Christopher Lowe,2021,379
+3398,stanford,Christopher Lowe,2022,298
+3399,stanford,Liqun Luo,1997,144
+3400,stanford,Liqun Luo,1998,162
+3401,stanford,Liqun Luo,1999,214
+3402,stanford,Liqun Luo,2000,304
+3403,stanford,Liqun Luo,2001,362
+3404,stanford,Liqun Luo,2002,623
+3405,stanford,Liqun Luo,2003,808
+3406,stanford,Liqun Luo,2004,829
+3407,stanford,Liqun Luo,2005,1047
+3408,stanford,Liqun Luo,2006,960
+3409,stanford,Liqun Luo,2007,1091
+3410,stanford,Liqun Luo,2008,1226
+3411,stanford,Liqun Luo,2009,1170
+3412,stanford,Liqun Luo,2010,1442
+3413,stanford,Liqun Luo,2011,1616
+3414,stanford,Liqun Luo,2012,1754
+3415,stanford,Liqun Luo,2013,1994
+3416,stanford,Liqun Luo,2014,2134
+3417,stanford,Liqun Luo,2015,2158
+3418,stanford,Liqun Luo,2016,2312
+3419,stanford,Liqun Luo,2017,2705
+3420,stanford,Liqun Luo,2018,2977
+3421,stanford,Liqun Luo,2019,3567
+3422,stanford,Liqun Luo,2020,3850
+3423,stanford,Liqun Luo,2021,4347
+3424,stanford,Liqun Luo,2022,4236
+3425,stanford,Susan K. McConnell,1990,98
+3426,stanford,Susan K. McConnell,1991,128
+3427,stanford,Susan K. McConnell,1992,215
+3428,stanford,Susan K. McConnell,1993,239
+3429,stanford,Susan K. McConnell,1994,209
+3430,stanford,Susan K. McConnell,1995,347
+3431,stanford,Susan K. McConnell,1996,330
+3432,stanford,Susan K. McConnell,1997,530
+3433,stanford,Susan K. McConnell,1998,341
+3434,stanford,Susan K. McConnell,1999,457
+3435,stanford,Susan K. McConnell,2000,449
+3436,stanford,Susan K. McConnell,2001,459
+3437,stanford,Susan K. McConnell,2002,488
+3438,stanford,Susan K. McConnell,2003,625
+3439,stanford,Susan K. McConnell,2004,616
+3440,stanford,Susan K. McConnell,2005,670
+3441,stanford,Susan K. McConnell,2006,775
+3442,stanford,Susan K. McConnell,2007,750
+3443,stanford,Susan K. McConnell,2008,789
+3444,stanford,Susan K. McConnell,2009,825
+3445,stanford,Susan K. McConnell,2010,737
+3446,stanford,Susan K. McConnell,2011,779
+3447,stanford,Susan K. McConnell,2012,800
+3448,stanford,Susan K. McConnell,2013,815
+3449,stanford,Susan K. McConnell,2014,808
+3450,stanford,Susan K. McConnell,2015,703
+3451,stanford,Susan K. McConnell,2016,647
+3452,stanford,Susan K. McConnell,2017,683
+3453,stanford,Susan K. McConnell,2018,645
+3454,stanford,Susan K. McConnell,2019,704
+3455,stanford,Susan K. McConnell,2020,669
+3456,stanford,Susan K. McConnell,2021,696
+3457,stanford,Susan K. McConnell,2022,630
+3458,stanford,Erin Mordecai,2008,14
+3459,stanford,Erin Mordecai,2009,29
+3460,stanford,Erin Mordecai,2010,51
+3461,stanford,Erin Mordecai,2011,81
+3462,stanford,Erin Mordecai,2012,54
+3463,stanford,Erin Mordecai,2013,122
+3464,stanford,Erin Mordecai,2014,140
+3465,stanford,Erin Mordecai,2015,186
+3466,stanford,Erin Mordecai,2016,167
+3467,stanford,Erin Mordecai,2017,294
+3468,stanford,Erin Mordecai,2018,407
+3469,stanford,Erin Mordecai,2019,575
+3470,stanford,Erin Mordecai,2020,1001
+3471,stanford,Erin Mordecai,2021,1174
+3472,stanford,Erin Mordecai,2022,1125
+3473,stanford,Lauren O'Connell,2011,36
+3474,stanford,Lauren O'Connell,2012,79
+3475,stanford,Lauren O'Connell,2013,154
+3476,stanford,Lauren O'Connell,2014,215
+3477,stanford,Lauren O'Connell,2015,233
+3478,stanford,Lauren O'Connell,2016,275
+3479,stanford,Lauren O'Connell,2017,391
+3480,stanford,Lauren O'Connell,2018,338
+3481,stanford,Lauren O'Connell,2019,470
+3482,stanford,Lauren O'Connell,2020,492
+3483,stanford,Lauren O'Connell,2021,557
+3484,stanford,Lauren O'Connell,2022,565
+3485,stanford,Stephen Palumbi,1989,875
+3486,stanford,Stephen Palumbi,1990,1436
+3487,stanford,Stephen Palumbi,1991,1977
+3488,stanford,Stephen Palumbi,1992,1966
+3489,stanford,Stephen Palumbi,1993,1768
+3490,stanford,Stephen Palumbi,1994,1781
+3491,stanford,Stephen Palumbi,1995,1462
+3492,stanford,Stephen Palumbi,1996,1418
+3493,stanford,Stephen Palumbi,1997,1350
+3494,stanford,Stephen Palumbi,1998,1382
+3495,stanford,Stephen Palumbi,1999,1235
+3496,stanford,Stephen Palumbi,2000,1369
+3497,stanford,Stephen Palumbi,2001,1405
+3498,stanford,Stephen Palumbi,2002,1394
+3499,stanford,Stephen Palumbi,2003,1611
+3500,stanford,Stephen Palumbi,2004,1832
+3501,stanford,Stephen Palumbi,2005,2024
+3502,stanford,Stephen Palumbi,2006,2158
+3503,stanford,Stephen Palumbi,2007,2360
+3504,stanford,Stephen Palumbi,2008,2747
+3505,stanford,Stephen Palumbi,2009,2910
+3506,stanford,Stephen Palumbi,2010,3098
+3507,stanford,Stephen Palumbi,2011,3351
+3508,stanford,Stephen Palumbi,2012,3629
+3509,stanford,Stephen Palumbi,2013,3874
+3510,stanford,Stephen Palumbi,2014,3945
+3511,stanford,Stephen Palumbi,2015,3737
+3512,stanford,Stephen Palumbi,2016,4108
+3513,stanford,Stephen Palumbi,2017,4047
+3514,stanford,Stephen Palumbi,2018,4117
+3515,stanford,Stephen Palumbi,2019,4356
+3516,stanford,Stephen Palumbi,2020,4366
+3517,stanford,Stephen Palumbi,2021,4438
+3518,stanford,Stephen Palumbi,2022,3899
+3519,stanford,Kabir Peay,2009,68
+3520,stanford,Kabir Peay,2010,126
+3521,stanford,Kabir Peay,2011,140
+3522,stanford,Kabir Peay,2012,199
+3523,stanford,Kabir Peay,2013,319
+3524,stanford,Kabir Peay,2014,431
+3525,stanford,Kabir Peay,2015,640
+3526,stanford,Kabir Peay,2016,1021
+3527,stanford,Kabir Peay,2017,1138
+3528,stanford,Kabir Peay,2018,1274
+3529,stanford,Kabir Peay,2019,1553
+3530,stanford,Kabir Peay,2020,1679
+3531,stanford,Kabir Peay,2021,2037
+3532,stanford,Kabir Peay,2022,1866
+3533,stanford,Dmitri Petrov,1997,58
+3534,stanford,Dmitri Petrov,1998,57
+3535,stanford,Dmitri Petrov,1999,84
+3536,stanford,Dmitri Petrov,2000,121
+3537,stanford,Dmitri Petrov,2001,121
+3538,stanford,Dmitri Petrov,2002,223
+3539,stanford,Dmitri Petrov,2003,160
+3540,stanford,Dmitri Petrov,2004,211
+3541,stanford,Dmitri Petrov,2005,298
+3542,stanford,Dmitri Petrov,2006,302
+3543,stanford,Dmitri Petrov,2007,389
+3544,stanford,Dmitri Petrov,2008,365
+3545,stanford,Dmitri Petrov,2009,445
+3546,stanford,Dmitri Petrov,2010,613
+3547,stanford,Dmitri Petrov,2011,660
+3548,stanford,Dmitri Petrov,2012,935
+3549,stanford,Dmitri Petrov,2013,872
+3550,stanford,Dmitri Petrov,2014,952
+3551,stanford,Dmitri Petrov,2015,1187
+3552,stanford,Dmitri Petrov,2016,1334
+3553,stanford,Dmitri Petrov,2017,1473
+3554,stanford,Dmitri Petrov,2018,1544
+3555,stanford,Dmitri Petrov,2019,1678
+3556,stanford,Dmitri Petrov,2020,1937
+3557,stanford,Dmitri Petrov,2021,2137
+3558,stanford,Dmitri Petrov,2022,2242
+3559,stanford,Jonathan Pritchard,2002,438
+3560,stanford,Jonathan Pritchard,2003,733
+3561,stanford,Jonathan Pritchard,2004,1176
+3562,stanford,Jonathan Pritchard,2005,1445
+3563,stanford,Jonathan Pritchard,2006,1996
+3564,stanford,Jonathan Pritchard,2007,2776
+3565,stanford,Jonathan Pritchard,2008,3197
+3566,stanford,Jonathan Pritchard,2009,3832
+3567,stanford,Jonathan Pritchard,2010,4564
+3568,stanford,Jonathan Pritchard,2011,5097
+3569,stanford,Jonathan Pritchard,2012,6132
+3570,stanford,Jonathan Pritchard,2013,6457
+3571,stanford,Jonathan Pritchard,2014,7487
+3572,stanford,Jonathan Pritchard,2015,7868
+3573,stanford,Jonathan Pritchard,2016,8370
+3574,stanford,Jonathan Pritchard,2017,8661
+3575,stanford,Jonathan Pritchard,2018,9423
+3576,stanford,Jonathan Pritchard,2019,9562
+3577,stanford,Jonathan Pritchard,2020,9764
+3578,stanford,Jonathan Pritchard,2021,10967
+3579,stanford,Jonathan Pritchard,2022,9303
+3580,stanford,Kristy Red-Horse,2003,16
+3581,stanford,Kristy Red-Horse,2004,17
+3582,stanford,Kristy Red-Horse,2005,41
+3583,stanford,Kristy Red-Horse,2006,83
+3584,stanford,Kristy Red-Horse,2007,113
+3585,stanford,Kristy Red-Horse,2008,132
+3586,stanford,Kristy Red-Horse,2009,140
+3587,stanford,Kristy Red-Horse,2010,124
+3588,stanford,Kristy Red-Horse,2011,157
+3589,stanford,Kristy Red-Horse,2012,162
+3590,stanford,Kristy Red-Horse,2013,194
+3591,stanford,Kristy Red-Horse,2014,215
+3592,stanford,Kristy Red-Horse,2015,248
+3593,stanford,Kristy Red-Horse,2016,300
+3594,stanford,Kristy Red-Horse,2017,325
+3595,stanford,Kristy Red-Horse,2018,472
+3596,stanford,Kristy Red-Horse,2019,452
+3597,stanford,Kristy Red-Horse,2020,586
+3598,stanford,Kristy Red-Horse,2021,738
+3599,stanford,Kristy Red-Horse,2022,833
+3600,stanford,Noah Rosenberg,2001,116
+3601,stanford,Noah Rosenberg,2002,161
+3602,stanford,Noah Rosenberg,2003,289
+3603,stanford,Noah Rosenberg,2004,420
+3604,stanford,Noah Rosenberg,2005,545
+3605,stanford,Noah Rosenberg,2006,736
+3606,stanford,Noah Rosenberg,2007,1027
+3607,stanford,Noah Rosenberg,2008,1189
+3608,stanford,Noah Rosenberg,2009,1506
+3609,stanford,Noah Rosenberg,2010,1753
+3610,stanford,Noah Rosenberg,2011,1896
+3611,stanford,Noah Rosenberg,2012,2209
+3612,stanford,Noah Rosenberg,2013,2306
+3613,stanford,Noah Rosenberg,2014,2606
+3614,stanford,Noah Rosenberg,2015,2774
+3615,stanford,Noah Rosenberg,2016,2982
+3616,stanford,Noah Rosenberg,2017,2924
+3617,stanford,Noah Rosenberg,2018,2883
+3618,stanford,Noah Rosenberg,2019,3115
+3619,stanford,Noah Rosenberg,2020,2986
+3620,stanford,Noah Rosenberg,2021,3064
+3621,stanford,Noah Rosenberg,2022,2790
+3622,stanford,Mark J. Schnitzer,1999,85
+3623,stanford,Mark J. Schnitzer,2000,127
+3624,stanford,Mark J. Schnitzer,2001,127
+3625,stanford,Mark J. Schnitzer,2002,176
+3626,stanford,Mark J. Schnitzer,2003,224
+3627,stanford,Mark J. Schnitzer,2004,241
+3628,stanford,Mark J. Schnitzer,2005,305
+3629,stanford,Mark J. Schnitzer,2006,348
+3630,stanford,Mark J. Schnitzer,2007,428
+3631,stanford,Mark J. Schnitzer,2008,455
+3632,stanford,Mark J. Schnitzer,2009,540
+3633,stanford,Mark J. Schnitzer,2010,584
+3634,stanford,Mark J. Schnitzer,2011,660
+3635,stanford,Mark J. Schnitzer,2012,716
+3636,stanford,Mark J. Schnitzer,2013,1031
+3637,stanford,Mark J. Schnitzer,2014,1144
+3638,stanford,Mark J. Schnitzer,2015,1354
+3639,stanford,Mark J. Schnitzer,2016,1499
+3640,stanford,Mark J. Schnitzer,2017,1740
+3641,stanford,Mark J. Schnitzer,2018,2003
+3642,stanford,Mark J. Schnitzer,2019,2270
+3643,stanford,Mark J. Schnitzer,2020,2316
+3644,stanford,Mark J. Schnitzer,2021,2406
+3645,stanford,Mark J. Schnitzer,2022,2294
+3646,stanford,Molly Schumer,2010,7
+3647,stanford,Molly Schumer,2011,13
+3648,stanford,Molly Schumer,2012,16
+3649,stanford,Molly Schumer,2013,42
+3650,stanford,Molly Schumer,2014,77
+3651,stanford,Molly Schumer,2015,110
+3652,stanford,Molly Schumer,2016,141
+3653,stanford,Molly Schumer,2017,170
+3654,stanford,Molly Schumer,2018,197
+3655,stanford,Molly Schumer,2019,271
+3656,stanford,Molly Schumer,2020,303
+3657,stanford,Molly Schumer,2021,335
+3658,stanford,Molly Schumer,2022,353
+3659,stanford,Naima G. Sharaf,2011,19
+3660,stanford,Naima G. Sharaf,2012,17
+3661,stanford,Naima G. Sharaf,2013,19
+3662,stanford,Naima G. Sharaf,2014,19
+3663,stanford,Naima G. Sharaf,2015,17
+3664,stanford,Naima G. Sharaf,2016,20
+3665,stanford,Naima G. Sharaf,2017,38
+3666,stanford,Naima G. Sharaf,2018,40
+3667,stanford,Naima G. Sharaf,2019,55
+3668,stanford,Naima G. Sharaf,2020,170
+3669,stanford,Naima G. Sharaf,2021,885
+3670,stanford,Naima G. Sharaf,2022,692
+3671,stanford,Carla Shatz,1984,188
+3672,stanford,Carla Shatz,1985,133
+3673,stanford,Carla Shatz,1986,151
+3674,stanford,Carla Shatz,1987,123
+3675,stanford,Carla Shatz,1988,321
+3676,stanford,Carla Shatz,1989,265
+3677,stanford,Carla Shatz,1990,452
+3678,stanford,Carla Shatz,1991,491
+3679,stanford,Carla Shatz,1992,546
+3680,stanford,Carla Shatz,1993,664
+3681,stanford,Carla Shatz,1994,748
+3682,stanford,Carla Shatz,1995,969
+3683,stanford,Carla Shatz,1996,1088
+3684,stanford,Carla Shatz,1997,1188
+3685,stanford,Carla Shatz,1998,1291
+3686,stanford,Carla Shatz,1999,1545
+3687,stanford,Carla Shatz,2000,1411
+3688,stanford,Carla Shatz,2001,1216
+3689,stanford,Carla Shatz,2002,1185
+3690,stanford,Carla Shatz,2003,1267
+3691,stanford,Carla Shatz,2004,1060
+3692,stanford,Carla Shatz,2005,1277
+3693,stanford,Carla Shatz,2006,1275
+3694,stanford,Carla Shatz,2007,1154
+3695,stanford,Carla Shatz,2008,1240
+3696,stanford,Carla Shatz,2009,1265
+3697,stanford,Carla Shatz,2010,1197
+3698,stanford,Carla Shatz,2011,1259
+3699,stanford,Carla Shatz,2012,1181
+3700,stanford,Carla Shatz,2013,1212
+3701,stanford,Carla Shatz,2014,1330
+3702,stanford,Carla Shatz,2015,982
+3703,stanford,Carla Shatz,2016,1064
+3704,stanford,Carla Shatz,2017,1175
+3705,stanford,Carla Shatz,2018,948
+3706,stanford,Carla Shatz,2019,907
+3707,stanford,Carla Shatz,2020,845
+3708,stanford,Carla Shatz,2021,1032
+3709,stanford,Carla Shatz,2022,836
+3710,stanford,Kang Shen,2013,1
+3711,stanford,Kang Shen,2014,5
+3712,stanford,Kang Shen,2015,11
+3713,stanford,Kang Shen,2016,22
+3714,stanford,Kang Shen,2017,25
+3715,stanford,Kang Shen,2018,20
+3716,stanford,Kang Shen,2019,35
+3717,stanford,Kang Shen,2020,23
+3718,stanford,Kang Shen,2021,19
+3719,stanford,Jan Skotheim,2005,29
+3720,stanford,Jan Skotheim,2006,51
+3721,stanford,Jan Skotheim,2007,46
+3722,stanford,Jan Skotheim,2008,102
+3723,stanford,Jan Skotheim,2009,138
+3724,stanford,Jan Skotheim,2010,189
+3725,stanford,Jan Skotheim,2011,184
+3726,stanford,Jan Skotheim,2012,231
+3727,stanford,Jan Skotheim,2013,334
+3728,stanford,Jan Skotheim,2014,356
+3729,stanford,Jan Skotheim,2015,430
+3730,stanford,Jan Skotheim,2016,582
+3731,stanford,Jan Skotheim,2017,753
+3732,stanford,Jan Skotheim,2018,791
+3733,stanford,Jan Skotheim,2019,921
+3734,stanford,Jan Skotheim,2020,963
+3735,stanford,Jan Skotheim,2021,999
+3736,stanford,Jan Skotheim,2022,1109
+3737,stanford,Alice Ting,2000,63
+3738,stanford,Alice Ting,2001,84
+3739,stanford,Alice Ting,2002,92
+3740,stanford,Alice Ting,2003,171
+3741,stanford,Alice Ting,2004,289
+3742,stanford,Alice Ting,2005,328
+3743,stanford,Alice Ting,2006,454
+3744,stanford,Alice Ting,2007,431
+3745,stanford,Alice Ting,2008,582
+3746,stanford,Alice Ting,2009,693
+3747,stanford,Alice Ting,2010,833
+3748,stanford,Alice Ting,2011,932
+3749,stanford,Alice Ting,2012,963
+3750,stanford,Alice Ting,2013,1056
+3751,stanford,Alice Ting,2014,1269
+3752,stanford,Alice Ting,2015,1311
+3753,stanford,Alice Ting,2016,1334
+3754,stanford,Alice Ting,2017,1466
+3755,stanford,Alice Ting,2018,1717
+3756,stanford,Alice Ting,2019,1950
+3757,stanford,Alice Ting,2020,2354
+3758,stanford,Alice Ting,2021,2939
+3759,stanford,Alice Ting,2022,2710
+3760,stanford,Shripad Tuljapurkar,1989,39
+3761,stanford,Shripad Tuljapurkar,1990,33
+3762,stanford,Shripad Tuljapurkar,1991,36
+3763,stanford,Shripad Tuljapurkar,1992,52
+3764,stanford,Shripad Tuljapurkar,1993,79
+3765,stanford,Shripad Tuljapurkar,1994,43
+3766,stanford,Shripad Tuljapurkar,1995,58
+3767,stanford,Shripad Tuljapurkar,1996,102
+3768,stanford,Shripad Tuljapurkar,1997,115
+3769,stanford,Shripad Tuljapurkar,1998,136
+3770,stanford,Shripad Tuljapurkar,1999,123
+3771,stanford,Shripad Tuljapurkar,2000,232
+3772,stanford,Shripad Tuljapurkar,2001,201
+3773,stanford,Shripad Tuljapurkar,2002,206
+3774,stanford,Shripad Tuljapurkar,2003,225
+3775,stanford,Shripad Tuljapurkar,2004,210
+3776,stanford,Shripad Tuljapurkar,2005,295
+3777,stanford,Shripad Tuljapurkar,2006,292
+3778,stanford,Shripad Tuljapurkar,2007,347
+3779,stanford,Shripad Tuljapurkar,2008,357
+3780,stanford,Shripad Tuljapurkar,2009,465
+3781,stanford,Shripad Tuljapurkar,2010,556
+3782,stanford,Shripad Tuljapurkar,2011,597
+3783,stanford,Shripad Tuljapurkar,2012,672
+3784,stanford,Shripad Tuljapurkar,2013,634
+3785,stanford,Shripad Tuljapurkar,2014,642
+3786,stanford,Shripad Tuljapurkar,2015,577
+3787,stanford,Shripad Tuljapurkar,2016,764
+3788,stanford,Shripad Tuljapurkar,2017,760
+3789,stanford,Shripad Tuljapurkar,2018,693
+3790,stanford,Shripad Tuljapurkar,2019,804
+3791,stanford,Shripad Tuljapurkar,2020,761
+3792,stanford,Shripad Tuljapurkar,2021,748
+3793,stanford,Shripad Tuljapurkar,2022,661
+3794,stanford,Virginia Walbot,1984,73
+3795,stanford,Virginia Walbot,1985,101
+3796,stanford,Virginia Walbot,1986,199
+3797,stanford,Virginia Walbot,1987,346
+3798,stanford,Virginia Walbot,1988,455
+3799,stanford,Virginia Walbot,1989,482
+3800,stanford,Virginia Walbot,1990,500
+3801,stanford,Virginia Walbot,1991,581
+3802,stanford,Virginia Walbot,1992,612
+3803,stanford,Virginia Walbot,1993,610
+3804,stanford,Virginia Walbot,1994,660
+3805,stanford,Virginia Walbot,1995,619
+3806,stanford,Virginia Walbot,1996,681
+3807,stanford,Virginia Walbot,1997,613
+3808,stanford,Virginia Walbot,1998,703
+3809,stanford,Virginia Walbot,1999,683
+3810,stanford,Virginia Walbot,2000,744
+3811,stanford,Virginia Walbot,2001,743
+3812,stanford,Virginia Walbot,2002,746
+3813,stanford,Virginia Walbot,2003,822
+3814,stanford,Virginia Walbot,2004,791
+3815,stanford,Virginia Walbot,2005,773
+3816,stanford,Virginia Walbot,2006,759
+3817,stanford,Virginia Walbot,2007,894
+3818,stanford,Virginia Walbot,2008,823
+3819,stanford,Virginia Walbot,2009,863
+3820,stanford,Virginia Walbot,2010,780
+3821,stanford,Virginia Walbot,2011,844
+3822,stanford,Virginia Walbot,2012,946
+3823,stanford,Virginia Walbot,2013,930
+3824,stanford,Virginia Walbot,2014,911
+3825,stanford,Virginia Walbot,2015,925
+3826,stanford,Virginia Walbot,2016,923
+3827,stanford,Virginia Walbot,2017,865
+3828,stanford,Virginia Walbot,2018,1046
+3829,stanford,Virginia Walbot,2019,997
+3830,stanford,Virginia Walbot,2020,1050
+3831,stanford,Virginia Walbot,2021,1118
+3832,stanford,Virginia Walbot,2022,994
+3833,Westlake,Lei Wang,2009,11
+3834,Westlake,Lei Wang,2010,21
+3835,Westlake,Lei Wang,2011,17
+3836,Westlake,Lei Wang,2012,33
+3837,Westlake,Lei Wang,2013,79
+3838,Westlake,Lei Wang,2014,112
+3839,Westlake,Lei Wang,2015,138
+3840,Westlake,Lei Wang,2016,110
+3841,Westlake,Lei Wang,2017,158
+3842,Westlake,Lei Wang,2018,145
+3843,Westlake,Lei Wang,2019,131
+3844,Westlake,Lei Wang,2020,206
+3845,Westlake,Lei Wang,2021,238
+3846,Westlake,Lei Wang,2022,299
+3847,Westlake,Xianjue Ma,2013,6
+3848,Westlake,Xianjue Ma,2014,18
+3849,Westlake,Xianjue Ma,2015,39
+3850,Westlake,Xianjue Ma,2016,27
+3851,Westlake,Xianjue Ma,2017,47
+3852,Westlake,Xianjue Ma,2018,64
+3853,Westlake,Xianjue Ma,2019,70
+3854,Westlake,Xianjue Ma,2020,79
+3855,Westlake,Xianjue Ma,2021,81
+3856,Westlake,Xianjue Ma,2022,67
+3857,Westlake,Pavlos SAVVIDIS,2000,29
+3858,Westlake,Pavlos SAVVIDIS,2001,101
+3859,Westlake,Pavlos SAVVIDIS,2002,193
+3860,Westlake,Pavlos SAVVIDIS,2003,221
+3861,Westlake,Pavlos SAVVIDIS,2004,138
+3862,Westlake,Pavlos SAVVIDIS,2005,207
+3863,Westlake,Pavlos SAVVIDIS,2006,140
+3864,Westlake,Pavlos SAVVIDIS,2007,178
+3865,Westlake,Pavlos SAVVIDIS,2008,133
+3866,Westlake,Pavlos SAVVIDIS,2009,164
+3867,Westlake,Pavlos SAVVIDIS,2010,174
+3868,Westlake,Pavlos SAVVIDIS,2011,172
+3869,Westlake,Pavlos SAVVIDIS,2012,271
+3870,Westlake,Pavlos SAVVIDIS,2013,357
+3871,Westlake,Pavlos SAVVIDIS,2014,347
+3872,Westlake,Pavlos SAVVIDIS,2015,436
+3873,Westlake,Pavlos SAVVIDIS,2016,475
+3874,Westlake,Pavlos SAVVIDIS,2017,438
+3875,Westlake,Pavlos SAVVIDIS,2018,536
+3876,Westlake,Pavlos SAVVIDIS,2019,476
+3877,Westlake,Pavlos SAVVIDIS,2020,529
+3878,Westlake,Pavlos SAVVIDIS,2021,491
+3879,Westlake,Pavlos SAVVIDIS,2022,541
+3880,Westlake,Congjun Wu,2004,33
+3881,Westlake,Congjun Wu,2005,62
+3882,Westlake,Congjun Wu,2006,92
+3883,Westlake,Congjun Wu,2007,120
+3884,Westlake,Congjun Wu,2008,176
+3885,Westlake,Congjun Wu,2009,251
+3886,Westlake,Congjun Wu,2010,367
+3887,Westlake,Congjun Wu,2011,564
+3888,Westlake,Congjun Wu,2012,668
+3889,Westlake,Congjun Wu,2013,739
+3890,Westlake,Congjun Wu,2014,742
+3891,Westlake,Congjun Wu,2015,793
+3892,Westlake,Congjun Wu,2016,768
+3893,Westlake,Congjun Wu,2017,701
+3894,Westlake,Congjun Wu,2018,688
+3895,Westlake,Congjun Wu,2019,609
+3896,Westlake,Congjun Wu,2020,721
+3897,Westlake,Congjun Wu,2021,799
+3898,Westlake,Congjun Wu,2022,802
+3899,Westlake,Yue Zhang,2010,43
+3900,Westlake,Yue Zhang,2011,90
+3901,Westlake,Yue Zhang,2012,123
+3902,Westlake,Yue Zhang,2013,172
+3903,Westlake,Yue Zhang,2014,270
+3904,Westlake,Yue Zhang,2015,392
+3905,Westlake,Yue Zhang,2016,574
+3906,Westlake,Yue Zhang,2017,673
+3907,Westlake,Yue Zhang,2018,1042
+3908,Westlake,Yue Zhang,2019,1548
+3909,Westlake,Yue Zhang,2020,2139
+3910,Westlake,Yue Zhang,2021,2532
+3911,Westlake,Yue Zhang,2022,2422
+3912,Westlake,Lan Li,2013,33
+3913,Westlake,Lan Li,2014,91
+3914,Westlake,Lan Li,2015,113
+3915,Westlake,Lan Li,2016,166
+3916,Westlake,Lan Li,2017,176
+3917,Westlake,Lan Li,2018,195
+3918,Westlake,Lan Li,2019,244
+3919,Westlake,Lan Li,2020,319
+3920,Westlake,Lan Li,2021,285
+3921,Westlake,Lan Li,2022,349
+3922,Westlake,Chengchen Guo,2014,7
+3923,Westlake,Chengchen Guo,2015,25
+3924,Westlake,Chengchen Guo,2016,38
+3925,Westlake,Chengchen Guo,2017,52
+3926,Westlake,Chengchen Guo,2018,84
+3927,Westlake,Chengchen Guo,2019,74
+3928,Westlake,Chengchen Guo,2020,197
+3929,Westlake,Chengchen Guo,2021,363
+3930,Westlake,Chengchen Guo,2022,547
+3931,Westlake,Xing Gu,2019,2
+3932,Westlake,Xing Gu,2020,18
+3933,Westlake,Xing Gu,2021,14
+3934,Westlake,Xing Gu,2022,15
+3935,Westlake,Stan Z. Li,1999,143
+3936,Westlake,Stan Z. Li,2000,159
+3937,Westlake,Stan Z. Li,2001,215
+3938,Westlake,Stan Z. Li,2002,335
+3939,Westlake,Stan Z. Li,2003,522
+3940,Westlake,Stan Z. Li,2004,738
+3941,Westlake,Stan Z. Li,2005,940
+3942,Westlake,Stan Z. Li,2006,1153
+3943,Westlake,Stan Z. Li,2007,1386
+3944,Westlake,Stan Z. Li,2008,1516
+3945,Westlake,Stan Z. Li,2009,1658
+3946,Westlake,Stan Z. Li,2010,1825
+3947,Westlake,Stan Z. Li,2011,1991
+3948,Westlake,Stan Z. Li,2012,2155
+3949,Westlake,Stan Z. Li,2013,2168
+3950,Westlake,Stan Z. Li,2014,2592
+3951,Westlake,Stan Z. Li,2015,2889
+3952,Westlake,Stan Z. Li,2016,3552
+3953,Westlake,Stan Z. Li,2017,4158
+3954,Westlake,Stan Z. Li,2018,4742
+3955,Westlake,Stan Z. Li,2019,5061
+3956,Westlake,Stan Z. Li,2020,5131
+3957,Westlake,Stan Z. Li,2021,5737
+3958,Westlake,Stan Z. Li,2022,5357
+3959,Westlake,Xing Chang,2006,16
+3960,Westlake,Xing Chang,2007,85
+3961,Westlake,Xing Chang,2008,105
+3962,Westlake,Xing Chang,2009,147
+3963,Westlake,Xing Chang,2010,147
+3964,Westlake,Xing Chang,2011,104
+3965,Westlake,Xing Chang,2012,123
+3966,Westlake,Xing Chang,2013,173
+3967,Westlake,Xing Chang,2014,150
+3968,Westlake,Xing Chang,2015,157
+3969,Westlake,Xing Chang,2016,187
+3970,Westlake,Xing Chang,2017,228
+3971,Westlake,Xing Chang,2018,260
+3972,Westlake,Xing Chang,2019,297
+3973,Westlake,Xing Chang,2020,311
+3974,Westlake,Xing Chang,2021,342
+3975,Westlake,Xing Chang,2022,303
+3976,Westlake,Biaobiao Zhang,2012,26
+3977,Westlake,Biaobiao Zhang,2013,48
+3978,Westlake,Biaobiao Zhang,2014,73
+3979,Westlake,Biaobiao Zhang,2015,113
+3980,Westlake,Biaobiao Zhang,2016,185
+3981,Westlake,Biaobiao Zhang,2017,152
+3982,Westlake,Biaobiao Zhang,2018,211
+3983,Westlake,Biaobiao Zhang,2019,365
+3984,Westlake,Biaobiao Zhang,2020,543
+3985,Westlake,Biaobiao Zhang,2021,696
+3986,Westlake,Biaobiao Zhang,2022,701
+3987,Westlake,Zhaobin Wang,2013,28
+3988,Westlake,Zhaobin Wang,2014,81
+3989,Westlake,Zhaobin Wang,2015,99
+3990,Westlake,Zhaobin Wang,2016,240
+3991,Westlake,Zhaobin Wang,2017,212
+3992,Westlake,Zhaobin Wang,2018,313
+3993,Westlake,Zhaobin Wang,2019,317
+3994,Westlake,Zhaobin Wang,2020,299
+3995,Westlake,Zhaobin Wang,2021,293
+3996,Westlake,Zhaobin Wang,2022,294
+3997,Westlake,Zixu Liu,2010,10
+3998,Westlake,Zixu Liu,2011,36
+3999,Westlake,Zixu Liu,2012,63
+4000,Westlake,Zixu Liu,2013,118
+4001,Westlake,Zixu Liu,2014,197
+4002,Westlake,Zixu Liu,2015,203
+4003,Westlake,Zixu Liu,2016,254
+4004,Westlake,Zixu Liu,2017,216
+4005,Westlake,Zixu Liu,2018,238
+4006,Westlake,Zixu Liu,2019,255
+4007,Westlake,Zixu Liu,2020,270
+4008,Westlake,Zixu Liu,2021,276
+4009,Westlake,Zixu Liu,2022,258
+4010,Westlake,Kai Lei,2009,8
+4011,Westlake,Kai Lei,2010,45
+4012,Westlake,Kai Lei,2011,76
+4013,Westlake,Kai Lei,2012,79
+4014,Westlake,Kai Lei,2013,89
+4015,Westlake,Kai Lei,2014,111
+4016,Westlake,Kai Lei,2015,86
+4017,Westlake,Kai Lei,2016,83
+4018,Westlake,Kai Lei,2017,77
+4019,Westlake,Kai Lei,2018,143
+4020,Westlake,Kai Lei,2019,144
+4021,Westlake,Kai Lei,2020,128
+4022,Westlake,Kai Lei,2021,188
+4023,Westlake,Kai Lei,2022,131
+4024,Westlake,Jie-Min Jia,2009,4
+4025,Westlake,Jie-Min Jia,2010,16
+4026,Westlake,Jie-Min Jia,2011,55
+4027,Westlake,Jie-Min Jia,2012,80
+4028,Westlake,Jie-Min Jia,2013,61
+4029,Westlake,Jie-Min Jia,2014,76
+4030,Westlake,Jie-Min Jia,2015,76
+4031,Westlake,Jie-Min Jia,2016,91
+4032,Westlake,Jie-Min Jia,2017,73
+4033,Westlake,Jie-Min Jia,2018,90
+4034,Westlake,Jie-Min Jia,2019,73
+4035,Westlake,Jie-Min Jia,2020,78
+4036,Westlake,Jie-Min Jia,2021,87
+4037,Westlake,Jie-Min Jia,2022,81
+4038,Westlake,Nanjia Zhou,2013,92
+4039,Westlake,Nanjia Zhou,2014,255
+4040,Westlake,Nanjia Zhou,2015,516
+4041,Westlake,Nanjia Zhou,2016,655
+4042,Westlake,Nanjia Zhou,2017,738
+4043,Westlake,Nanjia Zhou,2018,793
+4044,Westlake,Nanjia Zhou,2019,767
+4045,Westlake,Nanjia Zhou,2020,691
+4046,Westlake,Nanjia Zhou,2021,694
+4047,Westlake,Nanjia Zhou,2022,630
+4048,Westlake,Houfeng Zheng,2009,39
+4049,Westlake,Houfeng Zheng,2010,177
+4050,Westlake,Houfeng Zheng,2011,310
+4051,Westlake,Houfeng Zheng,2012,389
+4052,Westlake,Houfeng Zheng,2013,529
+4053,Westlake,Houfeng Zheng,2014,593
+4054,Westlake,Houfeng Zheng,2015,611
+4055,Westlake,Houfeng Zheng,2016,736
+4056,Westlake,Houfeng Zheng,2017,808
+4057,Westlake,Houfeng Zheng,2018,775
+4058,Westlake,Houfeng Zheng,2019,764
+4059,Westlake,Houfeng Zheng,2020,756
+4060,Westlake,Houfeng Zheng,2021,923
+4061,Westlake,Houfeng Zheng,2022,719
+4062,Westlake,Xiaofei Li,2012,6
+4063,Westlake,Xiaofei Li,2013,8
+4064,Westlake,Xiaofei Li,2014,15
+4065,Westlake,Xiaofei Li,2015,26
+4066,Westlake,Xiaofei Li,2016,25
+4067,Westlake,Xiaofei Li,2017,69
+4068,Westlake,Xiaofei Li,2018,114
+4069,Westlake,Xiaofei Li,2019,143
+4070,Westlake,Xiaofei Li,2020,125
+4071,Westlake,Xiaofei Li,2021,158
+4072,Westlake,Xiaofei Li,2022,216
+4073,Westlake,Zhen Yan,2012,21
+4074,Westlake,Zhen Yan,2013,40
+4075,Westlake,Zhen Yan,2014,45
+4076,Westlake,Zhen Yan,2015,108
+4077,Westlake,Zhen Yan,2016,210
+4078,Westlake,Zhen Yan,2017,293
+4079,Westlake,Zhen Yan,2018,335
+4080,Westlake,Zhen Yan,2019,284
+4081,Westlake,Zhen Yan,2020,328
+4082,Westlake,Zhen Yan,2021,308
+4083,Westlake,Zhen Yan,2022,298
+4084,Westlake,Zhubing SHI,2013,17
+4085,Westlake,Zhubing SHI,2014,64
+4086,Westlake,Zhubing SHI,2015,144
+4087,Westlake,Zhubing SHI,2016,144
+4088,Westlake,Zhubing SHI,2017,174
+4089,Westlake,Zhubing SHI,2018,205
+4090,Westlake,Zhubing SHI,2019,227
+4091,Westlake,Zhubing SHI,2020,389
+4092,Westlake,Zhubing SHI,2021,440
+4093,Westlake,Zhubing SHI,2022,367
+4094,Westlake,Huaimin Wang,2011,58
+4095,Westlake,Huaimin Wang,2012,118
+4096,Westlake,Huaimin Wang,2013,201
+4097,Westlake,Huaimin Wang,2014,320
+4098,Westlake,Huaimin Wang,2015,301
+4099,Westlake,Huaimin Wang,2016,332
+4100,Westlake,Huaimin Wang,2017,437
+4101,Westlake,Huaimin Wang,2018,587
+4102,Westlake,Huaimin Wang,2019,575
+4103,Westlake,Huaimin Wang,2020,776
+4104,Westlake,Huaimin Wang,2021,743
+4105,Westlake,Huaimin Wang,2022,701
+4106,Westlake,Tao Lin,2017,16
+4107,Westlake,Tao Lin,2018,89
+4108,Westlake,Tao Lin,2019,187
+4109,Westlake,Tao Lin,2020,314
+4110,Westlake,Tao Lin,2021,571
+4111,Westlake,Tao Lin,2022,704
+4112,Westlake,Feng Ju,2012,11
+4113,Westlake,Feng Ju,2013,20
+4114,Westlake,Feng Ju,2014,45
+4115,Westlake,Feng Ju,2015,161
+4116,Westlake,Feng Ju,2016,273
+4117,Westlake,Feng Ju,2017,325
+4118,Westlake,Feng Ju,2018,422
+4119,Westlake,Feng Ju,2019,575
+4120,Westlake,Feng Ju,2020,690
+4121,Westlake,Feng Ju,2021,760
+4122,Westlake,Feng Ju,2022,976
+4123,Westlake,Wenjie Dou,2015,16
+4124,Westlake,Wenjie Dou,2016,35
+4125,Westlake,Wenjie Dou,2017,46
+4126,Westlake,Wenjie Dou,2018,81
+4127,Westlake,Wenjie Dou,2019,103
+4128,Westlake,Wenjie Dou,2020,138
+4129,Westlake,Wenjie Dou,2021,120
+4130,Westlake,Wenjie Dou,2022,169
+4131,Westlake,Ruixue Wan,2014,16
+4132,Westlake,Ruixue Wan,2015,36
+4133,Westlake,Ruixue Wan,2016,194
+4134,Westlake,Ruixue Wan,2017,346
+4135,Westlake,Ruixue Wan,2018,267
+4136,Westlake,Ruixue Wan,2019,307
+4137,Westlake,Ruixue Wan,2020,198
+4138,Westlake,Ruixue Wan,2021,286
+4139,Westlake,Ruixue Wan,2022,227
+4140,Westlake,Licheng Sun,2004,230
+4141,Westlake,Licheng Sun,2005,363
+4142,Westlake,Licheng Sun,2006,428
+4143,Westlake,Licheng Sun,2007,606
+4144,Westlake,Licheng Sun,2008,761
+4145,Westlake,Licheng Sun,2009,1053
+4146,Westlake,Licheng Sun,2010,1440
+4147,Westlake,Licheng Sun,2011,2334
+4148,Westlake,Licheng Sun,2012,3196
+4149,Westlake,Licheng Sun,2013,3690
+4150,Westlake,Licheng Sun,2014,4519
+4151,Westlake,Licheng Sun,2015,4618
+4152,Westlake,Licheng Sun,2016,4978
+4153,Westlake,Licheng Sun,2017,5123
+4154,Westlake,Licheng Sun,2018,5287
+4155,Westlake,Licheng Sun,2019,5370
+4156,Westlake,Licheng Sun,2020,5562
+4157,Westlake,Licheng Sun,2021,6063
+4158,Westlake,Licheng Sun,2022,6256
+4159,Westlake,Shiyu Zhao,2010,13
+4160,Westlake,Shiyu Zhao,2011,9
+4161,Westlake,Shiyu Zhao,2012,10
+4162,Westlake,Shiyu Zhao,2013,28
+4163,Westlake,Shiyu Zhao,2014,79
+4164,Westlake,Shiyu Zhao,2015,113
+4165,Westlake,Shiyu Zhao,2016,164
+4166,Westlake,Shiyu Zhao,2017,162
+4167,Westlake,Shiyu Zhao,2018,246
+4168,Westlake,Shiyu Zhao,2019,375
+4169,Westlake,Shiyu Zhao,2020,392
+4170,Westlake,Shiyu Zhao,2021,482
+4171,Westlake,Shiyu Zhao,2022,416
+4172,Westlake,Qi Hu,2010,4
+4173,Westlake,Qi Hu,2011,32
+4174,Westlake,Qi Hu,2012,52
+4175,Westlake,Qi Hu,2013,88
+4176,Westlake,Qi Hu,2014,87
+4177,Westlake,Qi Hu,2015,105
+4178,Westlake,Qi Hu,2016,125
+4179,Westlake,Qi Hu,2017,131
+4180,Westlake,Qi Hu,2018,143
+4181,Westlake,Qi Hu,2019,162
+4182,Westlake,Qi Hu,2020,161
+4183,Westlake,Qi Hu,2021,174
+4184,Westlake,Qi Hu,2022,151
+4185,Westlake,Xiao Lin,2008,73
+4186,Westlake,Xiao Lin,2009,290
+4187,Westlake,Xiao Lin,2010,273
+4188,Westlake,Xiao Lin,2011,273
+4189,Westlake,Xiao Lin,2012,223
+4190,Westlake,Xiao Lin,2013,193
+4191,Westlake,Xiao Lin,2014,178
+4192,Westlake,Xiao Lin,2015,202
+4193,Westlake,Xiao Lin,2016,242
+4194,Westlake,Xiao Lin,2017,205
+4195,Westlake,Xiao Lin,2018,255
+4196,Westlake,Xiao Lin,2019,257
+4197,Westlake,Xiao Lin,2020,274
+4198,Westlake,Xiao Lin,2021,242
+4199,Westlake,Xiao Lin,2022,287
+4200,Westlake,Hang Shi,2012,9
+4201,Westlake,Hang Shi,2013,17
+4202,Westlake,Hang Shi,2014,19
+4203,Westlake,Hang Shi,2015,34
+4204,Westlake,Hang Shi,2016,47
+4205,Westlake,Hang Shi,2017,66
+4206,Westlake,Hang Shi,2018,103
+4207,Westlake,Hang Shi,2019,134
+4208,Westlake,Hang Shi,2020,149
+4209,Westlake,Hang Shi,2021,170
+4210,Westlake,Hang Shi,2022,183
+4211,Westlake,Dapeng Li,2014,34
+4212,Westlake,Dapeng Li,2015,68
+4213,Westlake,Dapeng Li,2016,64
+4214,Westlake,Dapeng Li,2017,43
+4215,Westlake,Dapeng Li,2018,110
+4216,Westlake,Dapeng Li,2019,92
+4217,Westlake,Dapeng Li,2020,146
+4218,Westlake,Dapeng Li,2021,807
+4219,Westlake,Dapeng Li,2022,957
+4220,Westlake,Jianhui Wang,2009,25
+4221,Westlake,Jianhui Wang,2010,25
+4222,Westlake,Jianhui Wang,2011,31
+4223,Westlake,Jianhui Wang,2012,30
+4224,Westlake,Jianhui Wang,2013,66
+4225,Westlake,Jianhui Wang,2014,67
+4226,Westlake,Jianhui Wang,2015,85
+4227,Westlake,Jianhui Wang,2016,102
+4228,Westlake,Jianhui Wang,2017,133
+4229,Westlake,Jianhui Wang,2018,224
+4230,Westlake,Jianhui Wang,2019,306
+4231,Westlake,Jianhui Wang,2020,509
+4232,Westlake,Jianhui Wang,2021,565
+4233,Westlake,Jianhui Wang,2022,661
+4234,Westlake,Bobo Dang,2013,2
+4235,Westlake,Bobo Dang,2014,12
+4236,Westlake,Bobo Dang,2015,35
+4237,Westlake,Bobo Dang,2016,55
+4238,Westlake,Bobo Dang,2017,68
+4239,Westlake,Bobo Dang,2018,96
+4240,Westlake,Bobo Dang,2019,85
+4241,Westlake,Bobo Dang,2020,108
+4242,Westlake,Bobo Dang,2021,140
+4243,Westlake,Bobo Dang,2022,152
+4244,Westlake,Ying Zhen,2007,9
+4245,Westlake,Ying Zhen,2008,23
+4246,Westlake,Ying Zhen,2009,29
+4247,Westlake,Ying Zhen,2010,42
+4248,Westlake,Ying Zhen,2011,42
+4249,Westlake,Ying Zhen,2012,58
+4250,Westlake,Ying Zhen,2013,73
+4251,Westlake,Ying Zhen,2014,83
+4252,Westlake,Ying Zhen,2015,67
+4253,Westlake,Ying Zhen,2016,99
+4254,Westlake,Ying Zhen,2017,70
+4255,Westlake,Ying Zhen,2018,67
+4256,Westlake,Ying Zhen,2019,98
+4257,Westlake,Ying Zhen,2020,117
+4258,Westlake,Ying Zhen,2021,98
+4259,Westlake,Ying Zhen,2022,130
+4260,Westlake,Shi Liu,2013,14
+4261,Westlake,Shi Liu,2014,23
+4262,Westlake,Shi Liu,2015,97
+4263,Westlake,Shi Liu,2016,249
+4264,Westlake,Shi Liu,2017,365
+4265,Westlake,Shi Liu,2018,498
+4266,Westlake,Shi Liu,2019,510
+4267,Westlake,Shi Liu,2020,517
+4268,Westlake,Shi Liu,2021,609
+4269,Westlake,Shi Liu,2022,643
+4270,Westlake,Xiao Li,2016,2
+4271,Westlake,Xiao Li,2017,4
+4272,Westlake,Xiao Li,2018,3
+4273,Westlake,Xiao Li,2019,5
+4274,Westlake,Xiao Li,2020,7
+4275,Westlake,Xiao Li,2021,17
+4276,Westlake,Xiao Li,2022,17
+4277,Westlake,Mingxuan Wu，,2010,11
+4278,Westlake,Mingxuan Wu，,2011,5
+4279,Westlake,Mingxuan Wu，,2012,14
+4280,Westlake,Mingxuan Wu，,2013,33
+4281,Westlake,Mingxuan Wu，,2014,33
+4282,Westlake,Mingxuan Wu，,2015,53
+4283,Westlake,Mingxuan Wu，,2016,95
+4284,Westlake,Mingxuan Wu，,2017,54
+4285,Westlake,Mingxuan Wu，,2018,108
+4286,Westlake,Mingxuan Wu，,2019,118
+4287,Westlake,Mingxuan Wu，,2020,167
+4288,Westlake,Mingxuan Wu，,2021,155
+4289,Westlake,Mingxuan Wu，,2022,165
+4290,Westlake,Jie Wu,2006,6
+4291,Westlake,Jie Wu,2007,4
+4292,Westlake,Jie Wu,2008,12
+4293,Westlake,Jie Wu,2009,14
+4294,Westlake,Jie Wu,2010,37
+4295,Westlake,Jie Wu,2011,55
+4296,Westlake,Jie Wu,2012,37
+4297,Westlake,Jie Wu,2013,53
+4298,Westlake,Jie Wu,2014,67
+4299,Westlake,Jie Wu,2015,52
+4300,Westlake,Jie Wu,2016,90
+4301,Westlake,Jie Wu,2017,122
+4302,Westlake,Jie Wu,2018,193
+4303,Westlake,Jie Wu,2019,183
+4304,Westlake,Jie Wu,2020,211
+4305,Westlake,Jie Wu,2021,211
+4306,Westlake,Jie Wu,2022,224
+4307,Westlake,Liang Lei,2018,9
+4308,Westlake,Liang Lei,2019,43
+4309,Westlake,Liang Lei,2020,137
+4310,Westlake,Liang Lei,2021,200
+4311,Westlake,Liang Lei,2022,262
+4312,Westlake,Siying Peng,2010,8
+4313,Westlake,Siying Peng,2011,8
+4314,Westlake,Siying Peng,2012,9
+4315,Westlake,Siying Peng,2013,12
+4316,Westlake,Siying Peng,2014,8
+4317,Westlake,Siying Peng,2015,15
+4318,Westlake,Siying Peng,2016,17
+4319,Westlake,Siying Peng,2017,23
+4320,Westlake,Siying Peng,2018,22
+4321,Westlake,Siying Peng,2019,37
+4322,Westlake,Siying Peng,2020,45
+4323,Westlake,Siying Peng,2021,51
+4324,Westlake,Siying Peng,2022,57
+4325,Westlake,Duanqing Pei,1996,79
+4326,Westlake,Duanqing Pei,1997,114
+4327,Westlake,Duanqing Pei,1998,109
+4328,Westlake,Duanqing Pei,1999,133
+4329,Westlake,Duanqing Pei,2000,182
+4330,Westlake,Duanqing Pei,2001,228
+4331,Westlake,Duanqing Pei,2002,242
+4332,Westlake,Duanqing Pei,2003,327
+4333,Westlake,Duanqing Pei,2004,372
+4334,Westlake,Duanqing Pei,2005,385
+4335,Westlake,Duanqing Pei,2006,460
+4336,Westlake,Duanqing Pei,2007,472
+4337,Westlake,Duanqing Pei,2008,504
+4338,Westlake,Duanqing Pei,2009,564
+4339,Westlake,Duanqing Pei,2010,701
+4340,Westlake,Duanqing Pei,2011,904
+4341,Westlake,Duanqing Pei,2012,1190
+4342,Westlake,Duanqing Pei,2013,1416
+4343,Westlake,Duanqing Pei,2014,1568
+4344,Westlake,Duanqing Pei,2015,1626
+4345,Westlake,Duanqing Pei,2016,1820
+4346,Westlake,Duanqing Pei,2017,1715
+4347,Westlake,Duanqing Pei,2018,1652
+4348,Westlake,Duanqing Pei,2019,1623
+4349,Westlake,Duanqing Pei,2020,2099
+4350,Westlake,Duanqing Pei,2021,2361
+4351,Westlake,Duanqing Pei,2022,1838
+4352,Westlake,Qiyang Lu,2014,7
+4353,Westlake,Qiyang Lu,2015,10
+4354,Westlake,Qiyang Lu,2016,36
+4355,Westlake,Qiyang Lu,2017,100
+4356,Westlake,Qiyang Lu,2018,173
+4357,Westlake,Qiyang Lu,2019,217
+4358,Westlake,Qiyang Lu,2020,269
+4359,Westlake,Qiyang Lu,2021,309
+4360,Westlake,Qiyang Lu,2022,368
+4361,Westlake,Ziyang Zhang,2005,27
+4362,Westlake,Ziyang Zhang,2006,25
+4363,Westlake,Ziyang Zhang,2007,25
+4364,Westlake,Ziyang Zhang,2008,65
+4365,Westlake,Ziyang Zhang,2009,118
+4366,Westlake,Ziyang Zhang,2010,151
+4367,Westlake,Ziyang Zhang,2011,142
+4368,Westlake,Ziyang Zhang,2012,135
+4369,Westlake,Ziyang Zhang,2013,169
+4370,Westlake,Ziyang Zhang,2014,190
+4371,Westlake,Ziyang Zhang,2015,197
+4372,Westlake,Ziyang Zhang,2016,222
+4373,Westlake,Ziyang Zhang,2017,189
+4374,Westlake,Ziyang Zhang,2018,169
+4375,Westlake,Ziyang Zhang,2019,146
+4376,Westlake,Ziyang Zhang,2020,124
+4377,Westlake,Ziyang Zhang,2021,173
+4378,Westlake,Ziyang Zhang,2022,192
+4379,Westlake,Yanxiao ZHANG,2015,6
+4380,Westlake,Yanxiao ZHANG,2016,14
+4381,Westlake,Yanxiao ZHANG,2017,30
+4382,Westlake,Yanxiao ZHANG,2018,95
+4383,Westlake,Yanxiao ZHANG,2019,136
+4384,Westlake,Yanxiao ZHANG,2020,302
+4385,Westlake,Yanxiao ZHANG,2021,857
+4386,Westlake,Yanxiao ZHANG,2022,911
+4387,Westlake,Xiaodong (Ethan) Liu,2015,3
+4388,Westlake,Xiaodong (Ethan) Liu,2016,14
+4389,Westlake,Xiaodong (Ethan) Liu,2017,11
+4390,Westlake,Xiaodong (Ethan) Liu,2018,34
+4391,Westlake,Xiaodong (Ethan) Liu,2019,70
+4392,Westlake,Xiaodong (Ethan) Liu,2020,90
+4393,Westlake,Xiaodong (Ethan) Liu,2021,188
+4394,Westlake,Xiaodong (Ethan) Liu,2022,270
+4395,Westlake,Peiguo Yang,2010,25
+4396,Westlake,Peiguo Yang,2011,34
+4397,Westlake,Peiguo Yang,2012,65
+4398,Westlake,Peiguo Yang,2013,100
+4399,Westlake,Peiguo Yang,2014,90
+4400,Westlake,Peiguo Yang,2015,98
+4401,Westlake,Peiguo Yang,2016,165
+4402,Westlake,Peiguo Yang,2017,119
+4403,Westlake,Peiguo Yang,2018,133
+4404,Westlake,Peiguo Yang,2019,240
+4405,Westlake,Peiguo Yang,2020,290
+4406,Westlake,Peiguo Yang,2021,448
+4407,Westlake,Peiguo Yang,2022,414
+4408,Westlake,Enzheng Shi,2012,44
+4409,Westlake,Enzheng Shi,2013,108
+4410,Westlake,Enzheng Shi,2014,186
+4411,Westlake,Enzheng Shi,2015,415
+4412,Westlake,Enzheng Shi,2016,467
+4413,Westlake,Enzheng Shi,2017,442
+4414,Westlake,Enzheng Shi,2018,495
+4415,Westlake,Enzheng Shi,2019,568
+4416,Westlake,Enzheng Shi,2020,708
+4417,Westlake,Enzheng Shi,2021,859
+4418,Westlake,Enzheng Shi,2022,854
+4419,Westlake,Xiao Yang,2009,5
+4420,Westlake,Xiao Yang,2010,13
+4421,Westlake,Xiao Yang,2011,13
+4422,Westlake,Xiao Yang,2012,14
+4423,Westlake,Xiao Yang,2013,25
+4424,Westlake,Xiao Yang,2014,28
+4425,Westlake,Xiao Yang,2015,41
+4426,Westlake,Xiao Yang,2016,48
+4427,Westlake,Xiao Yang,2017,39
+4428,Westlake,Xiao Yang,2018,65
+4429,Westlake,Xiao Yang,2019,54
+4430,Westlake,Xiao Yang,2020,78
+4431,Westlake,Xiao Yang,2021,94
+4432,Westlake,Xiao Yang,2022,114
+4433,Westlake,Yilong Zou,2013,26
+4434,Westlake,Yilong Zou,2014,72
+4435,Westlake,Yilong Zou,2015,131
+4436,Westlake,Yilong Zou,2016,265
+4437,Westlake,Yilong Zou,2017,334
+4438,Westlake,Yilong Zou,2018,401
+4439,Westlake,Yilong Zou,2019,453
+4440,Westlake,Yilong Zou,2020,678
+4441,Westlake,Yilong Zou,2021,975
+4442,Westlake,Yilong Zou,2022,990
+4443,Westlake,Zhenzhong Lan,2012,45
+4444,Westlake,Zhenzhong Lan,2013,73
+4445,Westlake,Zhenzhong Lan,2014,139
+4446,Westlake,Zhenzhong Lan,2015,163
+4447,Westlake,Zhenzhong Lan,2016,255
+4448,Westlake,Zhenzhong Lan,2017,270
+4449,Westlake,Zhenzhong Lan,2018,311
+4450,Westlake,Zhenzhong Lan,2019,282
+4451,Westlake,Zhenzhong Lan,2020,1147
+4452,Westlake,Zhenzhong Lan,2021,1878
+4453,Westlake,Zhenzhong Lan,2022,1748
+4454,Westlake,Dianyi Liu,2013,34
+4455,Westlake,Dianyi Liu,2014,239
+4456,Westlake,Dianyi Liu,2015,576
+4457,Westlake,Dianyi Liu,2016,755
+4458,Westlake,Dianyi Liu,2017,732
+4459,Westlake,Dianyi Liu,2018,770
+4460,Westlake,Dianyi Liu,2019,648
+4461,Westlake,Dianyi Liu,2020,648
+4462,Westlake,Dianyi Liu,2021,621
+4463,Westlake,Dianyi Liu,2022,582
+4464,Westlake,Rui Wang,2018,32
+4465,Westlake,Rui Wang,2019,301
+4466,Westlake,Rui Wang,2020,994
+4467,Westlake,Rui Wang,2021,1566
+4468,Westlake,Rui Wang,2022,1916
+4469,Westlake,Lijia Ma,2009,233
+4470,Westlake,Lijia Ma,2010,541
+4471,Westlake,Lijia Ma,2011,799
+4472,Westlake,Lijia Ma,2012,1237
+4473,Westlake,Lijia Ma,2013,1902
+4474,Westlake,Lijia Ma,2014,2533
+4475,Westlake,Lijia Ma,2015,2939
+4476,Westlake,Lijia Ma,2016,2705
+4477,Westlake,Lijia Ma,2017,2581
+4478,Westlake,Lijia Ma,2018,2620
+4479,Westlake,Lijia Ma,2019,2498
+4480,Westlake,Lijia Ma,2020,2543
+4481,Westlake,Lijia Ma,2021,2650
+4482,Westlake,Lijia Ma,2022,2050
+4483,Westlake,Jing Huang,2013,18
+4484,Westlake,Jing Huang,2014,77
+4485,Westlake,Jing Huang,2015,153
+4486,Westlake,Jing Huang,2016,223
+4487,Westlake,Jing Huang,2017,360
+4488,Westlake,Jing Huang,2018,606
+4489,Westlake,Jing Huang,2019,895
+4490,Westlake,Jing Huang,2020,1207
+4491,Westlake,Jing Huang,2021,1742
+4492,Westlake,Jing Huang,2022,1841
+4493,Westlake,Xin Yuan,2012,38
+4494,Westlake,Xin Yuan,2013,83
+4495,Westlake,Xin Yuan,2014,115
+4496,Westlake,Xin Yuan,2015,204
+4497,Westlake,Xin Yuan,2016,359
+4498,Westlake,Xin Yuan,2017,343
+4499,Westlake,Xin Yuan,2018,558
+4500,Westlake,Xin Yuan,2019,608
+4501,Westlake,Xin Yuan,2020,927
+4502,Westlake,Xin Yuan,2021,1256
+4503,Westlake,Xin Yuan,2022,1503
+4504,Westlake,Mohamad Sawan,1999,50
+4505,Westlake,Mohamad Sawan,2000,67
+4506,Westlake,Mohamad Sawan,2001,96
+4507,Westlake,Mohamad Sawan,2002,69
+4508,Westlake,Mohamad Sawan,2003,132
+4509,Westlake,Mohamad Sawan,2004,222
+4510,Westlake,Mohamad Sawan,2005,272
+4511,Westlake,Mohamad Sawan,2006,323
+4512,Westlake,Mohamad Sawan,2007,374
+4513,Westlake,Mohamad Sawan,2008,418
+4514,Westlake,Mohamad Sawan,2009,430
+4515,Westlake,Mohamad Sawan,2010,517
+4516,Westlake,Mohamad Sawan,2011,580
+4517,Westlake,Mohamad Sawan,2012,624
+4518,Westlake,Mohamad Sawan,2013,763
+4519,Westlake,Mohamad Sawan,2014,811
+4520,Westlake,Mohamad Sawan,2015,812
+4521,Westlake,Mohamad Sawan,2016,807
+4522,Westlake,Mohamad Sawan,2017,776
+4523,Westlake,Mohamad Sawan,2018,944
+4524,Westlake,Mohamad Sawan,2019,863
+4525,Westlake,Mohamad Sawan,2020,944
+4526,Westlake,Mohamad Sawan,2021,1228
+4527,Westlake,Mohamad Sawan,2022,1249
+4528,Westlake,Bing Zhang,2013,7
+4529,Westlake,Bing Zhang,2014,3
+4530,Westlake,Bing Zhang,2015,14
+4531,Westlake,Bing Zhang,2016,25
+4532,Westlake,Bing Zhang,2017,41
+4533,Westlake,Bing Zhang,2018,96
+4534,Westlake,Bing Zhang,2019,108
+4535,Westlake,Bing Zhang,2020,198
+4536,Westlake,Bing Zhang,2021,373
+4537,Westlake,Bing Zhang,2022,378
+4538,Westlake,Yongdeng Zhang,2012,12
+4539,Westlake,Yongdeng Zhang,2013,49
+4540,Westlake,Yongdeng Zhang,2014,86
+4541,Westlake,Yongdeng Zhang,2015,74
+4542,Westlake,Yongdeng Zhang,2016,111
+4543,Westlake,Yongdeng Zhang,2017,189
+4544,Westlake,Yongdeng Zhang,2018,234
+4545,Westlake,Yongdeng Zhang,2019,267
+4546,Westlake,Yongdeng Zhang,2020,302
+4547,Westlake,Yongdeng Zhang,2021,331
+4548,Westlake,Yongdeng Zhang,2022,264
+4549,Westlake,Liaoyong Wen,2011,17
+4550,Westlake,Liaoyong Wen,2012,29
+4551,Westlake,Liaoyong Wen,2013,35
+4552,Westlake,Liaoyong Wen,2014,44
+4553,Westlake,Liaoyong Wen,2015,114
+4554,Westlake,Liaoyong Wen,2016,254
+4555,Westlake,Liaoyong Wen,2017,314
+4556,Westlake,Liaoyong Wen,2018,406
+4557,Westlake,Liaoyong Wen,2019,415
+4558,Westlake,Liaoyong Wen,2020,378
+4559,Westlake,Liaoyong Wen,2021,402
+4560,Westlake,Liaoyong Wen,2022,462
+4561,Westlake,Yizhou Zhu,2016,89
+4562,Westlake,Yizhou Zhu,2017,299
+4563,Westlake,Yizhou Zhu,2018,672
+4564,Westlake,Yizhou Zhu,2019,996
+4565,Westlake,Yizhou Zhu,2020,1239
+4566,Westlake,Yizhou Zhu,2021,1390
+4567,Westlake,Yizhou Zhu,2022,1484
+4568,Westlake,Yuxi Xu,2009,87
+4569,Westlake,Yuxi Xu,2010,319
+4570,Westlake,Yuxi Xu,2011,791
+4571,Westlake,Yuxi Xu,2012,1119
+4572,Westlake,Yuxi Xu,2013,1357
+4573,Westlake,Yuxi Xu,2014,1746
+4574,Westlake,Yuxi Xu,2015,2115
+4575,Westlake,Yuxi Xu,2016,2170
+4576,Westlake,Yuxi Xu,2017,2249
+4577,Westlake,Yuxi Xu,2018,2440
+4578,Westlake,Yuxi Xu,2019,2563
+4579,Westlake,Yuxi Xu,2020,2427
+4580,Westlake,Yuxi Xu,2021,2376
+4581,Westlake,Yuxi Xu,2022,2287
+4582,Westlake,Lihan Zhang,2013,7
+4583,Westlake,Lihan Zhang,2014,17
+4584,Westlake,Lihan Zhang,2015,42
+4585,Westlake,Lihan Zhang,2016,57
+4586,Westlake,Lihan Zhang,2017,48
+4587,Westlake,Lihan Zhang,2018,55
+4588,Westlake,Lihan Zhang,2019,87
+4589,Westlake,Lihan Zhang,2020,78
+4590,Westlake,Lihan Zhang,2021,86
+4591,Westlake,Lihan Zhang,2022,74
+4592,Westlake,Jiaxing Huang,2004,159
+4593,Westlake,Jiaxing Huang,2005,284
+4594,Westlake,Jiaxing Huang,2006,524
+4595,Westlake,Jiaxing Huang,2007,664
+4596,Westlake,Jiaxing Huang,2008,821
+4597,Westlake,Jiaxing Huang,2009,901
+4598,Westlake,Jiaxing Huang,2010,1159
+4599,Westlake,Jiaxing Huang,2011,1509
+4600,Westlake,Jiaxing Huang,2012,1921
+4601,Westlake,Jiaxing Huang,2013,2351
+4602,Westlake,Jiaxing Huang,2014,2911
+4603,Westlake,Jiaxing Huang,2015,3162
+4604,Westlake,Jiaxing Huang,2016,3343
+4605,Westlake,Jiaxing Huang,2017,3508
+4606,Westlake,Jiaxing Huang,2018,3480
+4607,Westlake,Jiaxing Huang,2019,3155
+4608,Westlake,Jiaxing Huang,2020,3042
+4609,Westlake,Jiaxing Huang,2021,2940
+4610,Westlake,Jiaxing Huang,2022,2588
+4611,Westlake,Peidong Liu,2013,2
+4612,Westlake,Peidong Liu,2014,12
+4613,Westlake,Peidong Liu,2015,17
+4614,Westlake,Peidong Liu,2016,34
+4615,Westlake,Peidong Liu,2017,35
+4616,Westlake,Peidong Liu,2018,47
+4617,Westlake,Peidong Liu,2019,80
+4618,Westlake,Peidong Liu,2020,109
+4619,Westlake,Peidong Liu,2021,128
+4620,Westlake,Peidong Liu,2022,119
+4621,Westlake,Fajie Yuan,2016,5
+4622,Westlake,Fajie Yuan,2017,18
+4623,Westlake,Fajie Yuan,2018,69
+4624,Westlake,Fajie Yuan,2019,111
+4625,Westlake,Fajie Yuan,2020,210
+4626,Westlake,Fajie Yuan,2021,301
+4627,Westlake,Fajie Yuan,2022,367
+4628,Westlake,Changliang Liu,2008,7
+4629,Westlake,Changliang Liu,2009,9
+4630,Westlake,Changliang Liu,2010,6
+4631,Westlake,Changliang Liu,2011,12
+4632,Westlake,Changliang Liu,2012,13
+4633,Westlake,Changliang Liu,2013,15
+4634,Westlake,Changliang Liu,2014,5
+4635,Westlake,Changliang Liu,2015,18
+4636,Westlake,Changliang Liu,2016,24
+4637,Westlake,Changliang Liu,2017,37
+4638,Westlake,Changliang Liu,2018,82
+4639,Westlake,Changliang Liu,2019,91
+4640,Westlake,Changliang Liu,2020,129
+4641,Westlake,Changliang Liu,2021,210
+4642,Westlake,Changliang Liu,2022,253
+4643,Westlake,Yanyan Zhang,2012,12
+4644,Westlake,Yanyan Zhang,2013,83
+4645,Westlake,Yanyan Zhang,2014,231
+4646,Westlake,Yanyan Zhang,2015,316
+4647,Westlake,Yanyan Zhang,2016,462
+4648,Westlake,Yanyan Zhang,2017,562
+4649,Westlake,Yanyan Zhang,2018,514
+4650,Westlake,Yanyan Zhang,2019,502
+4651,Westlake,Yanyan Zhang,2020,512
+4652,Westlake,Yanyan Zhang,2021,662
+4653,Westlake,Yanyan Zhang,2022,674
+4654,Westlake,Wenxing Yang,2014,4
+4655,Westlake,Wenxing Yang,2015,6
+4656,Westlake,Wenxing Yang,2016,41
+4657,Westlake,Wenxing Yang,2017,82
+4658,Westlake,Wenxing Yang,2018,123
+4659,Westlake,Wenxing Yang,2019,161
+4660,Westlake,Wenxing Yang,2020,158
+4661,Westlake,Wenxing Yang,2021,257
+4662,Westlake,Wenxing Yang,2022,270
+4663,Westlake,Dan Ma,2012,5
+4664,Westlake,Dan Ma,2013,34
+4665,Westlake,Dan Ma,2014,89
+4666,Westlake,Dan Ma,2015,166
+4667,Westlake,Dan Ma,2016,215
+4668,Westlake,Dan Ma,2017,199
+4669,Westlake,Dan Ma,2018,159
+4670,Westlake,Dan Ma,2019,178
+4671,Westlake,Dan Ma,2020,195
+4672,Westlake,Dan Ma,2021,201
+4673,Westlake,Dan Ma,2022,177
+4674,Westlake,Wenbin Li,2013,13
+4675,Westlake,Wenbin Li,2014,61
+4676,Westlake,Wenbin Li,2015,88
+4677,Westlake,Wenbin Li,2016,143
+4678,Westlake,Wenbin Li,2017,193
+4679,Westlake,Wenbin Li,2018,252
+4680,Westlake,Wenbin Li,2019,272
+4681,Westlake,Wenbin Li,2020,345
+4682,Westlake,Wenbin Li,2021,377
+4683,Westlake,Wenbin Li,2022,486
+4684,Westlake,Dixia Fan,2013,2
+4685,Westlake,Dixia Fan,2014,4
+4686,Westlake,Dixia Fan,2015,1
+4687,Westlake,Dixia Fan,2016,19
+4688,Westlake,Dixia Fan,2017,7
+4689,Westlake,Dixia Fan,2018,27
+4690,Westlake,Dixia Fan,2019,52
+4691,Westlake,Dixia Fan,2020,196
+4692,Westlake,Dixia Fan,2021,346
+4693,Westlake,Zhuchao Ji,2019,2
+4694,Westlake,Zhuchao Ji,2020,2
+4695,Westlake,Zhuchao Ji,2021,6
+4696,Westlake,Lei Sun,2013,21
+4697,Westlake,Lei Sun,2014,41
+4698,Westlake,Lei Sun,2015,119
+4699,Westlake,Lei Sun,2016,231
+4700,Westlake,Lei Sun,2017,438
+4701,Westlake,Lei Sun,2018,610
+4702,Westlake,Lei Sun,2019,791
+4703,Westlake,Lei Sun,2020,1077
+4704,Westlake,Lei Sun,2021,1078
+4705,Westlake,Lei Sun,2022,916
+4706,Westlake,Yi Sun,2012,39
+4707,Westlake,Yi Sun,2013,89
+4708,Westlake,Yi Sun,2014,255
+4709,Westlake,Yi Sun,2015,402
+4710,Westlake,Yi Sun,2016,530
+4711,Westlake,Yi Sun,2017,772
+4712,Westlake,Yi Sun,2018,961
+4713,Westlake,Yi Sun,2019,999
+4714,Westlake,Yi Sun,2020,1187
+4715,Westlake,Yi Sun,2021,1164
+4716,Westlake,Yi Sun,2022,1158
+4717,Westlake,Liang Gao,2007,23
+4718,Westlake,Liang Gao,2008,52
+4719,Westlake,Liang Gao,2009,90
+4720,Westlake,Liang Gao,2010,114
+4721,Westlake,Liang Gao,2011,158
+4722,Westlake,Liang Gao,2012,164
+4723,Westlake,Liang Gao,2013,305
+4724,Westlake,Liang Gao,2014,385
+4725,Westlake,Liang Gao,2015,414
+4726,Westlake,Liang Gao,2016,418
+4727,Westlake,Liang Gao,2017,454
+4728,Westlake,Liang Gao,2018,406
+4729,Westlake,Liang Gao,2019,465
+4730,Westlake,Liang Gao,2020,471
+4731,Westlake,Liang Gao,2021,484
+4732,Westlake,Liang Gao,2022,427
+4733,Westlake,Danyang He,2016,28
+4734,Westlake,Danyang He,2017,58
+4735,Westlake,Danyang He,2018,77
+4736,Westlake,Danyang He,2019,98
+4737,Westlake,Danyang He,2020,104
+4738,Westlake,Danyang He,2021,143
+4739,Westlake,Danyang He,2022,141
+4740,Westlake,Ting Zhou,2014,6
+4741,Westlake,Ting Zhou,2015,11
+4742,Westlake,Ting Zhou,2016,19
+4743,Westlake,Ting Zhou,2017,12
+4744,Westlake,Ting Zhou,2018,23
+4745,Westlake,Ting Zhou,2019,60
+4746,Westlake,Ting Zhou,2020,163
+4747,Westlake,Ting Zhou,2021,488
+4748,Westlake,Ting Zhou,2022,548
+4749,Westlake,Jianjun Cheng,2006,104
+4750,Westlake,Jianjun Cheng,2007,215
+4751,Westlake,Jianjun Cheng,2008,319
+4752,Westlake,Jianjun Cheng,2009,411
+4753,Westlake,Jianjun Cheng,2010,608
+4754,Westlake,Jianjun Cheng,2011,784
+4755,Westlake,Jianjun Cheng,2012,899
+4756,Westlake,Jianjun Cheng,2013,1178
+4757,Westlake,Jianjun Cheng,2014,1448
+4758,Westlake,Jianjun Cheng,2015,1762
+4759,Westlake,Jianjun Cheng,2016,2051
+4760,Westlake,Jianjun Cheng,2017,2286
+4761,Westlake,Jianjun Cheng,2018,2421
+4762,Westlake,Jianjun Cheng,2019,2333
+4763,Westlake,Jianjun Cheng,2020,2572
+4764,Westlake,Jianjun Cheng,2021,2583
+4765,Westlake,Jianjun Cheng,2022,2279
+4766,Westlake,Lingjuan He,2012,29
+4767,Westlake,Lingjuan He,2013,22
+4768,Westlake,Lingjuan He,2014,41
+4769,Westlake,Lingjuan He,2015,71
+4770,Westlake,Lingjuan He,2016,160
+4771,Westlake,Lingjuan He,2017,188
+4772,Westlake,Lingjuan He,2018,323
+4773,Westlake,Lingjuan He,2019,356
+4774,Westlake,Lingjuan He,2020,527
+4775,Westlake,Lingjuan He,2021,743
+4776,Westlake,Lingjuan He,2022,734
+4777,Westlake,Zhichang Liu,2009,9
+4778,Westlake,Zhichang Liu,2010,8
+4779,Westlake,Zhichang Liu,2011,13
+4780,Westlake,Zhichang Liu,2012,36
+4781,Westlake,Zhichang Liu,2013,77
+4782,Westlake,Zhichang Liu,2014,150
+4783,Westlake,Zhichang Liu,2015,199
+4784,Westlake,Zhichang Liu,2016,222
+4785,Westlake,Zhichang Liu,2017,276
+4786,Westlake,Zhichang Liu,2018,355
+4787,Westlake,Zhichang Liu,2019,403
+4788,Westlake,Zhichang Liu,2020,507
+4789,Westlake,Zhichang Liu,2021,470
+4790,Westlake,Zhichang Liu,2022,468
+4791,Westlake,Ling Li,1998,30
+4792,Westlake,Ling Li,1999,35
+4793,Westlake,Ling Li,2000,54
+4794,Westlake,Ling Li,2001,65
+4795,Westlake,Ling Li,2002,97
+4796,Westlake,Ling Li,2003,107
+4797,Westlake,Ling Li,2004,156
+4798,Westlake,Ling Li,2005,178
+4799,Westlake,Ling Li,2006,236
+4800,Westlake,Ling Li,2007,220
+4801,Westlake,Ling Li,2008,231
+4802,Westlake,Ling Li,2009,281
+4803,Westlake,Ling Li,2010,345
+4804,Westlake,Ling Li,2011,391
+4805,Westlake,Ling Li,2012,421
+4806,Westlake,Ling Li,2013,496
+4807,Westlake,Ling Li,2014,501
+4808,Westlake,Ling Li,2015,581
+4809,Westlake,Ling Li,2016,687
+4810,Westlake,Ling Li,2017,616
+4811,Westlake,Ling Li,2018,652
+4812,Westlake,Ling Li,2019,790
+4813,Westlake,Ling Li,2020,823
+4814,Westlake,Ling Li,2021,1074
+4815,Westlake,Ling Li,2022,1180
+4816,Westlake,Qi Xie,2011,15
+4817,Westlake,Qi Xie,2012,30
+4818,Westlake,Qi Xie,2013,37
+4819,Westlake,Qi Xie,2014,63
+4820,Westlake,Qi Xie,2015,81
+4821,Westlake,Qi Xie,2016,93
+4822,Westlake,Qi Xie,2017,134
+4823,Westlake,Qi Xie,2018,196
+4824,Westlake,Qi Xie,2019,309
+4825,Westlake,Qi Xie,2020,364
+4826,Westlake,Qi Xie,2021,607
+4827,Westlake,Qi Xie,2022,650
+4828,Westlake,Chun-Qing Song，,2011,11
+4829,Westlake,Chun-Qing Song，,2012,34
+4830,Westlake,Chun-Qing Song，,2013,41
+4831,Westlake,Chun-Qing Song，,2014,62
+4832,Westlake,Chun-Qing Song，,2015,69
+4833,Westlake,Chun-Qing Song，,2016,106
+4834,Westlake,Chun-Qing Song，,2017,211
+4835,Westlake,Chun-Qing Song，,2018,339
+4836,Westlake,Chun-Qing Song，,2019,413
+4837,Westlake,Chun-Qing Song，,2020,479
+4838,Westlake,Chun-Qing Song，,2021,510
+4839,Westlake,Chun-Qing Song，,2022,520
+4840,Westlake,Kai Liu,2008,8
+4841,Westlake,Kai Liu,2009,12
+4842,Westlake,Kai Liu,2010,18
+4843,Westlake,Kai Liu,2011,50
+4844,Westlake,Kai Liu,2012,54
+4845,Westlake,Kai Liu,2013,43
+4846,Westlake,Kai Liu,2014,55
+4847,Westlake,Kai Liu,2015,57
+4848,Westlake,Kai Liu,2016,108
+4849,Westlake,Kai Liu,2017,143
+4850,Westlake,Kai Liu,2018,185
+4851,Westlake,Kai Liu,2019,261
+4852,Westlake,Kai Liu,2020,338
+4853,Westlake,Kai Liu,2021,426
+4854,Westlake,Kai Liu,2022,470
+4855,Westlake,Thomas Cherico Wanger,2010,27
+4856,Westlake,Thomas Cherico Wanger,2011,102
+4857,Westlake,Thomas Cherico Wanger,2012,197
+4858,Westlake,Thomas Cherico Wanger,2013,380
+4859,Westlake,Thomas Cherico Wanger,2014,543
+4860,Westlake,Thomas Cherico Wanger,2015,605
+4861,Westlake,Thomas Cherico Wanger,2016,698
+4862,Westlake,Thomas Cherico Wanger,2017,736
+4863,Westlake,Thomas Cherico Wanger,2018,866
+4864,Westlake,Thomas Cherico Wanger,2019,903
+4865,Westlake,Thomas Cherico Wanger,2020,944
+4866,Westlake,Thomas Cherico Wanger,2021,1184
+4867,Westlake,Thomas Cherico Wanger,2022,1105
+4868,Westlake,Shuigang Xu,2013,22
+4869,Westlake,Shuigang Xu,2014,38
+4870,Westlake,Shuigang Xu,2015,90
+4871,Westlake,Shuigang Xu,2016,151
+4872,Westlake,Shuigang Xu,2017,266
+4873,Westlake,Shuigang Xu,2018,329
+4874,Westlake,Shuigang Xu,2019,365
+4875,Westlake,Shuigang Xu,2020,497
+4876,Westlake,Shuigang Xu,2021,637
+4877,Westlake,Shuigang Xu,2022,677
+4878,Westlake,Hongfei Wang,1998,18
+4879,Westlake,Hongfei Wang,1999,30
+4880,Westlake,Hongfei Wang,2000,32
+4881,Westlake,Hongfei Wang,2001,56
+4882,Westlake,Hongfei Wang,2002,39
+4883,Westlake,Hongfei Wang,2003,53
+4884,Westlake,Hongfei Wang,2004,54
+4885,Westlake,Hongfei Wang,2005,152
+4886,Westlake,Hongfei Wang,2006,209
+4887,Westlake,Hongfei Wang,2007,238
+4888,Westlake,Hongfei Wang,2008,162
+4889,Westlake,Hongfei Wang,2009,274
+4890,Westlake,Hongfei Wang,2010,206
+4891,Westlake,Hongfei Wang,2011,279
+4892,Westlake,Hongfei Wang,2012,270
+4893,Westlake,Hongfei Wang,2013,321
+4894,Westlake,Hongfei Wang,2014,324
+4895,Westlake,Hongfei Wang,2015,386
+4896,Westlake,Hongfei Wang,2016,526
+4897,Westlake,Hongfei Wang,2017,442
+4898,Westlake,Hongfei Wang,2018,512
+4899,Westlake,Hongfei Wang,2019,588
+4900,Westlake,Hongfei Wang,2020,558
+4901,Westlake,Hongfei Wang,2021,508
+4902,Westlake,Hongfei Wang,2022,485
+4903,Westlake,Zhiqiang KU,2013,38
+4904,Westlake,Zhiqiang KU,2014,84
+4905,Westlake,Zhiqiang KU,2015,123
+4906,Westlake,Zhiqiang KU,2016,112
+4907,Westlake,Zhiqiang KU,2017,82
+4908,Westlake,Zhiqiang KU,2018,161
+4909,Westlake,Zhiqiang KU,2019,107
+4910,Westlake,Zhiqiang KU,2020,149
+4911,Westlake,Zhiqiang KU,2021,1372
+4912,Westlake,Zhiqiang KU,2022,1342
+4913,Westlake,Thuan Beng Saw,2011,23
+4914,Westlake,Thuan Beng Saw,2012,18
+4915,Westlake,Thuan Beng Saw,2013,11
+4916,Westlake,Thuan Beng Saw,2014,6
+4917,Westlake,Thuan Beng Saw,2015,11
+4918,Westlake,Thuan Beng Saw,2016,17
+4919,Westlake,Thuan Beng Saw,2017,55
+4920,Westlake,Thuan Beng Saw,2018,112
+4921,Westlake,Thuan Beng Saw,2019,192
+4922,Westlake,Thuan Beng Saw,2020,191
+4923,Westlake,Thuan Beng Saw,2021,286
+4924,Westlake,Thuan Beng Saw,2022,270
+4925,Westlake,Yuzhong Zhang,2014,7
+4926,Westlake,Yuzhong Zhang,2015,11
+4927,Westlake,Yuzhong Zhang,2016,24
+4928,Westlake,Yuzhong Zhang,2017,76
+4929,Westlake,Yuzhong Zhang,2018,126
+4930,Westlake,Yuzhong Zhang,2019,166
+4931,Westlake,Yuzhong Zhang,2020,408
+4932,Westlake,Yuzhong Zhang,2021,785
+4933,Westlake,Yuzhong Zhang,2022,829
+4934,Westlake,Xin JIN,2013,12
+4935,Westlake,Xin JIN,2014,61
+4936,Westlake,Xin JIN,2015,142
+4937,Westlake,Xin JIN,2016,225
+4938,Westlake,Xin JIN,2017,305
+4939,Westlake,Xin JIN,2018,343
+4940,Westlake,Xin JIN,2019,372
+4941,Westlake,Xin JIN,2020,535
+4942,Westlake,Xin JIN,2021,650
+4943,Westlake,Xin JIN,2022,553
+4944,Westlake,Xiaocheng Jiang,2003,14
+4945,Westlake,Xiaocheng Jiang,2004,21
+4946,Westlake,Xiaocheng Jiang,2005,62
+4947,Westlake,Xiaocheng Jiang,2006,77
+4948,Westlake,Xiaocheng Jiang,2007,102
+4949,Westlake,Xiaocheng Jiang,2008,136
+4950,Westlake,Xiaocheng Jiang,2009,181
+4951,Westlake,Xiaocheng Jiang,2010,207
+4952,Westlake,Xiaocheng Jiang,2011,212
+4953,Westlake,Xiaocheng Jiang,2012,216
+4954,Westlake,Xiaocheng Jiang,2013,304
+4955,Westlake,Xiaocheng Jiang,2014,330
+4956,Westlake,Xiaocheng Jiang,2015,396
+4957,Westlake,Xiaocheng Jiang,2016,327
+4958,Westlake,Xiaocheng Jiang,2017,315
+4959,Westlake,Xiaocheng Jiang,2018,385
+4960,Westlake,Xiaocheng Jiang,2019,353
+4961,Westlake,Xiaocheng Jiang,2020,444
+4962,Westlake,Xiaocheng Jiang,2021,424
+4963,Westlake,Xiaocheng Jiang,2022,440
+4964,Westlake,Anping Zeng,1996,53
+4965,Westlake,Anping Zeng,1997,37
+4966,Westlake,Anping Zeng,1998,78
+4967,Westlake,Anping Zeng,1999,77
+4968,Westlake,Anping Zeng,2000,83
+4969,Westlake,Anping Zeng,2001,86
+4970,Westlake,Anping Zeng,2002,119
+4971,Westlake,Anping Zeng,2003,175
+4972,Westlake,Anping Zeng,2004,217
+4973,Westlake,Anping Zeng,2005,323
+4974,Westlake,Anping Zeng,2006,487
+4975,Westlake,Anping Zeng,2007,577
+4976,Westlake,Anping Zeng,2008,702
+4977,Westlake,Anping Zeng,2009,802
+4978,Westlake,Anping Zeng,2010,826
+4979,Westlake,Anping Zeng,2011,918
+4980,Westlake,Anping Zeng,2012,1072
+4981,Westlake,Anping Zeng,2013,1092
+4982,Westlake,Anping Zeng,2014,1183
+4983,Westlake,Anping Zeng,2015,1129
+4984,Westlake,Anping Zeng,2016,1149
+4985,Westlake,Anping Zeng,2017,1188
+4986,Westlake,Anping Zeng,2018,1027
+4987,Westlake,Anping Zeng,2019,995
+4988,Westlake,Anping Zeng,2020,1017
+4989,Westlake,Anping Zeng,2021,1197
+4990,Westlake,Anping Zeng,2022,961
+4991,Westlake,Tao Wang,2014,60
+4992,Westlake,Tao Wang,2015,83
+4993,Westlake,Tao Wang,2016,139
+4994,Westlake,Tao Wang,2017,309
+4995,Westlake,Tao Wang,2018,483
+4996,Westlake,Tao Wang,2019,703
+4997,Westlake,Tao Wang,2020,862
+4998,Westlake,Tao Wang,2021,1210
+4999,Westlake,Tao Wang,2022,1573
+5000,Westlake,Tiannan Guo,2009,10
+5001,Westlake,Tiannan Guo,2010,41
+5002,Westlake,Tiannan Guo,2011,77
+5003,Westlake,Tiannan Guo,2012,87
+5004,Westlake,Tiannan Guo,2013,71
+5005,Westlake,Tiannan Guo,2014,99
+5006,Westlake,Tiannan Guo,2015,140
+5007,Westlake,Tiannan Guo,2016,174
+5008,Westlake,Tiannan Guo,2017,206
+5009,Westlake,Tiannan Guo,2018,205
+5010,Westlake,Tiannan Guo,2019,222
+5011,Westlake,Tiannan Guo,2020,507
+5012,Westlake,Tiannan Guo,2021,1035
+5013,Westlake,Tiannan Guo,2022,1099
+5014,Westlake,Hongtao Yu,1994,169
+5015,Westlake,Hongtao Yu,1995,229
+5016,Westlake,Hongtao Yu,1996,271
+5017,Westlake,Hongtao Yu,1997,263
+5018,Westlake,Hongtao Yu,1998,289
+5019,Westlake,Hongtao Yu,1999,349
+5020,Westlake,Hongtao Yu,2000,355
+5021,Westlake,Hongtao Yu,2001,338
+5022,Westlake,Hongtao Yu,2002,387
+5023,Westlake,Hongtao Yu,2003,302
+5024,Westlake,Hongtao Yu,2004,466
+5025,Westlake,Hongtao Yu,2005,704
+5026,Westlake,Hongtao Yu,2006,575
+5027,Westlake,Hongtao Yu,2007,768
+5028,Westlake,Hongtao Yu,2008,816
+5029,Westlake,Hongtao Yu,2009,837
+5030,Westlake,Hongtao Yu,2010,820
+5031,Westlake,Hongtao Yu,2011,895
+5032,Westlake,Hongtao Yu,2012,945
+5033,Westlake,Hongtao Yu,2013,927
+5034,Westlake,Hongtao Yu,2014,1127
+5035,Westlake,Hongtao Yu,2015,1120
+5036,Westlake,Hongtao Yu,2016,1269
+5037,Westlake,Hongtao Yu,2017,1323
+5038,Westlake,Hongtao Yu,2018,1192
+5039,Westlake,Hongtao Yu,2019,1261
+5040,Westlake,Hongtao Yu,2020,1549
+5041,Westlake,Hongtao Yu,2021,1561
+5042,Westlake,Hongtao Yu,2022,1310
+5043,Westlake,Bowen Zhu,2013,20
+5044,Westlake,Bowen Zhu,2014,119
+5045,Westlake,Bowen Zhu,2015,260
+5046,Westlake,Bowen Zhu,2016,422
+5047,Westlake,Bowen Zhu,2017,560
+5048,Westlake,Bowen Zhu,2018,708
+5049,Westlake,Bowen Zhu,2019,758
+5050,Westlake,Bowen Zhu,2020,1007
+5051,Westlake,Bowen Zhu,2021,1036
+5052,Westlake,Bowen Zhu,2022,1151
+5053,Westlake,Zibo Chen,2016,12
+5054,Westlake,Zibo Chen,2017,41
+5055,Westlake,Zibo Chen,2018,110
+5056,Westlake,Zibo Chen,2019,218
+5057,Westlake,Zibo Chen,2020,339
+5058,Westlake,Zibo Chen,2021,409
+5059,Westlake,Zibo Chen,2022,329
+5060,Westlake,Liang Tao,2011,5
+5061,Westlake,Liang Tao,2012,12
+5062,Westlake,Liang Tao,2013,7
+5063,Westlake,Liang Tao,2014,11
+5064,Westlake,Liang Tao,2015,25
+5065,Westlake,Liang Tao,2016,31
+5066,Westlake,Liang Tao,2017,46
+5067,Westlake,Liang Tao,2018,107
+5068,Westlake,Liang Tao,2019,140
+5069,Westlake,Liang Tao,2020,159
+5070,Westlake,Liang Tao,2021,164
+5071,Westlake,Liang Tao,2022,232
+5072,Westlake,Jian Yang,2011,794
+5073,Westlake,Jian Yang,2012,1606
+5074,Westlake,Jian Yang,2013,2292
+5075,Westlake,Jian Yang,2014,3239
+5076,Westlake,Jian Yang,2015,4058
+5077,Westlake,Jian Yang,2016,5235
+5078,Westlake,Jian Yang,2017,6478
+5079,Westlake,Jian Yang,2018,7553
+5080,Westlake,Jian Yang,2019,9024
+5081,Westlake,Jian Yang,2020,9732
+5082,Westlake,Jian Yang,2021,12728
+5083,Westlake,Jian Yang,2022,12119
+5084,Westlake,Ju-Sheng Zheng,2012,25
+5085,Westlake,Ju-Sheng Zheng,2013,76
+5086,Westlake,Ju-Sheng Zheng,2014,183
+5087,Westlake,Ju-Sheng Zheng,2015,214
+5088,Westlake,Ju-Sheng Zheng,2016,299
+5089,Westlake,Ju-Sheng Zheng,2017,378
+5090,Westlake,Ju-Sheng Zheng,2018,447
+5091,Westlake,Ju-Sheng Zheng,2019,535
+5092,Westlake,Ju-Sheng Zheng,2020,624
+5093,Westlake,Ju-Sheng Zheng,2021,809
+5094,Westlake,Ju-Sheng Zheng,2022,942
+5095,Westlake,Xiaobo Li,2011,20
+5096,Westlake,Xiaobo Li,2012,50
+5097,Westlake,Xiaobo Li,2013,102
+5098,Westlake,Xiaobo Li,2014,111
+5099,Westlake,Xiaobo Li,2015,147
+5100,Westlake,Xiaobo Li,2016,199
+5101,Westlake,Xiaobo Li,2017,214
+5102,Westlake,Xiaobo Li,2018,194
+5103,Westlake,Xiaobo Li,2019,230
+5104,Westlake,Xiaobo Li,2020,227
+5105,Westlake,Xiaobo Li,2021,219
+5106,Westlake,Xiaobo Li,2022,201
+5107,Westlake,Huaizong Shen,2016,6
+5108,Westlake,Huaizong Shen,2017,96
+5109,Westlake,Huaizong Shen,2018,198
+5110,Westlake,Huaizong Shen,2019,347
+5111,Westlake,Huaizong Shen,2020,392
+5112,Westlake,Huaizong Shen,2021,429
+5113,Westlake,Huaizong Shen,2022,346
+5114,Westlake,Yajie Wang,2013,5
+5115,Westlake,Yajie Wang,2014,10
+5116,Westlake,Yajie Wang,2015,45
+5117,Westlake,Yajie Wang,2016,106
+5118,Westlake,Yajie Wang,2017,129
+5119,Westlake,Yajie Wang,2018,189
+5120,Westlake,Yajie Wang,2019,282
+5121,Westlake,Yajie Wang,2020,293
+5122,Westlake,Yajie Wang,2021,309
+5123,Westlake,Yajie Wang,2022,362
+5124,Westlake,Shang Cai,2008,8
+5125,Westlake,Shang Cai,2009,11
+5126,Westlake,Shang Cai,2010,47
+5127,Westlake,Shang Cai,2011,48
+5128,Westlake,Shang Cai,2012,67
+5129,Westlake,Shang Cai,2013,62
+5130,Westlake,Shang Cai,2014,98
+5131,Westlake,Shang Cai,2015,126
+5132,Westlake,Shang Cai,2016,157
+5133,Westlake,Shang Cai,2017,142
+5134,Westlake,Shang Cai,2018,134
+5135,Westlake,Shang Cai,2019,140
+5136,Westlake,Shang Cai,2020,178
+5137,Westlake,Shang Cai,2021,258
+5138,Westlake,Shang Cai,2022,311
+5139,Westlake,Botao Ji,2011,4
+5140,Westlake,Botao Ji,2012,2
+5141,Westlake,Botao Ji,2013,3
+5142,Westlake,Botao Ji,2014,4
+5143,Westlake,Botao Ji,2015,21
+5144,Westlake,Botao Ji,2016,43
+5145,Westlake,Botao Ji,2017,42
+5146,Westlake,Botao Ji,2018,34
+5147,Westlake,Botao Ji,2019,49
+5148,Westlake,Botao Ji,2020,79
+5149,Westlake,Botao Ji,2021,111
+5150,Westlake,Botao Ji,2022,146
+5151,Westlake,Min Qiu,2000,57
+5152,Westlake,Min Qiu,2001,76
+5153,Westlake,Min Qiu,2002,109
+5154,Westlake,Min Qiu,2003,180
+5155,Westlake,Min Qiu,2004,271
+5156,Westlake,Min Qiu,2005,384
+5157,Westlake,Min Qiu,2006,431
+5158,Westlake,Min Qiu,2007,398
+5159,Westlake,Min Qiu,2008,574
+5160,Westlake,Min Qiu,2009,678
+5161,Westlake,Min Qiu,2010,691
+5162,Westlake,Min Qiu,2011,710
+5163,Westlake,Min Qiu,2012,778
+5164,Westlake,Min Qiu,2013,947
+5165,Westlake,Min Qiu,2014,1044
+5166,Westlake,Min Qiu,2015,972
+5167,Westlake,Min Qiu,2016,922
+5168,Westlake,Min Qiu,2017,992
+5169,Westlake,Min Qiu,2018,1198
+5170,Westlake,Min Qiu,2019,1208
+5171,Westlake,Min Qiu,2020,1471
+5172,Westlake,Min Qiu,2021,1759
+5173,Westlake,Min Qiu,2022,1865
+5174,Westlake,Dan Yang,2016,28
+5175,Westlake,Dan Yang,2017,58
+5176,Westlake,Dan Yang,2018,77
+5177,Westlake,Dan Yang,2019,98
+5178,Westlake,Dan Yang,2020,104
+5179,Westlake,Dan Yang,2021,143
+5180,Westlake,Dan Yang,2022,141
+5181,Westlake,Peilong Lu,2010,13
+5182,Westlake,Peilong Lu,2011,13
+5183,Westlake,Peilong Lu,2012,32
+5184,Westlake,Peilong Lu,2013,73
+5185,Westlake,Peilong Lu,2014,117
+5186,Westlake,Peilong Lu,2015,194
+5187,Westlake,Peilong Lu,2016,247
+5188,Westlake,Peilong Lu,2017,238
+5189,Westlake,Peilong Lu,2018,205
+5190,Westlake,Peilong Lu,2019,273
+5191,Westlake,Peilong Lu,2020,317
+5192,Westlake,Peilong Lu,2021,326
+5193,Westlake,Peilong Lu,2022,281
+5194,Westlake,Hanqing Jiang,2004,73
+5195,Westlake,Hanqing Jiang,2005,120
+5196,Westlake,Hanqing Jiang,2006,184
+5197,Westlake,Hanqing Jiang,2007,258
+5198,Westlake,Hanqing Jiang,2008,428
+5199,Westlake,Hanqing Jiang,2009,508
+5200,Westlake,Hanqing Jiang,2010,626
+5201,Westlake,Hanqing Jiang,2011,659
+5202,Westlake,Hanqing Jiang,2012,722
+5203,Westlake,Hanqing Jiang,2013,848
+5204,Westlake,Hanqing Jiang,2014,1188
+5205,Westlake,Hanqing Jiang,2015,1294
+5206,Westlake,Hanqing Jiang,2016,1473
+5207,Westlake,Hanqing Jiang,2017,1547
+5208,Westlake,Hanqing Jiang,2018,1574
+5209,Westlake,Hanqing Jiang,2019,1776
+5210,Westlake,Hanqing Jiang,2020,1657
+5211,Westlake,Hanqing Jiang,2021,1789
+5212,Westlake,Hanqing Jiang,2022,1648
+5213,Westlake,Yanmei Dou,2015,7
+5214,Westlake,Yanmei Dou,2016,14
+5215,Westlake,Yanmei Dou,2017,14
+5216,Westlake,Yanmei Dou,2018,32
+5217,Westlake,Yanmei Dou,2019,57
+5218,Westlake,Yanmei Dou,2020,89
+5219,Westlake,Yanmei Dou,2021,127
+5220,Westlake,Yanmei Dou,2022,177
+5221,Westlake,Yigong Shi,1998,184
+5222,Westlake,Yigong Shi,1999,303
+5223,Westlake,Yigong Shi,2000,448
+5224,Westlake,Yigong Shi,2001,699
+5225,Westlake,Yigong Shi,2002,889
+5226,Westlake,Yigong Shi,2003,1306
+5227,Westlake,Yigong Shi,2004,1628
+5228,Westlake,Yigong Shi,2005,1867
+5229,Westlake,Yigong Shi,2006,2002
+5230,Westlake,Yigong Shi,2007,2282
+5231,Westlake,Yigong Shi,2008,2458
+5232,Westlake,Yigong Shi,2009,2482
+5233,Westlake,Yigong Shi,2010,2402
+5234,Westlake,Yigong Shi,2011,2631
+5235,Westlake,Yigong Shi,2012,2766
+5236,Westlake,Yigong Shi,2013,3060
+5237,Westlake,Yigong Shi,2014,3139
+5238,Westlake,Yigong Shi,2015,3101
+5239,Westlake,Yigong Shi,2016,3382
+5240,Westlake,Yigong Shi,2017,3335
+5241,Westlake,Yigong Shi,2018,3255
+5242,Westlake,Yigong Shi,2019,3404
+5243,Westlake,Yigong Shi,2020,3472
+5244,Westlake,Yigong Shi,2021,3695
+5245,Westlake,Yigong Shi,2022,3165
+5246,Westlake,Xudong Wu,2012,10
+5247,Westlake,Xudong Wu,2013,18
+5248,Westlake,Xudong Wu,2014,42
+5249,Westlake,Xudong Wu,2015,71
+5250,Westlake,Xudong Wu,2016,81
+5251,Westlake,Xudong Wu,2017,102
+5252,Westlake,Xudong Wu,2018,121
+5253,Westlake,Xudong Wu,2019,173
+5254,Westlake,Xudong Wu,2020,219
+5255,Westlake,Xudong Wu,2021,292
+5256,Westlake,Xudong Wu,2022,298
+5257,Westlake,Sergio Andres Galindo Torres,2010,17
+5258,Westlake,Sergio Andres Galindo Torres,2011,7
+5259,Westlake,Sergio Andres Galindo Torres,2012,22
+5260,Westlake,Sergio Andres Galindo Torres,2013,48
+5261,Westlake,Sergio Andres Galindo Torres,2014,56
+5262,Westlake,Sergio Andres Galindo Torres,2015,83
+5263,Westlake,Sergio Andres Galindo Torres,2016,98
+5264,Westlake,Sergio Andres Galindo Torres,2017,116
+5265,Westlake,Sergio Andres Galindo Torres,2018,161
+5266,Westlake,Sergio Andres Galindo Torres,2019,165
+5267,Westlake,Sergio Andres Galindo Torres,2020,204
+5268,Westlake,Sergio Andres Galindo Torres,2021,267
+5269,Westlake,Sergio Andres Galindo Torres,2022,345
+5270,Westlake,Donglin Wang,2008,4
+5271,Westlake,Donglin Wang,2009,11
+5272,Westlake,Donglin Wang,2010,28
+5273,Westlake,Donglin Wang,2011,29
+5274,Westlake,Donglin Wang,2012,56
+5275,Westlake,Donglin Wang,2013,66
+5276,Westlake,Donglin Wang,2014,42
+5277,Westlake,Donglin Wang,2015,52
+5278,Westlake,Donglin Wang,2016,69
+5279,Westlake,Donglin Wang,2017,67
+5280,Westlake,Donglin Wang,2018,75
+5281,Westlake,Donglin Wang,2019,67
+5282,Westlake,Donglin Wang,2020,121
+5283,Westlake,Donglin Wang,2021,214
+5284,Westlake,Donglin Wang,2022,282
+5285,Westlake,Xu Li,2004,12
+5286,Westlake,Xu Li,2005,30
+5287,Westlake,Xu Li,2006,38
+5288,Westlake,Xu Li,2007,28
+5289,Westlake,Xu Li,2008,32
+5290,Westlake,Xu Li,2009,22
+5291,Westlake,Xu Li,2010,30
+5292,Westlake,Xu Li,2011,31
+5293,Westlake,Xu Li,2012,44
+5294,Westlake,Xu Li,2013,64
+5295,Westlake,Xu Li,2014,77
+5296,Westlake,Xu Li,2015,107
+5297,Westlake,Xu Li,2016,175
+5298,Westlake,Xu Li,2017,224
+5299,Westlake,Xu Li,2018,211
+5300,Westlake,Xu Li,2019,298
+5301,Westlake,Xu Li,2020,436
+5302,Westlake,Xu Li,2021,686
+5303,Westlake,Xu Li,2022,662
+5304,Westlake,Ruihua He,2006,15
+5305,Westlake,Ruihua He,2007,31
+5306,Westlake,Ruihua He,2008,73
+5307,Westlake,Ruihua He,2009,65
+5308,Westlake,Ruihua He,2010,159
+5309,Westlake,Ruihua He,2011,248
+5310,Westlake,Ruihua He,2012,255
+5311,Westlake,Ruihua He,2013,301
+5312,Westlake,Ruihua He,2014,337
+5313,Westlake,Ruihua He,2015,390
+5314,Westlake,Ruihua He,2016,435
+5315,Westlake,Ruihua He,2017,398
+5316,Westlake,Ruihua He,2018,430
+5317,Westlake,Ruihua He,2019,287
+5318,Westlake,Ruihua He,2020,376
+5319,Westlake,Ruihua He,2021,405
+5320,Westlake,Ruihua He,2022,312
+5321,Westlake,Changxi Zheng,2010,7
+5322,Westlake,Changxi Zheng,2011,13
+5323,Westlake,Changxi Zheng,2012,17
+5324,Westlake,Changxi Zheng,2013,20
+5325,Westlake,Changxi Zheng,2014,40
+5326,Westlake,Changxi Zheng,2015,51
+5327,Westlake,Changxi Zheng,2016,138
+5328,Westlake,Changxi Zheng,2017,227
+5329,Westlake,Changxi Zheng,2018,302
+5330,Westlake,Changxi Zheng,2019,358
+5331,Westlake,Changxi Zheng,2020,396
+5332,Westlake,Changxi Zheng,2021,423
+5333,Westlake,Changxi Zheng,2022,343
+5334,Westlake,Xiaorui Zheng,2015,8
+5335,Westlake,Xiaorui Zheng,2016,26
+5336,Westlake,Xiaorui Zheng,2017,41
+5337,Westlake,Xiaorui Zheng,2018,79
+5338,Westlake,Xiaorui Zheng,2019,140
+5339,Westlake,Xiaorui Zheng,2020,467
+5340,Westlake,Xiaorui Zheng,2021,452
+5341,Westlake,Xiaorui Zheng,2022,454

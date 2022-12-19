@@ -20,8 +20,6 @@ json_file_path={
 }
 #%%
 # data format transform
-df=json.load(Path(r'F:\0_Desktop\Citation_Analysis\result\caltech\caltech_pi_google_scholar_info.json').open())
-#%%
 school_total={}
 school_total_path=Path(r'F:\0_Desktop\Citation_Analysis\result\total\school_total.json')
 school_total_notnan={}
@@ -36,9 +34,27 @@ for school_name,school_path in json_file_path.items():
 json.dump(school_total_notnan,school_total_notnan_path.open('w'),)
 json.dump(school_total,school_total_path.open('w'),)
 
+#%%
+cite_per_year_records_label=['school_name','faculty_name','year','cite']
+cite_per_year_records=[]
+faculty_meta_info_records_label=['school_name','faculty_name','affiliation','citedby5y','hindex','hindex5y','i10index','i10index5y']
+faculty_meta_info_records=[]
+faculty_publication_records=[]
+faculty_publication_records_labels=['school_name','faculty_name','index','publication_year','num_citations','title','source']
+for school_name,school_dic in school_total_notnan.items():
+    for people_name,container in school_dic.items():
+        faculty_meta_info_records.append([school_name,people_name,container['affiliation'],container['citedby5y'],container['hindex'],container['hindex5y'],container['i10index'],container['i10index5y']])
+        for year,year_cite in container['cites_per_year'].items():
+            cite_per_year_records.append([school_name,people_name,year,year_cite])
+        for i,pub_container in enumerate(container['publications'],1):
+            faculty_publication_records.append([school_name,people_name,i,pub_container['bib'].get('pub_year',''),pub_container['num_citations'],pub_container['bib']['title'],pub_container['bib']['citation']])
 
 
+cite_per_year_df=pd.DataFrame.from_records(cite_per_year_records,columns=cite_per_year_records_label)
+faculty_meta_info_df=pd.DataFrame.from_records(faculty_meta_info_records,columns=faculty_meta_info_records_label)
+faculty_publication_df=pd.DataFrame.from_records(faculty_publication_records,columns=faculty_publication_records_labels)
+Result_ROOT=Path(r'F:\0_Desktop\Citation_Analysis\result\total')
 
-
-
-
+cite_per_year_df.to_csv(Result_ROOT/'cite_per_year_df.csv')
+faculty_meta_info_df.to_csv(Result_ROOT/'faculty_meta_info_df.csv')
+faculty_publication_df.to_csv(Result_ROOT/'faculty_publication_df.csv')
