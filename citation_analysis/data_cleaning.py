@@ -55,6 +55,6 @@ faculty_meta_info_df=pd.DataFrame.from_records(faculty_meta_info_records,columns
 faculty_publication_df=pd.DataFrame.from_records(faculty_publication_records,columns=faculty_publication_records_labels)
 Result_ROOT=Path(r'F:\0_Desktop\Citation_Analysis\result\total')
 
-cite_per_year_df.to_csv(Result_ROOT/'cite_per_year_df.csv')
-faculty_meta_info_df.to_csv(Result_ROOT/'faculty_meta_info_df.csv')
-faculty_publication_df.to_csv(Result_ROOT/'faculty_publication_df.csv')
+cite_per_year_df.to_csv(Result_ROOT/'cite_per_year_df.csv',)
+faculty_meta_info_df.to_csv(Result_ROOT/'faculty_meta_info_df.csv',)
+faculty_publication_df.to_csv(Result_ROOT/'faculty_publication_df.csv',)
