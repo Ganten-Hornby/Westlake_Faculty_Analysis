@@ -113,7 +113,7 @@ class Navigator(object, metaclass=Singleton):
                 if hasattr(self,'driver'):
                     # self.logger.critical("Using !!!!!webdriver")
                     self.driver.get(pagerequest)
-                    w = random.uniform(0, 1)
+                    w = random.uniform(1, 2)
                     time.sleep(w)
                     # print(self.driver.title)
                     return self.driver.page_source

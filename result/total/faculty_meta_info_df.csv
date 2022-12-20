@@ -1,45 +1,45 @@
 ,school_name,faculty_name,affiliation,citedby5y,hindex,hindex5y,i10index,i10index5y
-0,caltech,Ralph Adolphs,California Institute of Technology,28621,120,83,269,229
-1,caltech,Richard A. Andersen,"Professor of Neuroscience, California Institute of Technology",9408,103,50,238,157
-2,caltech,David J. Anderson,California Institute of Technology,17991,149,79,313,200
-3,caltech,Alexei Aravin,"Professor, Division of Biology and Biological Engineering, California Institute of Technology",10242,48,40,69,60
-4,caltech,Frances H. Arnold,"Professor of chemical engineering, Caltech",24773,140,83,408,299
-5,caltech,Pamela J. Bjorkman,Centennial Professor of Biology and Biological Engineering,20787,100,68,235,192
-6,caltech,Marianne Bronner,California Institute of Technology,13552,110,56,357,230
-7,caltech,Long Cai,"Research Professor of Biology, Caltech",8161,37,37,45,44
-8,caltech,Michael H. Dickinson,"Zarem Professor of Bioengineering and Biology, Caltech",10949,86,54,174,152
-9,caltech,William G. Dunphy,California Institute of Technology,2453,61,29,83,55
-10,caltech,Michael B. Elowitz,California Institute of Technology and HHMI,12819,57,52,83,77
-11,caltech,Lea A. Goentoro,"Professor of Biology, California Institute of Technology",915,11,11,12,12
-12,caltech,Viviana Gradinaru,Professor of Neuroscience and Biological Engineering at Caltech,16921,57,55,100,96
-13,caltech,Mitchell Guttman,"Professor of Biology, California Institute of Technology",28165,49,47,62,60
-14,caltech,Rustem F. Ismagilov,California Institute of Technology,13488,84,59,189,156
-15,caltech,Mary B. Kennedy,"Allen and Lenabelle Davis Professor of Biology, California Institute of Technology",3041,60,33,81,59
-16,caltech,Akiko Kumagai,California Institute of Technology,2717,33,22,42,34
-17,caltech,Henry A. Lester,"Professor of Biology and Biological Engineering, Caltech",6863,113,43,362,181
-18,caltech,Carlos Lois,"caltech, neurobiology",4850,36,29,51,43
-19,caltech,Sarkis Mazmanian,California Institute of Technology,34946,74,65,106,100
-20,caltech,Markus Meister,California Institute of Technology,7338,64,49,84,80
-21,caltech,Elliot Meyerowitz,"G.W. Beadle Professor of Biology, California Institute of Technology",20752,131,78,274,185
-22,caltech,Dianne K. Newman,"Biology & Biological Engineering and Geological & Planetary Sciences, Caltech",10823,78,60,150,144
-23,caltech,Victoria J. Orphan,"Department of Geological and Planetary Sciences, California Institute of Technology",8802,59,49,121,118
-24,caltech,Lior S. Pachter,"Bren Professor of Computational Biology, Caltech",50536,77,53,161,125
-25,caltech,Joseph Parker,California Institute of Technology,665,15,13,19,17
-26,caltech,Rob Phillips,caltech,11118,65,44,152,126
-27,caltech,Niles A. Pierce,"Professor of Applied & Computational Mathematics and Bioengineering, California Institute of",7412,41,31,50,46
-28,caltech,David Prober,Caltech,2723,30,26,40,38
-29,caltech,Lulu Qian,"Professor of Bioengineering, California Institute of Technology",3064,16,16,17,17
-30,caltech,Ellen Rothenberg,"Professor of Biology, California Institute of Technology",3970,67,35,149,74
-31,caltech,Michael L. Roukes,"Frank J. Roshek Professor of Physics, Applied Physics, and Bioengineering; Caltech",14209,86,56,199,132
-32,caltech,Thanos Siapas,"Professor of Computation and Neural Systems, Caltech",1904,18,16,20,18
-33,caltech,Angelike Stathopoulos,"Professor of Biology, California Institute of Technology",1256,31,23,46,40
-34,caltech,Paul W. Sternberg,caltech,17097,117,63,353,245
-35,caltech,Matt Thomson,Caltech,3139,19,19,23,23
-36,caltech,David Van Valen,California Institute of Technology,2247,13,12,13,13
-37,caltech,Rebecca Voorhees,California Institute of Technology,1776,16,15,17,17
-38,caltech,Daniel Wagenaar,"Research Professor, California Institute of Technology",1434,24,18,36,29
-39,caltech,Erik Winfree,California Institute of Technology,10548,61,44,102,79
-40,caltech,Changhuei Yang,"Thomas G Myers Professor, California Institute of Technology",12805,73,55,235,189
+0,Caltech,Ralph Adolphs,California Institute of Technology,28621,120,83,269,229
+1,Caltech,Richard A. Andersen,"Professor of Neuroscience, California Institute of Technology",9408,103,50,238,157
+2,Caltech,David J. Anderson,California Institute of Technology,17991,149,79,313,200
+3,Caltech,Alexei Aravin,"Professor, Division of Biology and Biological Engineering, California Institute of Technology",10242,48,40,69,60
+4,Caltech,Frances H. Arnold,"Professor of chemical engineering, Caltech",24773,140,83,408,299
+5,Caltech,Pamela J. Bjorkman,Centennial Professor of Biology and Biological Engineering,20787,100,68,235,192
+6,Caltech,Marianne Bronner,California Institute of Technology,13552,110,56,357,230
+7,Caltech,Long Cai,"Research Professor of Biology, Caltech",8161,37,37,45,44
+8,Caltech,Michael H. Dickinson,"Zarem Professor of Bioengineering and Biology, Caltech",10949,86,54,174,152
+9,Caltech,William G. Dunphy,California Institute of Technology,2453,61,29,83,55
+10,Caltech,Michael B. Elowitz,California Institute of Technology and HHMI,12819,57,52,83,77
+11,Caltech,Lea A. Goentoro,"Professor of Biology, California Institute of Technology",915,11,11,12,12
+12,Caltech,Viviana Gradinaru,Professor of Neuroscience and Biological Engineering at Caltech,16921,57,55,100,96
+13,Caltech,Mitchell Guttman,"Professor of Biology, California Institute of Technology",28165,49,47,62,60
+14,Caltech,Rustem F. Ismagilov,California Institute of Technology,13488,84,59,189,156
+15,Caltech,Mary B. Kennedy,"Allen and Lenabelle Davis Professor of Biology, California Institute of Technology",3041,60,33,81,59
+16,Caltech,Akiko Kumagai,California Institute of Technology,2717,33,22,42,34
+17,Caltech,Henry A. Lester,"Professor of Biology and Biological Engineering, Caltech",6863,113,43,362,181
+18,Caltech,Carlos Lois,"caltech, neurobiology",4850,36,29,51,43
+19,Caltech,Sarkis Mazmanian,California Institute of Technology,34946,74,65,106,100
+20,Caltech,Markus Meister,California Institute of Technology,7338,64,49,84,80
+21,Caltech,Elliot Meyerowitz,"G.W. Beadle Professor of Biology, California Institute of Technology",20752,131,78,274,185
+22,Caltech,Dianne K. Newman,"Biology & Biological Engineering and Geological & Planetary Sciences, Caltech",10823,78,60,150,144
+23,Caltech,Victoria J. Orphan,"Department of Geological and Planetary Sciences, California Institute of Technology",8802,59,49,121,118
+24,Caltech,Lior S. Pachter,"Bren Professor of Computational Biology, Caltech",50536,77,53,161,125
+25,Caltech,Joseph Parker,California Institute of Technology,665,15,13,19,17
+26,Caltech,Rob Phillips,caltech,11118,65,44,152,126
+27,Caltech,Niles A. Pierce,"Professor of Applied & Computational Mathematics and Bioengineering, California Institute of",7412,41,31,50,46
+28,Caltech,David Prober,Caltech,2723,30,26,40,38
+29,Caltech,Lulu Qian,"Professor of Bioengineering, California Institute of Technology",3064,16,16,17,17
+30,Caltech,Ellen Rothenberg,"Professor of Biology, California Institute of Technology",3970,67,35,149,74
+31,Caltech,Michael L. Roukes,"Frank J. Roshek Professor of Physics, Applied Physics, and Bioengineering; Caltech",14209,86,56,199,132
+32,Caltech,Thanos Siapas,"Professor of Computation and Neural Systems, Caltech",1904,18,16,20,18
+33,Caltech,Angelike Stathopoulos,"Professor of Biology, California Institute of Technology",1256,31,23,46,40
+34,Caltech,Paul W. Sternberg,caltech,17097,117,63,353,245
+35,Caltech,Matt Thomson,Caltech,3139,19,19,23,23
+36,Caltech,David Van Valen,California Institute of Technology,2247,13,12,13,13
+37,Caltech,Rebecca Voorhees,California Institute of Technology,1776,16,15,17,17
+38,Caltech,Daniel Wagenaar,"Research Professor, California Institute of Technology",1434,24,18,36,29
+39,Caltech,Erik Winfree,California Institute of Technology,10548,61,44,102,79
+40,Caltech,Changhuei Yang,"Thomas G Myers Professor, California Institute of Technology",12805,73,55,235,189
 41,JHU,Nichole Broderick,"Assistant Professor, Johns Hopkins University",3546,24,23,36,35
 42,JHU,Xin Chen,Johns Hopkins University,1098,26,20,46,38
 43,JHU,Kyle Cunningham,"Professor of Biology, Johns Hopkins University",1624,41,27,52,43
@@ -99,68 +99,68 @@
 97,MIT,Yukiko Yamashita,Whitehead Institute/MIT,2939,45,33,74,65
 98,MIT,Omer H. Yilmaz,Massachusetts Institute of Technology,8343,43,38,79,77
 99,MIT,Richard A. Young,"Professor of Biology, MIT",52980,181,106,373,266
-100,princeton,Britt Adamson,"Assistant Professor, Princeton",6101,21,20,21,21
-101,princeton,Bonnie L. Bassler,Princeton University,23791,99,73,180,160
-102,princeton,John F. Brooks II,Princeton University,393,4,4,2,2
-103,princeton,Rebecca D. Burdine,"Professor of Molecular Biology, Princeton University",2815,40,29,51,48
-104,princeton,Mohamed S. Donia,"Assistant Professor of Molecular Biology, Princeton University",4404,32,28,40,39
-105,princeton,Elizabeth R. Gavis,Unknown affiliation,1725,38,23,64,48
-106,princeton,Zemer Gitai,"Professor of Molecular Biology, Princeton University",5064,47,39,71,65
-107,princeton,Frederick M. Hughson,"Professor of Molecular Biology, Princeton University",3083,45,27,60,47
-108,princeton,John R. Jimah,Princeton University,649,10,10,10,10
-109,princeton,Martin Jonikas,Princeton University and Howard Hughes Medical Institute,2694,26,23,29,29
-110,princeton,Yibin Kang,"Warner-Lambert/Parke-Davis Professor of Molecular Biology, Princeton University",23018,86,67,166,146
-111,princeton,Ricardo Mallarino,"Assistant Professor of Molecular Biology, Princeton University",853,14,13,15,14
-112,princeton,Coleen T. Murphy,"Professor of Genomics & Molecular Biology, Princeton University",5430,43,37,59,55
-113,princeton,Cameron A. Myhrvold,"Assistant Professor, Princeton University",5007,19,17,21,21
-114,princeton,Daniel A. Notterman,Princeton University,4391,53,34,108,65
-115,princeton,Sabine Petry,Princeton University,1830,20,19,21,21
-116,princeton,Alexander Ploss,"Professor, Department of Molecular Biology, Princeton University",5677,50,40,97,85
-117,princeton,Thomas J. Silhavy,"professor of molelcular biology, princeton university",10792,110,52,255,153
-118,princeton,A.J. te Velthuis,"Assistant Professor, Princeton University",3271,28,24,38,34
-119,princeton,Jared E. Toettcher,"Postdoc, Jared Toettcher (Princeton) & Kazuhiro Aoki (NIBB) Labs",514,9,9,9,9
-120,princeton,Ned Wingreen,"Professor of Molecular Biology, Princeton University",11719,83,53,197,144
-121,princeton,Martin H. Wühr,"Lewis-Sigler Institute, Princeton University",4307,26,25,42,41
-122,stanford,Christopher O. Barnes,Stanford University,8572,34,32,47,47
-123,stanford,Dominique Bergmann,"Professor of Biology, Stanford University",4923,45,40,74,66
-124,stanford,Barbara Block,"professor of Biology, Stanford University",10943,87,53,226,185
-125,stanford,Xiaoke Chen,Stanford University,1297,15,14,17,16
-126,stanford,Jonas Cremer,Stanford University,733,15,14,16,15
-127,stanford,Martha S. Cyert,"Professor of Biology, Stanford University",2442,44,26,59,44
-128,stanford,Gretchen C. Daily,"Bing Professor of Environmental Science, Stanford University",39332,112,77,225,185
-129,stanford,José R. Dinneny,"Stanford University, Department of Biology",5043,39,35,54,49
-130,stanford,Rodolfo Dirzo,Biology Professor at Stanford University,21191,78,50,208,161
-131,stanford,Marcus Feldman,"Professor of Biological Sciences, Stanford University",26409,113,70,501,302
-132,stanford,Chris Field,"Director, Woods Institute for the Environment, Stanford University",64144,152,98,353,270
-133,stanford,Hunter Fraser,"Professor of Biology, Stanford",3326,43,33,68,59
-134,stanford,Judith Frydman,Stanford University,8945,72,53,117,103
-135,stanford,Tadashi Fukami,Stanford University,10309,54,47,88,82
-136,stanford,Deborah M Gordon,"Professor, Dept. of Biology, Stanford University",4657,65,38,148,111
-137,stanford,Or Gozani,"Morris Herzstein Professor of Biology, Stanford University",7001,66,47,103,93
-138,stanford,H. Craig Heller,"Professor of Biology and Human Biology, Stanford University",7031,78,37,213,121
-139,stanford,Mary Hynes,Stanford University,1896,28,17,36,23
-140,stanford,Richard Klein,"Professor of Biology, Stanford University",6260,83,37,184,128
-141,stanford,Ron Kopito,"Professor of Biology, Stanford University",7382,74,40,122,81
-142,stanford,Christopher Lowe,"Department of Biology, Stanford University",1945,35,24,52,45
-143,stanford,Liqun Luo,"Professor of Biology, Stanford University",21739,108,75,208,197
-144,stanford,Susan K. McConnell,"Department of Biology, Stanford University",4029,64,36,90,68
-145,stanford,Erin Mordecai,Stanford University,4615,34,33,56,52
-146,stanford,Lauren O'Connell,Stanford University,2816,28,25,49,48
-147,stanford,Stephen Palumbi,Professor of Biology,25257,113,67,247,198
-148,stanford,Kabir Peay,Stanford University,9566,46,44,78,74
-149,stanford,Dmitri Petrov,"Michelle&Kevin Douglas Professor of Biology, Stanford, pdfs are free: http://petrov.stanford.edu",11031,76,59,178,154
-150,stanford,Jonathan Pritchard,Stanford University,57733,105,91,161,142
-151,stanford,Kristy Red-Horse,Stanford University,3413,36,32,45,42
-152,stanford,Noah Rosenberg,Stanford University,17768,62,47,141,115
-153,stanford,Mark J. Schnitzer,"Professor, HHMI Investigator, Stanford University",13051,68,58,111,103
-154,stanford,Molly Schumer,HHMI and Stanford University,1635,19,18,22,21
-155,stanford,Naima G. Sharaf,"Assistant professor of Biology, Stanford University",1892,9,9,9,9
-156,stanford,Carla Shatz,Professor of Biology and Neurobiology Stanford University,5743,94,42,147,91
-157,stanford,Kang Shen,"Graduate Student, Kang Shen Lab, Stanford University",144,4,4,4,4
-158,stanford,Jan Skotheim,"Professor of Biology, Stanford University",5545,40,35,54,52
-159,stanford,Alice Ting,Stanford,13191,67,52,102,91
-160,stanford,Shripad Tuljapurkar,"Professor of Biology, Stanford University",4429,57,37,137,92
-161,stanford,Virginia Walbot,"Professor of Biology, Stanford University",6073,89,39,260,97
+100,Princeton,Britt Adamson,"Assistant Professor, Princeton",6101,21,20,21,21
+101,Princeton,Bonnie L. Bassler,Princeton University,23791,99,73,180,160
+102,Princeton,John F. Brooks II,Princeton University,393,4,4,2,2
+103,Princeton,Rebecca D. Burdine,"Professor of Molecular Biology, Princeton University",2815,40,29,51,48
+104,Princeton,Mohamed S. Donia,"Assistant Professor of Molecular Biology, Princeton University",4404,32,28,40,39
+105,Princeton,Elizabeth R. Gavis,Unknown affiliation,1725,38,23,64,48
+106,Princeton,Zemer Gitai,"Professor of Molecular Biology, Princeton University",5064,47,39,71,65
+107,Princeton,Frederick M. Hughson,"Professor of Molecular Biology, Princeton University",3083,45,27,60,47
+108,Princeton,John R. Jimah,Princeton University,649,10,10,10,10
+109,Princeton,Martin Jonikas,Princeton University and Howard Hughes Medical Institute,2694,26,23,29,29
+110,Princeton,Yibin Kang,"Warner-Lambert/Parke-Davis Professor of Molecular Biology, Princeton University",23018,86,67,166,146
+111,Princeton,Ricardo Mallarino,"Assistant Professor of Molecular Biology, Princeton University",853,14,13,15,14
+112,Princeton,Coleen T. Murphy,"Professor of Genomics & Molecular Biology, Princeton University",5430,43,37,59,55
+113,Princeton,Cameron A. Myhrvold,"Assistant Professor, Princeton University",5007,19,17,21,21
+114,Princeton,Daniel A. Notterman,Princeton University,4391,53,34,108,65
+115,Princeton,Sabine Petry,Princeton University,1830,20,19,21,21
+116,Princeton,Alexander Ploss,"Professor, Department of Molecular Biology, Princeton University",5677,50,40,97,85
+117,Princeton,Thomas J. Silhavy,"professor of molelcular biology, princeton university",10792,110,52,255,153
+118,Princeton,A.J. te Velthuis,"Assistant Professor, Princeton University",3271,28,24,38,34
+119,Princeton,Jared E. Toettcher,"Postdoc, Jared Toettcher (Princeton) & Kazuhiro Aoki (NIBB) Labs",514,9,9,9,9
+120,Princeton,Ned Wingreen,"Professor of Molecular Biology, Princeton University",11719,83,53,197,144
+121,Princeton,Martin H. Wühr,"Lewis-Sigler Institute, Princeton University",4307,26,25,42,41
+122,Stanford,Christopher O. Barnes,Stanford University,8572,34,32,47,47
+123,Stanford,Dominique Bergmann,"Professor of Biology, Stanford University",4923,45,40,74,66
+124,Stanford,Barbara Block,"professor of Biology, Stanford University",10943,87,53,226,185
+125,Stanford,Xiaoke Chen,Stanford University,1297,15,14,17,16
+126,Stanford,Jonas Cremer,Stanford University,733,15,14,16,15
+127,Stanford,Martha S. Cyert,"Professor of Biology, Stanford University",2442,44,26,59,44
+128,Stanford,Gretchen C. Daily,"Bing Professor of Environmental Science, Stanford University",39332,112,77,225,185
+129,Stanford,José R. Dinneny,"Stanford University, Department of Biology",5043,39,35,54,49
+130,Stanford,Rodolfo Dirzo,Biology Professor at Stanford University,21191,78,50,208,161
+131,Stanford,Marcus Feldman,"Professor of Biological Sciences, Stanford University",26409,113,70,501,302
+132,Stanford,Chris Field,"Director, Woods Institute for the Environment, Stanford University",64144,152,98,353,270
+133,Stanford,Hunter Fraser,"Professor of Biology, Stanford",3326,43,33,68,59
+134,Stanford,Judith Frydman,Stanford University,8945,72,53,117,103
+135,Stanford,Tadashi Fukami,Stanford University,10309,54,47,88,82
+136,Stanford,Deborah M Gordon,"Professor, Dept. of Biology, Stanford University",4657,65,38,148,111
+137,Stanford,Or Gozani,"Morris Herzstein Professor of Biology, Stanford University",7001,66,47,103,93
+138,Stanford,H. Craig Heller,"Professor of Biology and Human Biology, Stanford University",7031,78,37,213,121
+139,Stanford,Mary Hynes,Stanford University,1896,28,17,36,23
+140,Stanford,Richard Klein,"Professor of Biology, Stanford University",6260,83,37,184,128
+141,Stanford,Ron Kopito,"Professor of Biology, Stanford University",7382,74,40,122,81
+142,Stanford,Christopher Lowe,"Department of Biology, Stanford University",1945,35,24,52,45
+143,Stanford,Liqun Luo,"Professor of Biology, Stanford University",21739,108,75,208,197
+144,Stanford,Susan K. McConnell,"Department of Biology, Stanford University",4029,64,36,90,68
+145,Stanford,Erin Mordecai,Stanford University,4615,34,33,56,52
+146,Stanford,Lauren O'Connell,Stanford University,2816,28,25,49,48
+147,Stanford,Stephen Palumbi,Professor of Biology,25257,113,67,247,198
+148,Stanford,Kabir Peay,Stanford University,9566,46,44,78,74
+149,Stanford,Dmitri Petrov,"Michelle&Kevin Douglas Professor of Biology, Stanford, pdfs are free: http://petrov.stanford.edu",11031,76,59,178,154
+150,Stanford,Jonathan Pritchard,Stanford University,57733,105,91,161,142
+151,Stanford,Kristy Red-Horse,Stanford University,3413,36,32,45,42
+152,Stanford,Noah Rosenberg,Stanford University,17768,62,47,141,115
+153,Stanford,Mark J. Schnitzer,"Professor, HHMI Investigator, Stanford University",13051,68,58,111,103
+154,Stanford,Molly Schumer,HHMI and Stanford University,1635,19,18,22,21
+155,Stanford,Naima G. Sharaf,"Assistant professor of Biology, Stanford University",1892,9,9,9,9
+156,Stanford,Carla Shatz,Professor of Biology and Neurobiology Stanford University,5743,94,42,147,91
+157,Stanford,Kang Shen,"Graduate Student, Kang Shen Lab, Stanford University",144,4,4,4,4
+158,Stanford,Jan Skotheim,"Professor of Biology, Stanford University",5545,40,35,54,52
+159,Stanford,Alice Ting,Stanford,13191,67,52,102,91
+160,Stanford,Shripad Tuljapurkar,"Professor of Biology, Stanford University",4429,57,37,137,92
+161,Stanford,Virginia Walbot,"Professor of Biology, Stanford University",6073,89,39,260,97
 162,Westlake,Lei Wang,"Bioenergy and Materials Lab (BEM), School of Engineering, Westlake University",1189,19,18,22,22
 163,Westlake,Xianjue Ma,Westlake University,413,12,12,12,12
 164,Westlake,Pavlos SAVVIDIS,"University of Crete, FORTH-IESL, Greece, Westlake University, China",3011,39,30,73,60
@@ -280,3 +280,167 @@
 278,Westlake,Ruihua He,"Associate professor of Physics, Westlake University",2208,26,22,33,29
 279,Westlake,Changxi Zheng,Westlake University,2050,25,21,35,30
 280,Westlake,Xiaorui Zheng,"Assistant Professor, Westlake University",1647,16,15,17,17
+281,THU,liang ge,Tsinghua University,8724,21,20,22,22
+282,THU,tao qinghua,Tsinghua University,6163,35,32,69,66
+283,THU,wei wu,City University of Hong Kong; National Institute of Standards and Technology; Tsinghua University,2530,32,30,65,64
+284,THU,xi qiaoran,Tsinghua University,1277,17,16,21,21
+285,THU,li yu,Tsinghua University,88,5,5,4,4
+286,THU,fan zhou,"Assistant Professor, Tsinghua University",779,7,6,6,6
+287,THU,peng jiang,Tsinghua University,1645,22,18,25,24
+288,THU,peng li,Tsinghua University  清华大学,5320,54,39,76,66
+289,THU,liu wanli,Tsinghua Univ (since 2011.12); NIH (2008-2011.12); UCSF (2005-2008),3530,35,28,69,64
+290,THU,chai jijie,"Tsinghua University, University of Cologne, Max Planck Institute for Plant Breeding Research",8905,64,51,110,103
+291,THU,chen chunlai,Tsinghua University,734,19,15,24,19
+292,THU,sai li,"School of Life Sciences, Tsinghua University",1745,20,17,22,21
+293,THU,li pilong,Tsinghua University/Investigator,2948,22,21,27,26
+294,THU,liu junjie,"The School of Life Sciences, Tsinghua University",1948,21,18,23,22
+295,THU,shi yigong,"Princeton University, Tsinghua University, Westlake University",20520,119,77,209,187
+296,THU,wang jiawei,"School of Life Sciences, Tsinghua University",6727,55,46,75,66
+297,THU,yi xue,Tsinghua University,1560,22,18,31,30
+298,THU,ning yan,Tsinghua University,9735,84,36,180,73
+299,THU,yan yongbin,"Tsinghua University, Beijing",1684,32,21,89,47
+300,THU,chen guoqiang,Tsinghua University,32368,105,75,589,457
+301,THU,nian liu,"Assistant Professor, Tsinghua University",3084,11,11,11,11
+302,THU,zhi lu,"PI, Tsinghua University",11916,35,32,52,49
+303,THU,wang jianbin,Tsinghua University,3494,28,25,38,35
+304,THU,wang haifeng,Tsinghua University,1996,14,14,16,15
+305,THU,wei jie,"Department of Computer Science and Technology, Tsinghua University",42,3,3,1,1
+306,THU,zhang qiangfeng,Tsinghua University,5460,32,31,48,47
+307,THU,kun li,Tsinghua University,467,4,4,4,4
+308,THU,yi lin,"Associate Professor, Department of Automation, Tsinghua University",6050,32,30,63,55
+309,THU,da mi,"School of Life Sciences, Tsinghua University, Beijing, China",814,8,6,7,6
+310,THU,ou guangshuo,Unknown affiliation,1669,30,24,43,39
+311,THU,wei xiong,Tsinghua University,1218,19,16,29,24
+312,THU,jun yao,Tsinghua University,3140,18,15,19,17
+313,THU,wei zhang,Tsinghua University,8324,83,47,188,124
+314,THU,yi zhong,Tsinghua University / RTDS Technologies Inc.,79,6,5,5,4
+315,THU,huang shanjin,"School of Life Sciences, Tsinghua University",1943,37,31,57,54
+316,THU,dong liu,Tsinghua University,1162,15,14,26,22
+317,THU,liu yule,"Professor, School of Life Sciences, Tsinghua University, China",13011,53,43,106,80
+318,THU,qi tiancong,Tsinghua University,3488,21,21,28,28
+319,THU,sun qianwen,"School of Life Sciences, Tsinghua University",1603,18,18,21,21
+320,THU,xie daoxin,"Professor in School of Life Sciences, Tsinghua University",7744,58,46,95,82
+321,PKU,lei li,"PhD of polymer chemistry, Peking University",786,15,14,15,14
+322,PKU,wei wang,"Professor of Institute of Microelectronics, Peking Univeristy",8660,55,47,205,187
+323,PKU,zhi lv,Peking University,1531,22,19,32,25
+324,PKU,luo shujin,"School of Life Sciences, Peking University",1554,20,19,31,26
+325,PKU,cheng li,"Principal Investigator, School of Life Sciences, Peking University, Beijing, China",18203,70,42,136,118
+326,PKU,wei zhang,Peking University,1005,14,12,14,13
+327,PKU,zhen chai,pku,1071,14,14,15,15
+328,PKU,li yulong,"Professor, School of Life Sciences, PKU-IDG/McGovern Institute for Brain Research, PKU-THU Center",3782,31,29,57,56
+329,PKU,yan zhang,Peking University,814,18,14,27,18
+330,PKU,jing yang,"Institute of Biomedical Engineering, Chinese Academy of Medical Science and Peking Union Medical College",1677,29,24,55,49
+331,PKU,xiang yu,"School of Physics, Peking University",496,10,10,11,11
+332,PKU,yu jianing,Peking University,664,11,10,11,10
+333,PKU,qing li,Peking University Cancer Hospital,4759,43,38,95,90
+334,PKU,su xiaodong,BIOPIC  北京大学生命科学学院,4582,39,28,97,68
+335,PKU,wei wensheng,Peking University,2768,27,24,38,35
+336,PKU,bin xia,Peking University,1794,40,21,89,47
+337,PKU,xiao junyu,"School of Life Sciences, Peking University",5142,34,32,49,48
+338,PKU,xu dongyi,Peking University,1717,19,18,22,22
+339,PKU,yi chengqi,"Professor of Biology, Peking University",7545,38,35,61,60
+340,PKU,long li,Peking University,1524,13,13,13,13
+341,PKU,zhe zhang,Peking University,1457,9,9,9,9
+342,PKU,jun liu,"School of Life Sciences, Peking University",5572,21,21,22,22
+343,PKU,di zhang,Peking University,2765,15,14,15,15
+344,PKU,fan bai,"University of Oxford, Osaka University, Peking University",5961,40,39,84,78
+345,PKU,qiang guo,Peking University,1123,13,13,15,15
+346,PKU,sun yujie,peking university university of pennsylvania,3357,36,32,84,69
+347,PKU,xie xiaoliang,Lee Shau Kee Professor of Peking University,25409,121,82,270,219
+348,PKU,yi li,Peking University,690,16,15,19,19
+349,PKU,qu lijia,Peking University,6074,59,44,112,96
+350,PKU,jiao yuling,Peking University,3820,39,35,59,55
+351,PKU,jian lu,"University of Chicago, Cornell University, Peking University",3825,25,22,41,37
+352,PKU,zhang zemin,Peking University,20688,61,49,263,102
+353,PKU,Jackson Champer,"Assistant Professor, Peking University",2518,26,24,35,34
+354,PKU,chen jianguo,"College of Life Sciences, Peking University",1971,34,22,63,40
+355,PKU,jiang zhengfan,Peking University,4960,49,38,81,71
+356,PKU,yan song,Peking University,4029,34,31,65,64
+357,PKU,tang fuchou,"Professor, Peking University",18002,75,70,136,131
+358,PKU,wei tao,Peking University,23,3,3,1,1
+359,PKU,peng du,Peking University,2179,13,13,13,13
+360,PKU,hu jiazhi,"Assistant professor, Peking University",1580,16,16,20,19
+361,PKU,xiong ji,"Assistant Professor, School of Life Science, Peking University",2680,13,13,14,14
+362,PKU,hong wu,Peking University,11069,101,57,155,130
+363,PKU,bo zhang,Unknown affiliation,12121,57,52,363,301
+364,PKU,zheng pengli,"the School of Life Sciences, Peking University",383,11,10,12,10
+365,PKU,ying zhang,Peking University,547,14,11,20,12
+366,SUSTech,Wei Chen,"Professor of Systems Biology, Southern University of Science and Technology",17140,71,57,141,133
+367,SUSTech,Xi Chen,"Department of Biology, Southern University of Science and Technology",2153,19,19,21,21
+368,SUSTech,Tao Dong,Southern University of Science and Technology,2007,24,23,28,26
+369,SUSTech,Ziwei Dai,"Assistant Professor, Southern University of Science and Technology",2472,18,18,26,25
+370,SUSTech,Xin Gong,Southern University of Science and Technology,950,12,12,12,12
+371,SUSTech,Shengtao Hou,SUSTech,1301,35,19,65,44
+372,SUSTech,Hongda Huang,"Department of Biology, Southern University of Science and Technology, Shenzhen, China",1452,21,18,24,22
+373,SUSTech,Ancheng Huang,Southern University of Science and Technology,1051,14,14,14,14
+374,SUSTech,Andrew Hutchins,Southern University of Science and Technology,2581,32,29,51,47
+375,SUSTech,Wenfei Jin,"Associate Professor, Southern University of Science and Technology",1651,20,17,29,27
+376,SUSTech,Yan Li,Southern University of Science and Technology,212,5,5,5,5
+377,SUSTech,Xijun Ou,Southern University of Science and Technology,239,11,9,12,9
+378,SUSTech,Peter Pimpl,"Southern University of Science and Technology (SUSTech), Shenzhen, China",980,23,18,26,21
+379,SUSTech,Feng Rao,Southern University of Science and Technology,999,21,18,23,21
+380,SUSTech,Yi Song,Georgia Southern University,122,6,6,5,4
+381,SUSTech,Zhiyi Wei,South University of Science and Technology of China,1792,36,26,54,48
+382,SUSTech,Zhe Wu,Southern University of Science and Technology,1191,24,19,27,24
+383,SUSTech,Li Zhang,"Department of Biology, School of Life Sciences, Southern University of Science and Technology, China",963,7,7,7,7
+384,SUSTech,Zhang Mingjie,Southern University of Science and Technology,6832,71,43,193,155
+385,SUSTech,Wen Zhou,Southern University of Science and Technology,766,10,10,10,10
+386,SUSTech,Yan Zhao,"Max Planck Insititute of Molecular Genetics, Free University Berlin, Southern University of Science and Technology in China",80,4,4,1,1
+387,SUSTech,Hongmin Zhang,Southern University of Science and Technology,1111,23,19,28,25
+388,SUSTech,Jixian Zhai,"Single-molecule and Single-cell Transcriptomics @SUSTech, China",6059,47,40,65,61
+389,Harvad,Jeeyun Chung,Harvard University,1340,8,8,8,8
+390,Harvad,Philippe Cluzel,Harvard University,1486,23,17,26,22
+391,Harvad,Sean Eddy,HHMI & Harvard University,55248,96,65,140,118
+392,Harvad,Florian Engert,"Professor of Cellular and Molecular Biology, Harvard University",6400,47,40,69,66
+393,Harvad,Cassandra Extavour,"Harvard University, Professor of Organismic and Evolutionary Biology, Professor of Molecular and",2434,34,27,62,55
+394,Harvad,Ethan Garner,Harvard,4841,34,28,46,41
+395,Harvad,Rachelle Gaudet,"Professor of Molecular and Cellular Biology, Harvard University",3628,43,32,66,57
+396,Harvad,Doeke Hekstra,Harvard University,1019,10,9,10,9
+397,Harvad,Takao Hensch,"Professor, Harvard University",11687,66,53,102,90
+398,Harvad,Hopi Hoekstra,"Professor, Harvard University & Investigator, HHMI",9468,55,45,88,78
+399,Harvad,Craig Hunter,"Professor of Molecular and Cellular Biology, Harvard University",2991,48,29,62,51
+400,Harvad,Sam Kunes,"Professor of Molecular and Cellular Biology, Harvard University",284,10,7,10,7
+401,Harvad,Andrew Murray,Harvard University,8107,87,45,171,119
+402,Harvad,Venkatesh Murthy,"Professor of MCB & Director of Center for Brain Science, Harvard University",6566,46,37,82,67
+403,Harvad,David Nelson,"Harvard University, Cornell University",13425,111,55,304,165
+404,Harvad,Ryan Nett,"Assistant Professor, Harvard University",285,7,7,7,7
+405,Harvad,Maxim Prigozhin,"Assistant Professor of Molecular and Cellular Biology and of Applied Physics, Harvard University",270,11,9,11,9
+406,Harvad,Elena Rivas,"Molecular and Cell Biology, Harvard University",2138,20,17,26,21
+407,Harvad,Naoshige Uchida,"Professor of Molecular and Cellular Biology, Harvard University",7966,47,41,58,53
+408,Harvad,Amanda Whipple,"Assistant Professor, Harvard University",1814,13,13,13,13
+409,Harvad,Tianxi Cai,Harvard University,1253,20,18,31,26
+410,Harvad,Paul Catalano,"Sr Lecturer on Biostatistics/Assoc Chair, Dept of Biostatistics and Comp Biology, DFCI",10245,74,51,214,150
+411,Harvad,Brent Coull,"Professor of Biostatistics, Harvard University",22223,99,75,436,386
+412,Harvad,Issa Dahabreh,Harvard School of Public Health,5388,50,41,92,82
+413,Harvad,Francesca Dominici,Professor of Biostatistics,21878,90,70,233,205
+414,Harvad,Rui Duan,Harvard University,557,10,10,11,11
+415,Harvad,Robert Gray,"Professor of Biostatistics, Havard School of Public Health",25568,73,44,181,128
+416,Harvad,Adam Haber,Harvard School of Public Health,3546,13,12,15,13
+417,Harvad,Sebastien Haneuse,Harvard T.H. Chan School of Public Health,6130,45,38,117,106
+418,Harvad,Nima Hejazi,"Assistant Professor of Biostatistics, Chan School of Public Health, Harvard University",942,13,13,14,14
+419,Harvad,Miguel Hernan,"Director, CAUSALab / Professor of Biostatistics and Epidemiology, Harvard T.H. Chan School",57006,120,96,303,277
+420,Harvad,Curtis Huttenhower,"Department of Biostatistics, Harvard School of Public Health",84419,121,113,238,223
+421,Harvad,Rafael A. Irizarry,"Professor, Biostatistics and Computational Biology, Dana-Farber and Harvard",43716,92,67,188,145
+422,Harvad,Peter Kraft,Harvard T.H. Chan School of Public Health,55866,153,113,687,609
+423,Harvad,Erin K. Lake,"Instructor of Biostatistics, Harvard University",7,1,1,0,0
+424,Harvad,Christoph Lange,"Biostatistics Department, Harvard School of Public Health",6692,80,40,244,143
+425,Harvad,Kyu Ha Lee,Harvard T.H. Chan School of Public Health,712,16,16,18,18
+426,Harvad,Liming Liang,Harvard T.H. Chan School of Public Health,27972,82,72,201,197
+427,Harvad,Xihong Lin,Harvard University,38070,96,68,336,274
+428,Harvad,Junwei Lu,"Assistant Professor of Biostatistics, Harvard T.H. Chan School of Public Health",725,14,13,18,17
+429,Harvad,Heather Mattie,Harvard T.H. Chan School of Public Health,432,8,8,6,6
+430,Harvad,Franziska Michor,"Associate Professor of Biostatistics, Harvard University",12076,76,58,156,139
+431,Harvad,Jeffrey Miller,Harvard T.H. Chan School of Public Health,1060,14,13,17,17
+432,Harvad,Rajarshi Mukherjee,Harvard T.H. Chan School of Public Health,382,10,10,10,10
+433,Harvad,Rachel Nethery,"Assistant Professor, Department of Biostatistics, Harvard T.H. Chan School of Public Health",2525,13,13,16,16
+434,Harvad,Donna Neuberg,Dana-Farber Cancer Institute,44929,157,96,583,447
+435,Harvad,JP Onnela,"Associate Professor of Biostatistics, Harvard University",10804,49,46,108,94
+436,Harvad,Giovanni Parmigiani,"Professor Department of Data Science, DFCI",20122,88,59,252,187
+437,Harvad,John Quackenbush,"Harvard T.H. Chan School of Public Health, Channing Division of Network Medicine, and Dana-Farber",26668,107,65,307,222
+438,Harvad,James M. Robins,professor of epidemiology and biostatistics harvard school of public health,40309,129,85,330,274
+439,Harvad,Briana Joy K Stephenson,"Assistant Professor of Biostatistics, Harvard University",129,6,6,5,4
+440,Harvad,Marcia A Testa,"Senior Lecturer on Biostatistics, Harvard University",4692,49,27,114,57
+441,Harvad,Lorenzo Trippa,Harvard and Dana Farber,3922,37,34,80,78
+442,Harvad,Tyler J. VanderWeele,"John L. Loeb and Frances Lehman Loeb Professor of Epidemiology, Harvard University",32217,97,85,338,320
+443,Harvad,L. J. Wei,Harvard Medical School,4477,39,34,88,76
+444,Harvad,Paige L. Williams,Harvard School of Public Health,12805,80,61,351,291
