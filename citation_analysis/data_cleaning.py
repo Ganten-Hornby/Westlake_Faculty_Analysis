@@ -11,12 +11,16 @@ from pathlib import Path
 from tqdm import tqdm, trange
 #%%
 json_file_path={
-    'caltech': Path(r'F:\0_Desktop\Citation_Analysis\result\caltech\caltech_pi_google_scholar_info.json'),
+    'Caltech': Path(r'F:\0_Desktop\Citation_Analysis\result\caltech\caltech_pi_google_scholar_info.json'),
     'JHU':Path(r'F:\0_Desktop\Citation_Analysis\result\JHU\JHU_pi_google_scholar_info.json'),
     'MIT':Path(r'F:\0_Desktop\Citation_Analysis\result\mit\mit_pi_google_scholar_info.json'),
-    'princeton':Path(r'F:\0_Desktop\Citation_Analysis\result\princeton\princeton_faculty_google_scholar_info.json'),
-    'stanford':Path(r'F:\0_Desktop\Citation_Analysis\result\stanford\stanford_pi_google_scholar_info.json'),
+    'Princeton':Path(r'F:\0_Desktop\Citation_Analysis\result\princeton\princeton_faculty_google_scholar_info.json'),
+    'Stanford':Path(r'F:\0_Desktop\Citation_Analysis\result\stanford\stanford_pi_google_scholar_info.json'),
     'Westlake':Path(r'F:\0_Desktop\Citation_Analysis\result\Westlake_pi_google_scholar_info.json'),
+    'THU':Path(r'F:\0_Desktop\Citation_Analysis\result\THU\thu_pi_google_scholar_info.json'),
+    'PKU':Path(r'F:\0_Desktop\Citation_Analysis\result\PKU\pku_pi_google_scholar_info.json'),
+    'SUSTech':Path(r'F:\0_Desktop\Citation_Analysis\result\sustech\sustech_pi_google_scholar_info.json'),
+    'Harvad':Path(r'F:\0_Desktop\Citation_Analysis\result\harvard\harvard_pi_google_scholar_info.json'),
 }
 #%%
 # data format transform
