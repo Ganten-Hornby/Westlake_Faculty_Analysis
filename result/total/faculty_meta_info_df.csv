@@ -161,286 +161,221 @@
 159,Stanford,Alice Ting,Stanford,13191,67,52,102,91
 160,Stanford,Shripad Tuljapurkar,"Professor of Biology, Stanford University",4429,57,37,137,92
 161,Stanford,Virginia Walbot,"Professor of Biology, Stanford University",6073,89,39,260,97
-162,Westlake,Lei Wang,"Bioenergy and Materials Lab (BEM), School of Engineering, Westlake University",1189,19,18,22,22
-163,Westlake,Xianjue Ma,Westlake University,413,12,12,12,12
-164,Westlake,Pavlos SAVVIDIS,"University of Crete, FORTH-IESL, Greece, Westlake University, China",3011,39,30,73,60
-165,Westlake,Congjun Wu,"Chair Professor of Physics,Westlake University, Hangzhou, China",4323,50,35,106,84
-166,Westlake,Yue Zhang,Westlake University,10398,57,55,169,161
-167,Westlake,Lan Li,Westlake University,1569,20,19,26,25
-168,Westlake,Chengchen Guo,Westlake University,1328,21,21,30,30
-169,Westlake,Xing Gu,"Assistant Professor in Mathematics, Westlake University",54,4,4,3,3
-170,Westlake,Stan Z. Li,Westlake University & Chinese Academy of Sciences,30222,133,84,290,223
-171,Westlake,Xing Chang,Westlake University;,1744,24,17,32,23
-172,Westlake,Biaobiao Zhang,"Center of Artificial Photosynthesis for Solar Fuels,​ School of Science, Westlake University",2687,27,26,42,42
-173,Westlake,Zhaobin Wang,Westlake University,1729,20,20,23,23
-174,Westlake,Zixu Liu,Westlake University,1513,7,7,7,7
-175,Westlake,Kai Lei,Westlake University,815,10,10,10,10
-176,Westlake,Jie-Min Jia,"Westlake Institute for Advanced Study, Hangzhou, China",482,10,9,10,8
-177,Westlake,Nanjia Zhou,Westlake University,4314,32,31,43,41
-178,Westlake,Houfeng Zheng,Westlake University,4758,35,31,50,45
-179,Westlake,Xiaofei Li,"Westlake University, China",831,19,18,30,27
-180,Westlake,Zhen Yan,"PI, Westlake University",1847,11,11,12,12
-181,Westlake,Zhubing SHI,Westlake University,1806,20,17,25,21
-182,Westlake,Huaimin Wang,Westlake University,3828,43,36,74,69
-183,Westlake,Tao Lin,Westlake University | EPFL,1894,18,18,22,22
-184,Westlake,Feng Ju,"Environmental Microbiome and Biotechnology Laboratory (EMBLab), Westlake University",3779,28,27,40,39
-185,Westlake,Wenjie Dou,Westlake University,659,16,16,22,22
-186,Westlake,Ruixue Wan,Westlake university,1637,17,16,17,17
-187,Westlake,Licheng Sun,"Chair Professor at Westlake University, China; Professor at KTH, Sweden",33788,121,85,623,497
-188,Westlake,Shiyu Zhao,Westlake University,2081,27,23,48,46
-189,Westlake,Qi Hu,Westlake University,923,13,12,13,12
-190,Westlake,Xiao Lin,Westlake University,1522,24,18,33,23
-191,Westlake,Hang Shi,Westlake University,805,13,13,15,15
-192,Westlake,Dapeng Li,Westlake University,2174,23,22,30,29
-193,Westlake,Jianhui Wang,"Principle Investigator at WESLab, Westlake University, China",2407,19,14,22,19
-194,Westlake,Bobo Dang,Westlake University,651,12,11,13,12
-195,Westlake,Ying Zhen,"Princeton, UCLA, Westlake University",580,13,13,15,15
-196,Westlake,Shi Liu,Westlake University,3146,30,27,47,45
-197,Westlake,Xiao Li,Westlake University,54,4,4,2,2
-198,Westlake,Mingxuan Wu，,Westlake University,770,14,14,15,14
-199,Westlake,Jie Wu,"Professor of Physics, Westlake University",1146,18,14,31,21
-200,Westlake,Liang Lei,Westlake University,659,15,15,17,17
-201,Westlake,Siying Peng,Westlake University,235,7,6,5,4
-202,Westlake,Duanqing Pei,Westlake University,11310,81,52,220,187
-203,Westlake,Qiyang Lu,Westlake University,1440,19,19,25,25
-204,Westlake,Ziyang Zhang,"Associate Professor, Westlake University",997,25,18,53,29
-205,Westlake,Yanxiao ZHANG,Westlake University,2341,18,17,21,21
-206,Westlake,Xiaodong (Ethan) Liu,Westlake University,664,11,11,12,11
+162,Westlake,Zibo Chen,Westlake University,1451,11,11,12,11
+163,Westlake,Jianjun Cheng,"Chair Professor of Materials Science and Engineering, Westlake University",14494,79,65,218,200
+164,Westlake,Feng Ju,"Environmental Microbiome and Biotechnology Laboratory (EMBLab), Westlake University",3779,28,27,40,39
+165,Westlake,Yajie Wang,Westlake University/University of Illinois at Urbana Champaign,1568,14,14,15,15
+166,Westlake,Anping Zeng,"Chair Professor of Synthetic Biology and Bioengineering, Westlake University",6389,71,43,218,152
+167,Westlake,Yongdeng Zhang,Westlake University,1589,19,19,23,22
+168,Westlake,Yue Zhang,Westlake University,10398,57,55,169,161
+169,Westlake,Bobo Dang,Westlake University,651,12,11,13,12
+170,Westlake,Dan Yang,Westlake University,623,8,8,8,8
+171,Westlake,Shang Cai,Westlake University,1168,15,15,15,15
+172,Westlake,Xing Chang,Westlake University;,1744,24,17,32,23
+173,Westlake,Yanmei Dou,Westlake University,496,11,11,12,12
+174,Westlake,Liang Gao,Westlake University,2710,26,21,37,28
+175,Westlake,Tiannan Guo,Westlake University,3287,29,25,53,49
+176,Westlake,Danyang He,Westlake University,623,8,8,8,8
+177,Westlake,Lingjuan He,"School of Life Sciences, Westlake University",2880,33,31,50,50
+178,Westlake,Qi Hu,Westlake University,923,13,12,13,12
+179,Westlake,Jing Huang,"Assistant Professor, Westlake University",6684,25,24,40,36
+180,Westlake,Jie-Min Jia,"Westlake Institute for Advanced Study, Hangzhou, China",482,10,9,10,8
+181,Westlake,Xin JIN,Westlake University,2759,11,10,11,10
+182,Westlake,Zhiqiang KU,Westlake University,3243,22,20,32,31
+183,Westlake,Dapeng Li,Westlake University,2174,23,22,30,29
+184,Westlake,Kai Lei,Westlake University,815,10,10,10,10
+185,Westlake,Xiaobo Li,Westlake University,1286,10,10,10,10
+186,Westlake,Xiaodong (Ethan) Liu,Westlake University,664,11,11,12,11
+187,Westlake,Xu Li,Westlake University,2532,26,22,35,31
+188,Westlake,Changliang Liu,Westlake University,802,15,14,18,17
+189,Westlake,Zixu Liu,Westlake University,1513,7,7,7,7
+190,Westlake,Peilong Lu,Westlake University,1645,16,15,16,15
+191,Westlake,Dan Ma,Westlake University,1109,9,9,9,9
+192,Westlake,Lijia Ma,Westlake University,14944,30,25,35,34
+193,Westlake,Xianjue Ma,Westlake University,413,12,12,12,12
+194,Westlake,Duanqing Pei,Westlake University,11310,81,52,220,187
+195,Westlake,Huaizong Shen,Westlake University,1816,8,8,8,8
+196,Westlake,Yigong Shi,"Princeton University, Tsinghua University, Westlake University",20345,119,76,209,187
+197,Westlake,Zhubing SHI,Westlake University,1806,20,17,25,21
+198,Westlake,Chun-Qing Song，,Westlake University,2484,22,21,24,21
+199,Westlake,Thuan Beng Saw,"Westlake University School of Life Sciences, Hangzhou China",1109,11,10,12,10
+200,Westlake,Yi Sun,"Principal Investigator, Westlake University",6245,14,11,14,12
+201,Westlake,Liang Tao,"Assistant Professor, Westlake University",850,14,14,20,19
+202,Westlake,Ruixue Wan,Westlake university,1637,17,16,17,17
+203,Westlake,Xudong Wu,Westlake University,1207,14,14,15,15
+204,Westlake,Qi Xie,Westlake University,2271,26,26,29,28
+205,Westlake,Zhen Yan,"PI, Westlake University",1847,11,11,12,12
+206,Westlake,Jian Yang,"Professor of Statistical Genetics, Westlake University",57763,102,92,186,177
 207,Westlake,Peiguo Yang,"Westlake University, HangZhou, China",1650,17,16,17,17
-208,Westlake,Enzheng Shi,"Asssitant Professor, Westlake University, School of Engineering",3935,36,31,59,54
-209,Westlake,Xiao Yang,"Assistant Professor, Westlake University",446,16,13,19,18
-210,Westlake,Yilong Zou,Westlake University,3839,19,19,20,20
-211,Westlake,Zhenzhong Lan,"School of Engineering, Westlake University",5640,21,16,31,23
-212,Westlake,Dianyi Liu,"Westlake University, Hangzhou, China",4005,19,18,21,19
-213,Westlake,Rui Wang,"Assistant Professor, School of Engineering, Westlake University",4847,32,32,43,43
-214,Westlake,Lijia Ma,Westlake University,14944,30,25,35,34
-215,Westlake,Jing Huang,"Assistant Professor, Westlake University",6684,25,24,40,36
-216,Westlake,Xin Yuan,"Westlake University, Bell Labs, Duke University, Hong Kong Polytechnic University",5214,41,39,108,96
-217,Westlake,Mohamad Sawan,"Chair Professor, Westlake University, China, and Emeritus Professor, Polytechnique Montréal",6044,54,37,322,158
-218,Westlake,Bing Zhang,"Assistant Professor, Westlake University",1205,11,10,11,10
-219,Westlake,Yongdeng Zhang,Westlake University,1589,19,19,23,22
-220,Westlake,Liaoyong Wen,"School of Engineering, Westlake University",2380,31,27,39,34
-221,Westlake,Yizhou Zhu,School of Engineering,6095,20,20,22,22
-222,Westlake,Yuxi Xu,Westlake University,14378,57,53,87,86
-223,Westlake,Lihan Zhang,Westlake University,428,11,11,11,11
-224,Westlake,Jiaxing Huang,Westlake University,18733,84,65,138,124
-225,Westlake,Peidong Liu,Westlake University,519,14,12,15,14
-226,Westlake,Fajie Yuan,Westlake University,1079,15,15,20,20
-227,Westlake,Changliang Liu,Westlake University,802,15,14,18,17
-228,Westlake,Yanyan Zhang,"Assistant Professor, Westlake University",3434,38,31,48,46
-229,Westlake,Wenxing Yang,"Center of Artificial Photosynthesis for Solar Fuels,​ School of Science, Westlake University",1055,17,17,27,26
-230,Westlake,Dan Ma,Westlake University,1109,9,9,9,9
-231,Westlake,Wenbin Li,Assistant Professor at Westlake University,1928,15,15,20,19
-232,Westlake,Dixia Fan,"Assistant Professor, Westlake University",655,13,13,20,19
-233,Westlake,Zhuchao Ji,"Institute for Theoretical Sciences, Westlake University",10,2,2,0,0
-234,Westlake,Lei Sun,Westlake University,4913,23,22,26,24
-235,Westlake,Yi Sun,"Principal Investigator, Westlake University",6245,14,11,14,12
-236,Westlake,Liang Gao,Westlake University,2710,26,21,37,28
-237,Westlake,Danyang He,Westlake University,623,8,8,8,8
-238,Westlake,Ting Zhou,Westlake University,1306,9,9,9,9
-239,Westlake,Jianjun Cheng,"Chair Professor of Materials Science and Engineering, Westlake University",14494,79,65,218,200
-240,Westlake,Lingjuan He,"School of Life Sciences, Westlake University",2880,33,31,50,50
-241,Westlake,Zhichang Liu,Westlake University,2483,33,26,56,53
-242,Westlake,Ling Li,"Professor of Environmental Hydrology, School of Engineering, Westlake University",5150,53,36,190,143
-243,Westlake,Qi Xie,Westlake University,2271,26,26,29,28
-244,Westlake,Chun-Qing Song，,Westlake University,2484,22,21,24,21
-245,Westlake,Kai Liu,Westlake University,1830,27,25,42,39
-246,Westlake,Thomas Cherico Wanger,"Associate Professor, Westlake University, China",5755,26,22,35,30
-247,Westlake,Shuigang Xu,"Westlake University, University of Manchester, HKUST",2783,26,26,42,39
-248,Westlake,Hongfei Wang,"School of Sciences, Westlake University",3096,45,28,85,73
-249,Westlake,Zhiqiang KU,Westlake University,3243,22,20,32,31
-250,Westlake,Thuan Beng Saw,"Westlake University School of Life Sciences, Hangzhou China",1109,11,10,12,10
-251,Westlake,Yuzhong Zhang,Westlake University,2425,26,26,36,35
-252,Westlake,Xin JIN,Westlake University,2759,11,10,11,10
-253,Westlake,Xiaocheng Jiang,Westlake University,2365,27,20,36,32
-254,Westlake,Anping Zeng,"Chair Professor of Synthetic Biology and Bioengineering, Westlake University",6389,71,43,218,152
-255,Westlake,Tao Wang,"Westlake University, Stanford University, ENS de Lyon, Leibniz Institute for Catalysis",5172,29,27,54,52
-256,Westlake,Tiannan Guo,Westlake University,3287,29,25,53,49
-257,Westlake,Hongtao Yu,"Chair Professor of Cell Biology, School of Life Sciences, Westlake University",8204,80,54,133,121
-258,Westlake,Bowen Zhu,Westlake University,5229,34,34,49,49
-259,Westlake,Zibo Chen,Westlake University,1451,11,11,12,11
-260,Westlake,Liang Tao,"Assistant Professor, Westlake University",850,14,14,20,19
-261,Westlake,Jian Yang,"Professor of Statistical Genetics, Westlake University",57763,102,92,186,177
-262,Westlake,Ju-Sheng Zheng,"School of Life Sciences, Westlake University",3756,35,33,65,63
-263,Westlake,Xiaobo Li,Westlake University,1286,10,10,10,10
-264,Westlake,Huaizong Shen,Westlake University,1816,8,8,8,8
-265,Westlake,Yajie Wang,Westlake University/University of Illinois at Urbana Champaign,1568,14,14,15,15
-266,Westlake,Shang Cai,Westlake University,1168,15,15,15,15
-267,Westlake,Botao Ji,"School of Engineering, Westlake University",463,11,10,12,11
-268,Westlake,Min Qiu,Westlake University,8522,70,47,229,160
-269,Westlake,Dan Yang,Westlake University,623,8,8,8,8
-270,Westlake,Peilong Lu,Westlake University,1645,16,15,16,15
-271,Westlake,Hanqing Jiang,Professor of Mechanical Engineering,10018,65,46,197,157
-272,Westlake,Yanmei Dou,Westlake University,496,11,11,12,12
-273,Westlake,Yigong Shi,"Princeton University, Tsinghua University, Westlake University",20345,119,76,209,187
-274,Westlake,Xudong Wu,Westlake University,1207,14,14,15,15
-275,Westlake,Sergio Andres Galindo Torres,Associate Professor at Westlake University,1277,21,19,38,35
-276,Westlake,Donglin Wang,Westlake University,830,20,16,38,29
-277,Westlake,Xu Li,Westlake University,2532,26,22,35,31
-278,Westlake,Ruihua He,"Associate professor of Physics, Westlake University",2208,26,22,33,29
-279,Westlake,Changxi Zheng,Westlake University,2050,25,21,35,30
-280,Westlake,Xiaorui Zheng,"Assistant Professor, Westlake University",1647,16,15,17,17
-281,THU,liang ge,Tsinghua University,8724,21,20,22,22
-282,THU,tao qinghua,Tsinghua University,6163,35,32,69,66
-283,THU,wei wu,City University of Hong Kong; National Institute of Standards and Technology; Tsinghua University,2530,32,30,65,64
-284,THU,xi qiaoran,Tsinghua University,1277,17,16,21,21
-285,THU,li yu,Tsinghua University,88,5,5,4,4
-286,THU,fan zhou,"Assistant Professor, Tsinghua University",779,7,6,6,6
-287,THU,peng jiang,Tsinghua University,1645,22,18,25,24
-288,THU,peng li,Tsinghua University  清华大学,5320,54,39,76,66
-289,THU,liu wanli,Tsinghua Univ (since 2011.12); NIH (2008-2011.12); UCSF (2005-2008),3530,35,28,69,64
-290,THU,chai jijie,"Tsinghua University, University of Cologne, Max Planck Institute for Plant Breeding Research",8905,64,51,110,103
-291,THU,chen chunlai,Tsinghua University,734,19,15,24,19
-292,THU,sai li,"School of Life Sciences, Tsinghua University",1745,20,17,22,21
-293,THU,li pilong,Tsinghua University/Investigator,2948,22,21,27,26
-294,THU,liu junjie,"The School of Life Sciences, Tsinghua University",1948,21,18,23,22
-295,THU,shi yigong,"Princeton University, Tsinghua University, Westlake University",20520,119,77,209,187
-296,THU,wang jiawei,"School of Life Sciences, Tsinghua University",6727,55,46,75,66
-297,THU,yi xue,Tsinghua University,1560,22,18,31,30
-298,THU,ning yan,Tsinghua University,9735,84,36,180,73
-299,THU,yan yongbin,"Tsinghua University, Beijing",1684,32,21,89,47
-300,THU,chen guoqiang,Tsinghua University,32368,105,75,589,457
-301,THU,nian liu,"Assistant Professor, Tsinghua University",3084,11,11,11,11
-302,THU,zhi lu,"PI, Tsinghua University",11916,35,32,52,49
-303,THU,wang jianbin,Tsinghua University,3494,28,25,38,35
-304,THU,wang haifeng,Tsinghua University,1996,14,14,16,15
-305,THU,wei jie,"Department of Computer Science and Technology, Tsinghua University",42,3,3,1,1
-306,THU,zhang qiangfeng,Tsinghua University,5460,32,31,48,47
-307,THU,kun li,Tsinghua University,467,4,4,4,4
-308,THU,yi lin,"Associate Professor, Department of Automation, Tsinghua University",6050,32,30,63,55
-309,THU,da mi,"School of Life Sciences, Tsinghua University, Beijing, China",814,8,6,7,6
-310,THU,ou guangshuo,Unknown affiliation,1669,30,24,43,39
-311,THU,wei xiong,Tsinghua University,1218,19,16,29,24
-312,THU,jun yao,Tsinghua University,3140,18,15,19,17
-313,THU,wei zhang,Tsinghua University,8324,83,47,188,124
-314,THU,yi zhong,Tsinghua University / RTDS Technologies Inc.,79,6,5,5,4
-315,THU,huang shanjin,"School of Life Sciences, Tsinghua University",1943,37,31,57,54
-316,THU,dong liu,Tsinghua University,1162,15,14,26,22
-317,THU,liu yule,"Professor, School of Life Sciences, Tsinghua University, China",13011,53,43,106,80
-318,THU,qi tiancong,Tsinghua University,3488,21,21,28,28
-319,THU,sun qianwen,"School of Life Sciences, Tsinghua University",1603,18,18,21,21
-320,THU,xie daoxin,"Professor in School of Life Sciences, Tsinghua University",7744,58,46,95,82
-321,PKU,lei li,"PhD of polymer chemistry, Peking University",786,15,14,15,14
-322,PKU,wei wang,"Professor of Institute of Microelectronics, Peking Univeristy",8660,55,47,205,187
-323,PKU,zhi lv,Peking University,1531,22,19,32,25
-324,PKU,luo shujin,"School of Life Sciences, Peking University",1554,20,19,31,26
-325,PKU,cheng li,"Principal Investigator, School of Life Sciences, Peking University, Beijing, China",18203,70,42,136,118
-326,PKU,wei zhang,Peking University,1005,14,12,14,13
-327,PKU,zhen chai,pku,1071,14,14,15,15
-328,PKU,li yulong,"Professor, School of Life Sciences, PKU-IDG/McGovern Institute for Brain Research, PKU-THU Center",3782,31,29,57,56
-329,PKU,yan zhang,Peking University,814,18,14,27,18
-330,PKU,jing yang,"Institute of Biomedical Engineering, Chinese Academy of Medical Science and Peking Union Medical College",1677,29,24,55,49
-331,PKU,xiang yu,"School of Physics, Peking University",496,10,10,11,11
-332,PKU,yu jianing,Peking University,664,11,10,11,10
-333,PKU,qing li,Peking University Cancer Hospital,4759,43,38,95,90
-334,PKU,su xiaodong,BIOPIC  北京大学生命科学学院,4582,39,28,97,68
-335,PKU,wei wensheng,Peking University,2768,27,24,38,35
-336,PKU,bin xia,Peking University,1794,40,21,89,47
-337,PKU,xiao junyu,"School of Life Sciences, Peking University",5142,34,32,49,48
-338,PKU,xu dongyi,Peking University,1717,19,18,22,22
-339,PKU,yi chengqi,"Professor of Biology, Peking University",7545,38,35,61,60
-340,PKU,long li,Peking University,1524,13,13,13,13
-341,PKU,zhe zhang,Peking University,1457,9,9,9,9
-342,PKU,jun liu,"School of Life Sciences, Peking University",5572,21,21,22,22
-343,PKU,di zhang,Peking University,2765,15,14,15,15
-344,PKU,fan bai,"University of Oxford, Osaka University, Peking University",5961,40,39,84,78
-345,PKU,qiang guo,Peking University,1123,13,13,15,15
-346,PKU,sun yujie,peking university university of pennsylvania,3357,36,32,84,69
-347,PKU,xie xiaoliang,Lee Shau Kee Professor of Peking University,25409,121,82,270,219
-348,PKU,yi li,Peking University,690,16,15,19,19
-349,PKU,qu lijia,Peking University,6074,59,44,112,96
-350,PKU,jiao yuling,Peking University,3820,39,35,59,55
-351,PKU,jian lu,"University of Chicago, Cornell University, Peking University",3825,25,22,41,37
-352,PKU,zhang zemin,Peking University,20688,61,49,263,102
-353,PKU,Jackson Champer,"Assistant Professor, Peking University",2518,26,24,35,34
-354,PKU,chen jianguo,"College of Life Sciences, Peking University",1971,34,22,63,40
-355,PKU,jiang zhengfan,Peking University,4960,49,38,81,71
-356,PKU,yan song,Peking University,4029,34,31,65,64
-357,PKU,tang fuchou,"Professor, Peking University",18002,75,70,136,131
-358,PKU,wei tao,Peking University,23,3,3,1,1
-359,PKU,peng du,Peking University,2179,13,13,13,13
-360,PKU,hu jiazhi,"Assistant professor, Peking University",1580,16,16,20,19
-361,PKU,xiong ji,"Assistant Professor, School of Life Science, Peking University",2680,13,13,14,14
-362,PKU,hong wu,Peking University,11069,101,57,155,130
-363,PKU,bo zhang,Unknown affiliation,12121,57,52,363,301
-364,PKU,zheng pengli,"the School of Life Sciences, Peking University",383,11,10,12,10
-365,PKU,ying zhang,Peking University,547,14,11,20,12
-366,SUSTech,Wei Chen,"Professor of Systems Biology, Southern University of Science and Technology",17140,71,57,141,133
-367,SUSTech,Xi Chen,"Department of Biology, Southern University of Science and Technology",2153,19,19,21,21
-368,SUSTech,Tao Dong,Southern University of Science and Technology,2007,24,23,28,26
-369,SUSTech,Ziwei Dai,"Assistant Professor, Southern University of Science and Technology",2472,18,18,26,25
-370,SUSTech,Xin Gong,Southern University of Science and Technology,950,12,12,12,12
-371,SUSTech,Shengtao Hou,SUSTech,1301,35,19,65,44
-372,SUSTech,Hongda Huang,"Department of Biology, Southern University of Science and Technology, Shenzhen, China",1452,21,18,24,22
-373,SUSTech,Ancheng Huang,Southern University of Science and Technology,1051,14,14,14,14
-374,SUSTech,Andrew Hutchins,Southern University of Science and Technology,2581,32,29,51,47
-375,SUSTech,Wenfei Jin,"Associate Professor, Southern University of Science and Technology",1651,20,17,29,27
-376,SUSTech,Yan Li,Southern University of Science and Technology,212,5,5,5,5
-377,SUSTech,Xijun Ou,Southern University of Science and Technology,239,11,9,12,9
-378,SUSTech,Peter Pimpl,"Southern University of Science and Technology (SUSTech), Shenzhen, China",980,23,18,26,21
-379,SUSTech,Feng Rao,Southern University of Science and Technology,999,21,18,23,21
-380,SUSTech,Yi Song,Georgia Southern University,122,6,6,5,4
-381,SUSTech,Zhiyi Wei,South University of Science and Technology of China,1792,36,26,54,48
-382,SUSTech,Zhe Wu,Southern University of Science and Technology,1191,24,19,27,24
-383,SUSTech,Li Zhang,"Department of Biology, School of Life Sciences, Southern University of Science and Technology, China",963,7,7,7,7
-384,SUSTech,Zhang Mingjie,Southern University of Science and Technology,6832,71,43,193,155
-385,SUSTech,Wen Zhou,Southern University of Science and Technology,766,10,10,10,10
-386,SUSTech,Yan Zhao,"Max Planck Insititute of Molecular Genetics, Free University Berlin, Southern University of Science and Technology in China",80,4,4,1,1
-387,SUSTech,Hongmin Zhang,Southern University of Science and Technology,1111,23,19,28,25
-388,SUSTech,Jixian Zhai,"Single-molecule and Single-cell Transcriptomics @SUSTech, China",6059,47,40,65,61
-389,Harvad,Jeeyun Chung,Harvard University,1340,8,8,8,8
-390,Harvad,Philippe Cluzel,Harvard University,1486,23,17,26,22
-391,Harvad,Sean Eddy,HHMI & Harvard University,55248,96,65,140,118
-392,Harvad,Florian Engert,"Professor of Cellular and Molecular Biology, Harvard University",6400,47,40,69,66
-393,Harvad,Cassandra Extavour,"Harvard University, Professor of Organismic and Evolutionary Biology, Professor of Molecular and",2434,34,27,62,55
-394,Harvad,Ethan Garner,Harvard,4841,34,28,46,41
-395,Harvad,Rachelle Gaudet,"Professor of Molecular and Cellular Biology, Harvard University",3628,43,32,66,57
-396,Harvad,Doeke Hekstra,Harvard University,1019,10,9,10,9
-397,Harvad,Takao Hensch,"Professor, Harvard University",11687,66,53,102,90
-398,Harvad,Hopi Hoekstra,"Professor, Harvard University & Investigator, HHMI",9468,55,45,88,78
-399,Harvad,Craig Hunter,"Professor of Molecular and Cellular Biology, Harvard University",2991,48,29,62,51
-400,Harvad,Sam Kunes,"Professor of Molecular and Cellular Biology, Harvard University",284,10,7,10,7
-401,Harvad,Andrew Murray,Harvard University,8107,87,45,171,119
-402,Harvad,Venkatesh Murthy,"Professor of MCB & Director of Center for Brain Science, Harvard University",6566,46,37,82,67
-403,Harvad,David Nelson,"Harvard University, Cornell University",13425,111,55,304,165
-404,Harvad,Ryan Nett,"Assistant Professor, Harvard University",285,7,7,7,7
-405,Harvad,Maxim Prigozhin,"Assistant Professor of Molecular and Cellular Biology and of Applied Physics, Harvard University",270,11,9,11,9
-406,Harvad,Elena Rivas,"Molecular and Cell Biology, Harvard University",2138,20,17,26,21
-407,Harvad,Naoshige Uchida,"Professor of Molecular and Cellular Biology, Harvard University",7966,47,41,58,53
-408,Harvad,Amanda Whipple,"Assistant Professor, Harvard University",1814,13,13,13,13
-409,Harvad,Tianxi Cai,Harvard University,1253,20,18,31,26
-410,Harvad,Paul Catalano,"Sr Lecturer on Biostatistics/Assoc Chair, Dept of Biostatistics and Comp Biology, DFCI",10245,74,51,214,150
-411,Harvad,Brent Coull,"Professor of Biostatistics, Harvard University",22223,99,75,436,386
-412,Harvad,Issa Dahabreh,Harvard School of Public Health,5388,50,41,92,82
-413,Harvad,Francesca Dominici,Professor of Biostatistics,21878,90,70,233,205
-414,Harvad,Rui Duan,Harvard University,557,10,10,11,11
-415,Harvad,Robert Gray,"Professor of Biostatistics, Havard School of Public Health",25568,73,44,181,128
-416,Harvad,Adam Haber,Harvard School of Public Health,3546,13,12,15,13
-417,Harvad,Sebastien Haneuse,Harvard T.H. Chan School of Public Health,6130,45,38,117,106
-418,Harvad,Nima Hejazi,"Assistant Professor of Biostatistics, Chan School of Public Health, Harvard University",942,13,13,14,14
-419,Harvad,Miguel Hernan,"Director, CAUSALab / Professor of Biostatistics and Epidemiology, Harvard T.H. Chan School",57006,120,96,303,277
-420,Harvad,Curtis Huttenhower,"Department of Biostatistics, Harvard School of Public Health",84419,121,113,238,223
-421,Harvad,Rafael A. Irizarry,"Professor, Biostatistics and Computational Biology, Dana-Farber and Harvard",43716,92,67,188,145
-422,Harvad,Peter Kraft,Harvard T.H. Chan School of Public Health,55866,153,113,687,609
-423,Harvad,Erin K. Lake,"Instructor of Biostatistics, Harvard University",7,1,1,0,0
-424,Harvad,Christoph Lange,"Biostatistics Department, Harvard School of Public Health",6692,80,40,244,143
-425,Harvad,Kyu Ha Lee,Harvard T.H. Chan School of Public Health,712,16,16,18,18
-426,Harvad,Liming Liang,Harvard T.H. Chan School of Public Health,27972,82,72,201,197
-427,Harvad,Xihong Lin,Harvard University,38070,96,68,336,274
-428,Harvad,Junwei Lu,"Assistant Professor of Biostatistics, Harvard T.H. Chan School of Public Health",725,14,13,18,17
-429,Harvad,Heather Mattie,Harvard T.H. Chan School of Public Health,432,8,8,6,6
-430,Harvad,Franziska Michor,"Associate Professor of Biostatistics, Harvard University",12076,76,58,156,139
-431,Harvad,Jeffrey Miller,Harvard T.H. Chan School of Public Health,1060,14,13,17,17
-432,Harvad,Rajarshi Mukherjee,Harvard T.H. Chan School of Public Health,382,10,10,10,10
-433,Harvad,Rachel Nethery,"Assistant Professor, Department of Biostatistics, Harvard T.H. Chan School of Public Health",2525,13,13,16,16
-434,Harvad,Donna Neuberg,Dana-Farber Cancer Institute,44929,157,96,583,447
-435,Harvad,JP Onnela,"Associate Professor of Biostatistics, Harvard University",10804,49,46,108,94
-436,Harvad,Giovanni Parmigiani,"Professor Department of Data Science, DFCI",20122,88,59,252,187
-437,Harvad,John Quackenbush,"Harvard T.H. Chan School of Public Health, Channing Division of Network Medicine, and Dana-Farber",26668,107,65,307,222
-438,Harvad,James M. Robins,professor of epidemiology and biostatistics harvard school of public health,40309,129,85,330,274
-439,Harvad,Briana Joy K Stephenson,"Assistant Professor of Biostatistics, Harvard University",129,6,6,5,4
-440,Harvad,Marcia A Testa,"Senior Lecturer on Biostatistics, Harvard University",4692,49,27,114,57
-441,Harvad,Lorenzo Trippa,Harvard and Dana Farber,3922,37,34,80,78
-442,Harvad,Tyler J. VanderWeele,"John L. Loeb and Frances Lehman Loeb Professor of Epidemiology, Harvard University",32217,97,85,338,320
-443,Harvad,L. J. Wei,Harvard Medical School,4477,39,34,88,76
-444,Harvad,Paige L. Williams,Harvard School of Public Health,12805,80,61,351,291
+208,Westlake,Hongtao Yu,"Chair Professor of Cell Biology, School of Life Sciences, Westlake University",8204,80,54,133,121
+209,Westlake,Bing Zhang,"Assistant Professor, Westlake University",1205,11,10,11,10
+210,Westlake,Yanxiao ZHANG,Westlake University,2341,18,17,21,21
+211,Westlake,Ying Zhen,"Princeton, UCLA, Westlake University",580,13,13,15,15
+212,Westlake,Houfeng Zheng,Westlake University,4758,35,31,50,45
+213,Westlake,Ju-Sheng Zheng,"School of Life Sciences, Westlake University",3756,35,33,65,63
+214,Westlake,Ting Zhou,Westlake University,1306,9,9,9,9
+215,Westlake,Yilong Zou,Westlake University,3839,19,19,20,20
+216,THU,liang ge,Tsinghua University,8724,21,20,22,22
+217,THU,tao qinghua,Tsinghua University,6163,35,32,69,66
+218,THU,wei wu,City University of Hong Kong; National Institute of Standards and Technology; Tsinghua University,2530,32,30,65,64
+219,THU,xi qiaoran,Tsinghua University,1277,17,16,21,21
+220,THU,li yu,Tsinghua University,88,5,5,4,4
+221,THU,fan zhou,"Assistant Professor, Tsinghua University",779,7,6,6,6
+222,THU,peng jiang,Tsinghua University,1645,22,18,25,24
+223,THU,peng li,Tsinghua University  清华大学,5320,54,39,76,66
+224,THU,liu wanli,Tsinghua Univ (since 2011.12); NIH (2008-2011.12); UCSF (2005-2008),3530,35,28,69,64
+225,THU,chai jijie,"Tsinghua University, University of Cologne, Max Planck Institute for Plant Breeding Research",8905,64,51,110,103
+226,THU,chen chunlai,Tsinghua University,734,19,15,24,19
+227,THU,sai li,"School of Life Sciences, Tsinghua University",1745,20,17,22,21
+228,THU,li pilong,Tsinghua University/Investigator,2948,22,21,27,26
+229,THU,liu junjie,"The School of Life Sciences, Tsinghua University",1948,21,18,23,22
+230,THU,shi yigong,"Princeton University, Tsinghua University, Westlake University",20520,119,77,209,187
+231,THU,wang jiawei,"School of Life Sciences, Tsinghua University",6727,55,46,75,66
+232,THU,yi xue,Tsinghua University,1560,22,18,31,30
+233,THU,ning yan,Tsinghua University,9735,84,36,180,73
+234,THU,yan yongbin,"Tsinghua University, Beijing",1684,32,21,89,47
+235,THU,chen guoqiang,Tsinghua University,32368,105,75,589,457
+236,THU,nian liu,"Assistant Professor, Tsinghua University",3084,11,11,11,11
+237,THU,zhi lu,"PI, Tsinghua University",11916,35,32,52,49
+238,THU,wang jianbin,Tsinghua University,3494,28,25,38,35
+239,THU,wang haifeng,Tsinghua University,1996,14,14,16,15
+240,THU,wei jie,"Department of Computer Science and Technology, Tsinghua University",42,3,3,1,1
+241,THU,zhang qiangfeng,Tsinghua University,5460,32,31,48,47
+242,THU,kun li,Tsinghua University,467,4,4,4,4
+243,THU,yi lin,"Associate Professor, Department of Automation, Tsinghua University",6050,32,30,63,55
+244,THU,da mi,"School of Life Sciences, Tsinghua University, Beijing, China",814,8,6,7,6
+245,THU,ou guangshuo,Unknown affiliation,1669,30,24,43,39
+246,THU,wei xiong,Tsinghua University,1218,19,16,29,24
+247,THU,jun yao,Tsinghua University,3140,18,15,19,17
+248,THU,wei zhang,Tsinghua University,8324,83,47,188,124
+249,THU,yi zhong,Tsinghua University / RTDS Technologies Inc.,79,6,5,5,4
+250,THU,huang shanjin,"School of Life Sciences, Tsinghua University",1943,37,31,57,54
+251,THU,dong liu,Tsinghua University,1162,15,14,26,22
+252,THU,liu yule,"Professor, School of Life Sciences, Tsinghua University, China",13011,53,43,106,80
+253,THU,qi tiancong,Tsinghua University,3488,21,21,28,28
+254,THU,sun qianwen,"School of Life Sciences, Tsinghua University",1603,18,18,21,21
+255,THU,xie daoxin,"Professor in School of Life Sciences, Tsinghua University",7744,58,46,95,82
+256,PKU,lei li,"PhD of polymer chemistry, Peking University",786,15,14,15,14
+257,PKU,wei wang,"Professor of Institute of Microelectronics, Peking Univeristy",8660,55,47,205,187
+258,PKU,zhi lv,Peking University,1531,22,19,32,25
+259,PKU,luo shujin,"School of Life Sciences, Peking University",1554,20,19,31,26
+260,PKU,cheng li,"Principal Investigator, School of Life Sciences, Peking University, Beijing, China",18203,70,42,136,118
+261,PKU,wei zhang,Peking University,1005,14,12,14,13
+262,PKU,zhen chai,pku,1071,14,14,15,15
+263,PKU,li yulong,"Professor, School of Life Sciences, PKU-IDG/McGovern Institute for Brain Research, PKU-THU Center",3782,31,29,57,56
+264,PKU,yan zhang,Peking University,814,18,14,27,18
+265,PKU,jing yang,"Institute of Biomedical Engineering, Chinese Academy of Medical Science and Peking Union Medical College",1677,29,24,55,49
+266,PKU,xiang yu,"School of Physics, Peking University",496,10,10,11,11
+267,PKU,yu jianing,Peking University,664,11,10,11,10
+268,PKU,qing li,Peking University Cancer Hospital,4759,43,38,95,90
+269,PKU,su xiaodong,BIOPIC  北京大学生命科学学院,4582,39,28,97,68
+270,PKU,wei wensheng,Peking University,2768,27,24,38,35
+271,PKU,bin xia,Peking University,1794,40,21,89,47
+272,PKU,xiao junyu,"School of Life Sciences, Peking University",5142,34,32,49,48
+273,PKU,xu dongyi,Peking University,1717,19,18,22,22
+274,PKU,yi chengqi,"Professor of Biology, Peking University",7545,38,35,61,60
+275,PKU,long li,Peking University,1524,13,13,13,13
+276,PKU,zhe zhang,Peking University,1457,9,9,9,9
+277,PKU,jun liu,"School of Life Sciences, Peking University",5572,21,21,22,22
+278,PKU,di zhang,Peking University,2765,15,14,15,15
+279,PKU,fan bai,"University of Oxford, Osaka University, Peking University",5961,40,39,84,78
+280,PKU,qiang guo,Peking University,1123,13,13,15,15
+281,PKU,sun yujie,peking university university of pennsylvania,3357,36,32,84,69
+282,PKU,xie xiaoliang,Lee Shau Kee Professor of Peking University,25409,121,82,270,219
+283,PKU,yi li,Peking University,690,16,15,19,19
+284,PKU,qu lijia,Peking University,6074,59,44,112,96
+285,PKU,jiao yuling,Peking University,3820,39,35,59,55
+286,PKU,jian lu,"University of Chicago, Cornell University, Peking University",3825,25,22,41,37
+287,PKU,zhang zemin,Peking University,20688,61,49,263,102
+288,PKU,Jackson Champer,"Assistant Professor, Peking University",2518,26,24,35,34
+289,PKU,chen jianguo,"College of Life Sciences, Peking University",1971,34,22,63,40
+290,PKU,jiang zhengfan,Peking University,4960,49,38,81,71
+291,PKU,yan song,Peking University,4029,34,31,65,64
+292,PKU,tang fuchou,"Professor, Peking University",18002,75,70,136,131
+293,PKU,wei tao,Peking University,23,3,3,1,1
+294,PKU,peng du,Peking University,2179,13,13,13,13
+295,PKU,hu jiazhi,"Assistant professor, Peking University",1580,16,16,20,19
+296,PKU,xiong ji,"Assistant Professor, School of Life Science, Peking University",2680,13,13,14,14
+297,PKU,hong wu,Peking University,11069,101,57,155,130
+298,PKU,bo zhang,Unknown affiliation,12121,57,52,363,301
+299,PKU,zheng pengli,"the School of Life Sciences, Peking University",383,11,10,12,10
+300,PKU,ying zhang,Peking University,547,14,11,20,12
+301,SUSTech,Wei Chen,"Professor of Systems Biology, Southern University of Science and Technology",17140,71,57,141,133
+302,SUSTech,Xi Chen,"Department of Biology, Southern University of Science and Technology",2153,19,19,21,21
+303,SUSTech,Tao Dong,Southern University of Science and Technology,2007,24,23,28,26
+304,SUSTech,Ziwei Dai,"Assistant Professor, Southern University of Science and Technology",2472,18,18,26,25
+305,SUSTech,Xin Gong,Southern University of Science and Technology,950,12,12,12,12
+306,SUSTech,Shengtao Hou,SUSTech,1301,35,19,65,44
+307,SUSTech,Hongda Huang,"Department of Biology, Southern University of Science and Technology, Shenzhen, China",1452,21,18,24,22
+308,SUSTech,Ancheng Huang,Southern University of Science and Technology,1051,14,14,14,14
+309,SUSTech,Andrew Hutchins,Southern University of Science and Technology,2581,32,29,51,47
+310,SUSTech,Wenfei Jin,"Associate Professor, Southern University of Science and Technology",1651,20,17,29,27
+311,SUSTech,Yan Li,Southern University of Science and Technology,212,5,5,5,5
+312,SUSTech,Xijun Ou,Southern University of Science and Technology,239,11,9,12,9
+313,SUSTech,Peter Pimpl,"Southern University of Science and Technology (SUSTech), Shenzhen, China",980,23,18,26,21
+314,SUSTech,Feng Rao,Southern University of Science and Technology,999,21,18,23,21
+315,SUSTech,Yi Song,Georgia Southern University,122,6,6,5,4
+316,SUSTech,Zhiyi Wei,South University of Science and Technology of China,1792,36,26,54,48
+317,SUSTech,Zhe Wu,Southern University of Science and Technology,1191,24,19,27,24
+318,SUSTech,Li Zhang,"Department of Biology, School of Life Sciences, Southern University of Science and Technology, China",963,7,7,7,7
+319,SUSTech,Zhang Mingjie,Southern University of Science and Technology,6832,71,43,193,155
+320,SUSTech,Wen Zhou,Southern University of Science and Technology,766,10,10,10,10
+321,SUSTech,Yan Zhao,"Max Planck Insititute of Molecular Genetics, Free University Berlin, Southern University of Science and Technology in China",80,4,4,1,1
+322,SUSTech,Hongmin Zhang,Southern University of Science and Technology,1111,23,19,28,25
+323,SUSTech,Jixian Zhai,"Single-molecule and Single-cell Transcriptomics @SUSTech, China",6059,47,40,65,61
+324,Harvad,Jeeyun Chung,Harvard University,1340,8,8,8,8
+325,Harvad,Philippe Cluzel,Harvard University,1486,23,17,26,22
+326,Harvad,Sean Eddy,HHMI & Harvard University,55248,96,65,140,118
+327,Harvad,Florian Engert,"Professor of Cellular and Molecular Biology, Harvard University",6400,47,40,69,66
+328,Harvad,Cassandra Extavour,"Harvard University, Professor of Organismic and Evolutionary Biology, Professor of Molecular and",2434,34,27,62,55
+329,Harvad,Ethan Garner,Harvard,4841,34,28,46,41
+330,Harvad,Rachelle Gaudet,"Professor of Molecular and Cellular Biology, Harvard University",3628,43,32,66,57
+331,Harvad,Doeke Hekstra,Harvard University,1019,10,9,10,9
+332,Harvad,Takao Hensch,"Professor, Harvard University",11687,66,53,102,90
+333,Harvad,Hopi Hoekstra,"Professor, Harvard University & Investigator, HHMI",9468,55,45,88,78
+334,Harvad,Craig Hunter,"Professor of Molecular and Cellular Biology, Harvard University",2991,48,29,62,51
+335,Harvad,Sam Kunes,"Professor of Molecular and Cellular Biology, Harvard University",284,10,7,10,7
+336,Harvad,Andrew Murray,Harvard University,8107,87,45,171,119
+337,Harvad,Venkatesh Murthy,"Professor of MCB & Director of Center for Brain Science, Harvard University",6566,46,37,82,67
+338,Harvad,David Nelson,"Harvard University, Cornell University",13425,111,55,304,165
+339,Harvad,Ryan Nett,"Assistant Professor, Harvard University",285,7,7,7,7
+340,Harvad,Maxim Prigozhin,"Assistant Professor of Molecular and Cellular Biology and of Applied Physics, Harvard University",270,11,9,11,9
+341,Harvad,Elena Rivas,"Molecular and Cell Biology, Harvard University",2138,20,17,26,21
+342,Harvad,Naoshige Uchida,"Professor of Molecular and Cellular Biology, Harvard University",7966,47,41,58,53
+343,Harvad,Amanda Whipple,"Assistant Professor, Harvard University",1814,13,13,13,13
+344,Harvad,Tianxi Cai,Harvard University,1253,20,18,31,26
+345,Harvad,Paul Catalano,"Sr Lecturer on Biostatistics/Assoc Chair, Dept of Biostatistics and Comp Biology, DFCI",10245,74,51,214,150
+346,Harvad,Brent Coull,"Professor of Biostatistics, Harvard University",22223,99,75,436,386
+347,Harvad,Issa Dahabreh,Harvard School of Public Health,5388,50,41,92,82
+348,Harvad,Francesca Dominici,Professor of Biostatistics,21878,90,70,233,205
+349,Harvad,Rui Duan,Harvard University,557,10,10,11,11
+350,Harvad,Robert Gray,"Professor of Biostatistics, Havard School of Public Health",25568,73,44,181,128
+351,Harvad,Adam Haber,Harvard School of Public Health,3546,13,12,15,13
+352,Harvad,Sebastien Haneuse,Harvard T.H. Chan School of Public Health,6130,45,38,117,106
+353,Harvad,Nima Hejazi,"Assistant Professor of Biostatistics, Chan School of Public Health, Harvard University",942,13,13,14,14
+354,Harvad,Miguel Hernan,"Director, CAUSALab / Professor of Biostatistics and Epidemiology, Harvard T.H. Chan School",57006,120,96,303,277
+355,Harvad,Curtis Huttenhower,"Department of Biostatistics, Harvard School of Public Health",84419,121,113,238,223
+356,Harvad,Rafael A. Irizarry,"Professor, Biostatistics and Computational Biology, Dana-Farber and Harvard",43716,92,67,188,145
+357,Harvad,Peter Kraft,Harvard T.H. Chan School of Public Health,55866,153,113,687,609
+358,Harvad,Erin K. Lake,"Instructor of Biostatistics, Harvard University",7,1,1,0,0
+359,Harvad,Christoph Lange,"Biostatistics Department, Harvard School of Public Health",6692,80,40,244,143
+360,Harvad,Kyu Ha Lee,Harvard T.H. Chan School of Public Health,712,16,16,18,18
+361,Harvad,Liming Liang,Harvard T.H. Chan School of Public Health,27972,82,72,201,197
+362,Harvad,Xihong Lin,Harvard University,38070,96,68,336,274
+363,Harvad,Junwei Lu,"Assistant Professor of Biostatistics, Harvard T.H. Chan School of Public Health",725,14,13,18,17
+364,Harvad,Heather Mattie,Harvard T.H. Chan School of Public Health,432,8,8,6,6
+365,Harvad,Franziska Michor,"Associate Professor of Biostatistics, Harvard University",12076,76,58,156,139
+366,Harvad,Jeffrey Miller,Harvard T.H. Chan School of Public Health,1060,14,13,17,17
+367,Harvad,Rajarshi Mukherjee,Harvard T.H. Chan School of Public Health,382,10,10,10,10
+368,Harvad,Rachel Nethery,"Assistant Professor, Department of Biostatistics, Harvard T.H. Chan School of Public Health",2525,13,13,16,16
+369,Harvad,Donna Neuberg,Dana-Farber Cancer Institute,44929,157,96,583,447
+370,Harvad,JP Onnela,"Associate Professor of Biostatistics, Harvard University",10804,49,46,108,94
+371,Harvad,Giovanni Parmigiani,"Professor Department of Data Science, DFCI",20122,88,59,252,187
+372,Harvad,John Quackenbush,"Harvard T.H. Chan School of Public Health, Channing Division of Network Medicine, and Dana-Farber",26668,107,65,307,222
+373,Harvad,James M. Robins,professor of epidemiology and biostatistics harvard school of public health,40309,129,85,330,274
+374,Harvad,Briana Joy K Stephenson,"Assistant Professor of Biostatistics, Harvard University",129,6,6,5,4
+375,Harvad,Marcia A Testa,"Senior Lecturer on Biostatistics, Harvard University",4692,49,27,114,57
+376,Harvad,Lorenzo Trippa,Harvard and Dana Farber,3922,37,34,80,78
+377,Harvad,Tyler J. VanderWeele,"John L. Loeb and Frances Lehman Loeb Professor of Epidemiology, Harvard University",32217,97,85,338,320
+378,Harvad,L. J. Wei,Harvard Medical School,4477,39,34,88,76
+379,Harvad,Paige L. Williams,Harvard School of Public Health,12805,80,61,351,291
